@@ -1,0 +1,9 @@
+DangerType: None
+Clouds: 0
+Palette: 28
+EffectColorA: 18
+EffectColorB: 13
+Effects: SkyAndLightBloom-0-30-30, DayNight-0.9768-314-34, LightBurn-0.5103939-325.2156-175.8094, 
+PlacedObjects: InsectGroup><632.55><303.3063><0~100~0~0~RockFlea~0.1195652, InsectGroup><665.9153><1161.888><-127~174~0~0~Moth~0.1521739, InsectGroup><706.7393><1762.2><-12~134~0~0~Moth~0.2282609, LightSource><627.8587><1872.358><0.2173913~Environment~-160~260~50~86.60254~1~1~None~0~0, LightSource><622.5601><1142.063><0.1413043~Environment~-191~195~115~-295.3975~1~1~None~0~0, LightSource><614.6819><668.6669><0.09782609~Environment~-69~334~84~-76.39746~1~1~None~0~0, LightSource><488.542><323.6956><0.423913~EffectColor1~0~100~50~86.60254~1~0~None~0~0, LightSource><486.8086><1261.559><0.6195652~EffectColor1~0~100~50~86.60254~1~0~None~0~0, DayNightSettings><0.06799322><1953.562><150~74.66025~3~46, 
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><78.69238><394.1954><0.326087><1><246.6924><157.1954><124.6447><-14.35535><0><0.6652173, SPOT><AM_WIN-StrongWnd2.ogg><320.3132><319.6898><0.5434783><1><612.3132><2189.69><-19.35535><-78.35535><0><1, OMNI><Mech Multiactive Highpass.wav><748.3029><272.716><0.1521739><0.9413043, OMNI><SO_IND-Turbine.ogg><724.1999><197.2437><0.3369565><1, 
+FadePalette: 2, 0.2173913, 0.2282609, 0.25

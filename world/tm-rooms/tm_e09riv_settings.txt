@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: FloodAndRain
+RainIntensity: 0.8586956
+RumbleIntensity: 0.4782609
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.05434782
+Grime: 0.1630435
+WaterReflectionAlpha: 0.3695652
+Palette: 105
+EffectColorA: 14
+EffectColorB: 6
+Effects: Flies-0.04347826-19-78, TinyDragonFly-0.09782609-314-75, LightBurn-0.4021739-20-20, 
+PlacedObjects: GlowWeed><524.1998><322.7423><0~0~2~3, GlowWeed><476.8928><379.5811><0~0~2~3, GlowWeed><395.0806><346.567><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><49.05322><336.2857><0.5><1, OMNI><AM_ENV-Pasture.ogg><48.57251><260.0921><0.4021739><1, 
+FadePalette: 10, 0.8369565

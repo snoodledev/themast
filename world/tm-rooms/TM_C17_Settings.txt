@@ -1,0 +1,11 @@
+Template: TM_SettingsTemplate_Outside
+CeilingDrips: 0.1195652
+RainIntensity: 0.06521739
+RumbleIntensity: 0.1630435
+Clouds: 0.1521739
+RandomItemDensity: 0.5
+Effects: Fog-0.6956522-19-13, AboveCloudsView-1-1072-506, DayNight-0.8913044-1074-453, SkyDandelions-0.173913-279-13, 
+PlacedObjects: DandelionPatch><865.5605><277.3094><-3~98, DandelionPatch><124.0354><1712.803><0~116, DandelionPatch><700.6968><2086.464><-10~83, DataPearl><161.2531><248.55><0~0~0~0~Misc~0, DayNightSettings><368.9278><1998.158><5~8.660254~3~46, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><428.332><272.8915><0.1630438><0.3543483, OMNI><AM_IND-Utility01.ogg><715.4484><370.7752><0.09782609><0.7652174, SPOT><AM_WIN-HowlingWnd.ogg><714.575><88.0968><0.2173913><1><1191.575><1191.097><-75.35535><-34.35535><0><0.4804342, SPOT><AM_WIN-HowlingWnd.ogg><298.8973><204.4216><0.2282609><1><1102.897><326.4216><-47.35535><-25.35535><0><0.2847827, SPOT><AM_IND-ElectricHum01.ogg><706.0502><297.242><0.1521739><0.823913><452.0502><635.2421><-24.35535><-28.35535><0><0.1217393, 
+FadePalette: 105, 0.1893793, 0.2901268, 0.3630776
+WetTerrain: OFF

@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: FloodAndRain
+RainIntensity: 0.8586956
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.05434782
+Grime: 0.1630435
+WaterReflectionAlpha: 0.3695652
+Palette: 105
+EffectColorA: 14
+EffectColorB: 6
+Effects: Flies-0.04347826-19-78, TinyDragonFly-0.09782609-314-75, LightBurn-0.06521739-20-20, 
+PlacedObjects: LightSource><448.9788><360.3011><0.08695652~Environment~-94~190~-589~211.6025~1~1, CustomDecal><395.812><243.8184><-43~387~162~390~152~36~-453~-16~0.3152174~1~0~Scav Wedges3(vert)~0.3804348~0.05434782~0.6195652~0.05434782~0.3586957~0.05434782~0.5434783~0.05434782, LanternOnStick><532.3627><426.5848><28~-150, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><49.05322><336.2857><0.3913043><1, OMNI><AM_ENV-Pasture.ogg><48.57251><260.0921><0.1847826><1, OMNI><SO_NAT-LilDrips.ogg><50.591><429.6213><0.1413043><1, 
+FadePalette: 10, 0.5978261

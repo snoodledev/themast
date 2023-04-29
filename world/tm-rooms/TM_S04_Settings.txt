@@ -1,0 +1,5 @@
+RainIntensity: 0.6086956
+Clouds: 0.02173913
+Effects: SkyAndLightBloom-0.1413043-24-18, 
+PlacedObjects: LightSource><530.4896><62.69971><0.09782609~Environment~-215~212~50~86.60254~1~1, 
+FadePalette: 3, 0.5434783

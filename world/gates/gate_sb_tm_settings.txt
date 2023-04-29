@@ -1,0 +1,8 @@
+Template: NONE
+BkgDroneVolume: 0
+Palette: 10
+EffectColorA: 19
+EffectColorB: 6
+PlacedObjects: LightSource><230.4388><363.434><0.5217391~EffectColor1~-85~138~50~86.60254~1~0~Flash~0.3043478~0, LightSource><731.1127><360.3954><0.3913043~EffectColor1~-13~119~-280~181.6025~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><93.16589><514.1815><0.4021739><1, OMNI><Deep Weird Wind.wav><90.68951><431.4362><0.1413043><0.4326087, OMNI><AM_IND-Utility02.ogg><737.7783><462.448><0.3369565><0.3934783, 
+FadePalette: 105, 0.2282609

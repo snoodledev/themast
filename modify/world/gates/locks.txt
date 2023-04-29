@@ -1,0 +1,3 @@
+[ADD]GATE_SI_TM : 2 : 4
+[ADD]GATE_SB_TM : 2 : 4
+[ADD]GATE_BL_TM : 3 : 3

@@ -1,0 +1,7 @@
+RainIntensity: 0.7826087
+RumbleIntensity: 0.5326087
+Clouds: 0.2282609
+Palette: 105
+Effects: TinyDragonFly-0-25-130, 
+AmbientSounds: OMNI><Basic Mech.ogg><747.3013><276.4777><0.1521739><0.7456522, SPOT><SO_IND-HeatDuct.ogg><792.2427><57.05013><0.2934783><0.9217392><674.2427><160.0501><-35.35534><-35.35534><0><0.1, 
+FadePalette: 8, 0.7065217

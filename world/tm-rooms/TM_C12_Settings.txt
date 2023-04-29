@@ -1,0 +1,11 @@
+CeilingDrips: 0.173913
+RainIntensity: 0
+RumbleIntensity: 0.1304348
+Clouds: 0.1304348
+Grime: 0.1521739
+Palette: 19
+EffectColorB: 13
+Effects: SkyAndLightBloom-0.1521739-30-30, DayNight-1-293-118, 
+PlacedObjects: Mushroom><680.8297><515.6834><-127~-324~3~5, Mushroom><699.3459><509.1223><-129~-158~3~5, LightSource><434.1017><330.3278><0.1195652~Environment~-206~70~50~86.60254~1~1~None~0~0, DandelionPatch><457.1935><309.8007><-8~70, Mushroom><635.7999><381.1937><-212~206~2~3, DayNightSettings><33.13141><361.8492><5~8.660254~3~46, 
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><691.1877><176.6808><0.5><1><27.18768><296.6808><113.6447><-1.355347><0><1, 
+FadePalette: 3, 0.5978261

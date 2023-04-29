@@ -1,0 +1,10 @@
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.01086957
+Clouds: 0
+Palette: 19
+EffectColorB: 13
+Effects: SkyAndLightBloom-0.6521739-30-30, DayNight-1-20-20, 
+PlacedObjects: LightSource><883.113><452.3957><0.07608695~Environment~-441~159~-634~1.602539~1~1~None~0~0, DayNightSettings><355.5771><351.4345><5~8.660254~3~46, 
+AmbientSounds: SPOT><SO_IND-Boiler.ogg><424.5276><237.0519><0.25><0.9413043><525.5276><562.0519><-160.3553><-72.35535><0><0.1652175, SPOT><SO_IND-Boiler.ogg><710.8116><307.5597><0.2826087><1.019565><882.8116><562.5597><-62.35535><-54.35535><0><0.1, SPOT><AM_IND-DeepHum.ogg><809.5536><65.53775><0.3478261><1><770.5536><447.5375><-35.35534><-35.35534><0><0.1, 
+FadePalette: 3, 0.4130435

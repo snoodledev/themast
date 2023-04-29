@@ -1,0 +1,19 @@
+Template: NONE
+RainIntensity: 0.8695652
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.4021739
+Grime: 0.1086956
+RandomItemDensity: 0.5434783
+RandomItemSpearChance: 0.4717391
+Palette: 15
+EffectColorA: 8
+EffectColorB: 6
+Effects: Fog-0.01086957-327-15, Flies-0.04347826-19-78, 
+PlacedObjects: LanternOnStick><404.5247><184.8015><-152~43, CustomDecal><546.4169><167.5681><-24~226~250~222~267~1~291~-136~0.3043478~1~0.423913~ScavMark Stonehead2~0.1413043~0~0.326087~0.1521739~0.3369565~0~0.3695652~0.1956522, CustomDecal><393.3448><243.8762><2~-73~456~-77~457~-5~-398~-351~0~0.2282609~0.2934783~Scav Wedges2~0.2391304~1~0.1086956~1~0~1~0~1, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.0326087><0.4326087, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.1195652><1, OMNI><AM_ENV-Outside.ogg><741.9398><495.3129><0.2608696><0.9804348, OMNI><AM_SUB-CaveTone.ogg><786.1996><250.0114><0.06521739><1, OMNI><AM_ENV-Pasture.ogg><747.8079><595.3055><0.1956522><1, 
+FadePalette: 10, 0.7061368

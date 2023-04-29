@@ -1,0 +1,18 @@
+Template: NONE
+RainIntensity: 1
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.1195652
+Grime: 0.1086956
+WaterReflectionAlpha: 0.4021739
+Palette: 105
+EffectColorA: 19
+EffectColorB: 6
+Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.08695652-290-142, WaterGlowworm-0.8695652-289-222, WaterDepth-0.07733287-321.6979-308.1802, 
+PlacedObjects: LightSource><3579.643><740.3314><0.07608695~Environment~560~-500~104~-123.3975~1~1~None~0~0, LightSource><2872.392><714.6683><0.1086956~Environment~493~-458~-218~-375.3975~1~1~None~0~0, LightSource><2156.412><753.8675><0.1630435~Environment~1022~-653~223~-418.3975~1~1~None~0~0, LightSource><471.6132><711.3959><0.08695652~Environment~743~-693~128~-284.3975~1~0~None~0~0, CustomDecal><1971.697><366.3073><-48~196~377~281~452~71~225~-345~0.6630435~1~0~CrudeBubblyB&W~0.2173913~0.3804348~0.5652174~0.3804348~0.05434782~0.3804348~0.5652174~0.3804348, InsectGroup><2655.943><509.8019><-42~130~0~0~RedSwarmer~0.1086956, InsectGroup><1025.988><310.3004><-6~69~0~0~RockFlea~0.07608695, InsectGroup><1844.699><668.0189><-30~125~-247~-200~TinyDragonFly~0.08695652, InsectGroup><420.137><303.665><-59~264~0~0~TinyDragonFly~0.1195652, InsectGroup><564.0516><390.5568><13~137~-154~-183~RedSwarmer~0.08695652, InsectGroup><3543.195><396.5444><286~250~0~0~WaterGlowworm~0.5543478, NoSpearStickZone><176.6928><278.8083><0~100, PlayerPushback><157.3124><352.4316><110~-68, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><49.05322><336.2857><0.6521739><1, OMNI><AM_ENV-Pasture.ogg><48.57251><260.0921><0.5543478><1, OMNI><AM_ENV-WindGrass.ogg><724.8><415.7493><0.3586957><1, 
+FadePalette: 2, 0.04347826, 0.04347826, 0.0326087, 0

@@ -1,0 +1,12 @@
+Template: NONE
+RainIntensity: 0.7065217
+RumbleIntensity: 0.3152174
+Grime: 0.1086956
+Palette: 19
+EffectColorA: 8
+EffectColorB: 13
+Effects: SkyAndLightBloom-0.1304348-20-20, Fog-0.3369565-24-101, 
+PlacedObjects: NoSpearStickZone><479.2979><252.0553><0~242, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><752.8847><315.1021><0.2934783><0.823913, SPOT><AM_IND-ElectricHum02.ogg><740.3062><187.2995><0.326087><0.5891304><481.3062><4.2995><-35.35534><-35.35534><0><0.3391306, OMNI><AM_ENV-NatWind.ogg><676.9346><492.061><0.09782609><1, OMNI><AM_ENV-WallHum.ogg><719.5506><431.4846><0.25><0.7065217, OMNI><AM_IND-Utility01.ogg><402.1272><507.5922><0.3043478><1, 
+Triggers: PreRegionBump<tA>event<tB>MusicEvent<eA>songName<eB>NA_41 - Random Gods<eA>vol<eB>0.5608696<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>236.9398<tB>422.9369<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
+FadePalette: 3, 0.6413044

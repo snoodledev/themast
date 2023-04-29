@@ -1,0 +1,19 @@
+Template: NONE
+RainIntensity: 0.8586956
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 1
+Grime: 0.1086956
+RandomItemDensity: 1
+RandomItemSpearChance: 0.6782608
+Palette: 15
+EffectColorA: 9
+EffectColorB: 21
+Effects: Fog-0.01086957-327-15, Flies-0.04347826-19-78, 
+PlacedObjects: LanternOnStick><712.7201><260.0522><-143~-17, DeadTokenStalk><625.517><504.9493><21~-49, DeadTokenStalk><675.6923><526.4451><-12~-54, TradeOutpost><550.3279><182.8982><-282~193, CustomDecal><-89.93561><204.6757><32~622~1298~589~1288~-77~-44~-1.525879E-05~0.3152174~1~0.2608696~zGWMarks - C05b~0.6413044~0.1847826~0.8152174~0.1086956~0.7717391~0~0.7717391~0, CustomDecal><286.0526><167.693><-3~80~499~67~497~-6~-431~189~0~1~0.1195652~Scav Wedges~0.09782609~1~0.09782609~1~0.09782609~1~0.09782609~1, DataPearl><674.4376><243.94><-26~176~0~0~Misc~0, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.0326087><0.4326087, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.1195652><1, OMNI><AM_ENV-Outside.ogg><741.9398><495.3129><0.2391304><0.9804348, OMNI><AM_SUB-CaveTone.ogg><786.1996><250.0114><0.06521739><1, OMNI><AM_ENV-Pasture.ogg><747.8079><595.3055><0.173913><1, 
+FadePalette: 10, 0.7061368

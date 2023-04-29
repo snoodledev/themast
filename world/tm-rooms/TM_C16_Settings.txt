@@ -1,0 +1,11 @@
+Template: TM_SettingsTemplate_Outside
+CeilingDrips: 0.1413043
+RainIntensity: 0.02173913
+RumbleIntensity: 0.1086956
+Clouds: 0.06521739
+Palette: 19
+Effects: AboveCloudsView-1-1072-506, DayNight-0.9239131-1074-453, Fog-0.7065217-24-76, SkyDandelions-0.09782609-284-22, 
+PlacedObjects: DandelionPatch><731.5673><121.0813><0~100, DandelionPatch><1481.953><718.3057><-68~37, DangleFruit><1277.38><328.3477><0~0~2~3, DangleFruit><1132.289><214.1962><246~5~2~3, DangleFruit><1067.806><252.7977><0~0~2~3, DayNightSettings><2093.806><738.202><3~80.66028~3~46, WallSteamer><1255.441><410.4418><35~63, WallSteamer><1643.117><431.3506><35~51, WallSteamer><1149.827><695.9003><37~8, Filter><1277.141><444.3919><-7~53~0~0~Rivulet|Saint, Filter><1662.028><469.448><-7~58~-53~45~Rivulet|Saint, Filter><1160.718><706.4474><36~-37~0~0~Rivulet|Saint, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><122.1011><39.88361><0.6086956><0.823913><1255.101><438.8836><-22.35535><-17.35535><0><0.1, SPOT><SO_IND-HeatDuct.ogg><115.6665><157.6817><0.6086956><0.823913><858.6665><454.6817><-21.35535><-20.35535><0><0.1, SPOT><SO_IND-Generator.ogg><469.4376><245.31><0.2608696><0.8043478><413.4376><724.31><-77.35535><-94.35535><0><0.2086958, SPOT><AM_WIN-HowlingWnd.ogg><853.3149><195.8108><0.4456522><1><2266.315><300.8108><-621.3553><-95.35535><0><0.4260871, SPOT><SO_IND-Generator.ogg><647.243><248.9499><0.25><0.8043478><1178.243><706.9499><-80.35535><-60.35535><0><0.1760871, 
+FadePalette: 28, 0.2449727, 0.3068388
+WetTerrain: OFF

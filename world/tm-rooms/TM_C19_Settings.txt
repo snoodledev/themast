@@ -1,0 +1,7 @@
+DangerType: Rain
+RainIntensity: 0.5108696
+RumbleIntensity: 0.1521739
+EffectColorB: 21
+PlacedObjects: KarmaFlower><745.0535><328.9628><-39~267~5~7, Filter><763.5776><361.3986><0~100~-350~111~010, 
+AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><709.3417><296.6777><0.4891304><0.55><656.3417><498.6777><-35.35534><-35.35534><0><0.1652175, 
+FadePalette: 3, 0.4565217

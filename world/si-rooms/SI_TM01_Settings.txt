@@ -1,0 +1,9 @@
+RainIntensity: 0.8043478
+RumbleIntensity: 0.6630435
+Clouds: 0.6521739
+Grime: 0.2065217
+RandomItemDensity: 0.3369565
+Effects: Fog-0.1291892-30-30, AboveCloudsView-0-30.67188-106.7979, CloudAdjustment-0.2087976-293.9906-203.6354, 
+PlacedObjects: Mushroom><372.1355><157.336><0~0~2~3, Mushroom><354.5645><162.8247><25~61~2~3, 
+AmbientSounds: SPOT><AM_IND-ElectricHum02.ogg><11.8429><263.4271><0.1521739><0.6673913><1402.843><252.4271><-35.35534><-35.35534><0.1413043><0.2413045, 
+FadePalette: 18, 0.3913045, 0.3586953, 0.335281, 0.2963995

@@ -1,0 +1,453 @@
+CONDITIONAL LINKS
+// RIVULET
+Rivulet : GATE_SB_TM : TM_E08 : TM_E08riv
+Rivulet : TM_BROKENGATE : TM_F09 : TM_F09riv
+Rivulet : TM_D07 : TM_D15 : TM_D15riv
+Rivulet : TM_D09 : TM_E01 : TM_E01riv
+Rivulet : TM_D12 : TM_E12 : TM_E12riv
+Rivulet : TM_D13 : TM_D15 : TM_D15riv
+Rivulet : TM_D16 : TM_D15 : TM_D15riv
+Rivulet : TM_D16 : TM_E01 : TM_E01riv
+Rivulet : TM_D09 : TM_E01 : TM_E01riv
+Rivulet : TM_E02 : TM_E03 : TM_E03riv
+Rivulet : TM_S06 : TM_E05 : TM_E05riv
+Rivulet : TM_S08 : TM_E15 : TM_E15riv
+Rivulet : TM_E07 : TM_F05 : TM_F05riv
+Rivulet : TM_F11 : TM_F09 : TM_F09riv
+Rivulet : HIDEROOM : TM_D15
+Rivulet : HIDEROOM : TM_E01
+Rivulet : HIDEROOM : TM_E03
+Rivulet : HIDEROOM : TM_E04
+Rivulet : HIDEROOM : TM_E09
+Rivulet : HIDEROOM : TM_E05
+Rivulet : HIDEROOM : TM_E08
+Rivulet : HIDEROOM : TM_E06
+Rivulet : HIDEROOM : TM_E19
+Rivulet : HIDEROOM : TM_E13
+Rivulet : HIDEROOM : TM_E14
+Rivulet : HIDEROOM : TM_E15
+Rivulet : HIDEROOM : TM_E16
+Rivulet : HIDEROOM : TM_E17
+Rivulet : HIDEROOM : TM_F01
+Rivulet : HIDEROOM : TM_F03
+Rivulet : HIDEROOM : TM_F05
+Rivulet : HIDEROOM : TM_E07
+Rivulet : HIDEROOM : TM_F02
+Rivulet : HIDEROOM : TM_F04
+Rivulet : HIDEROOM : TM_F08
+Rivulet : HIDEROOM : TM_F10
+Rivulet : HIDEROOM : TM_E12
+Rivulet : HIDEROOM : TM_F06
+Rivulet : HIDEROOM : TM_F07
+Rivulet : HIDEROOM : TM_F09
+Rivulet : EXCLUSIVEROOM : TM_D15riv
+Rivulet : EXCLUSIVEROOM : TM_E01riv
+Rivulet : EXCLUSIVEROOM : TM_E03riv
+Rivulet : EXCLUSIVEROOM : TM_E04riv
+Rivulet : EXCLUSIVEROOM : TM_E09riv
+Rivulet : EXCLUSIVEROOM : TM_E05riv
+Rivulet : EXCLUSIVEROOM : TM_E08riv
+Rivulet : EXCLUSIVEROOM : TM_E06riv
+Rivulet : EXCLUSIVEROOM : TM_E19riv
+Rivulet : EXCLUSIVEROOM : TM_E13riv
+Rivulet : EXCLUSIVEROOM : TM_E14riv
+Rivulet : EXCLUSIVEROOM : TM_E15riv
+Rivulet : EXCLUSIVEROOM : TM_E16riv
+Rivulet : EXCLUSIVEROOM : TM_E17riv
+Rivulet : EXCLUSIVEROOM : TM_F01riv
+Rivulet : EXCLUSIVEROOM : TM_F03riv
+Rivulet : EXCLUSIVEROOM : TM_F05riv
+Rivulet : EXCLUSIVEROOM : TM_F02riv
+Rivulet : EXCLUSIVEROOM : TM_F04riv
+Rivulet : EXCLUSIVEROOM : TM_F08riv
+Rivulet : EXCLUSIVEROOM : TM_F10riv
+Rivulet : EXCLUSIVEROOM : TM_E12riv
+Rivulet : EXCLUSIVEROOM : TM_F06riv
+Rivulet : EXCLUSIVEROOM : TM_F07riv
+Rivulet : EXCLUSIVEROOM : TM_F09riv
+
+//arti spear
+Artificer,Spear : HIDEROOM : TM_C13
+Artificer,Spear : EXCLUSIVEROOM : TM_C13arti
+Artificer,Spear : TM_C14 : TM_C13 : TM_C13arti
+Artificer,Spear : TM_C24 : TM_C13 : TM_C13arti
+Artificer,Spear : TM_C03 : TM_C13 : TM_C13arti
+
+Artificer,Spear : HIDEROOM : TM_C08
+Artificer,Spear : EXCLUSIVEROOM : TM_C08arti
+Artificer,Spear : TM_C06 : TM_C08 : TM_C08arti
+Artificer,Spear : TM_C09 : TM_C08 : TM_C08arti
+
+Artificer : HIDEROOM : TM_C10
+Artificer : EXCLUSIVEROOM : TM_C10arti
+Artificer : TM_C07 : TM_C10 : TM_C10arti
+Artificer : TM_C22 : TM_C10 : TM_C10arti
+Artificer : TM_C16 : TM_C10 : TM_C10arti
+
+Spear : HIDEROOM : TM_C10
+Spear : EXCLUSIVEROOM : TM_C10spear
+Spear : TM_C07 : TM_C10 : TM_C10spear
+Spear : TM_C22 : TM_C10 : TM_C10spear
+Spear : TM_C16 : TM_C10 : TM_C10spear
+
+Artificer,Spear : HIDEROOM : TM_C11
+Artificer,Spear : EXCLUSIVEROOM : TM_C11arti
+Artificer,Spear : TM_C12 : TM_C11 : TM_C11arti
+
+Artificer : HIDEROOM : TM_C05
+Artificer : EXCLUSIVEROOM : TM_C05arti
+Artificer : TM_C06 : TM_C05 : TM_C05arti
+
+Spear : HIDEROOM : TM_C05
+Spear : EXCLUSIVEROOM : TM_C05spear
+Spear : TM_C06 : TM_C05 : TM_C05spear
+
+Artificer,Spear : HIDEROOM : TM_B05
+Artificer,Spear : EXCLUSIVEROOM : TM_B05arti
+Artificer,Spear : TM_B04 : TM_B05 : TM_B05arti
+Artificer,Spear : TM_S02 : TM_B05 : TM_B05arti
+Artificer,Spear : TM_B06 : TM_B05 : TM_B05arti
+
+Artificer : HIDEROOM : TM_B03
+Artificer : EXCLUSIVEROOM : TM_B03arti
+Artificer : TM_B04 : TM_B03 : TM_B03arti
+
+Spear : HIDEROOM : TM_B03
+Spear : EXCLUSIVEROOM : TM_B03spear
+Spear : TM_B02arti : TM_B03arti : TM_B03spear
+Spear : TM_B04 : TM_B03 : TM_B03spear
+
+Artificer,Spear : HIDEROOM : TM_B02
+Artificer,Spear : EXCLUSIVEROOM : TM_B02arti
+Artificer,Spear : TM_A06 : TM_B02 : TM_B02arti
+Artificer,Spear : TM_B01 : TM_B02 : TM_B02arti
+
+Artificer,Spear : HIDEROOM : TM_B08
+Artificer,Spear : EXCLUSIVEROOM : TM_B08arti
+Artificer,Spear : TM_B07 : TM_B08 : TM_B08arti
+Artificer,Spear : TM_B10 : TM_B08 : TM_B08arti
+
+Artificer,Spear : HIDEROOM : TM_B09
+Artificer,Spear : EXCLUSIVEROOM : TM_B09arti
+Artificer,Spear : TM_B12 : TM_B09 : TM_B09arti
+Artificer,Spear : TM_B14 : TM_B09 : TM_B09arti
+
+Spear : HIDEROOM : TM_A01
+Spear : EXCLUSIVEROOM : TM_A01spear
+
+Spear : HIDEROOM : TM_A02
+Spear : EXCLUSIVEROOM : TM_A02spear
+Spear : TM_S03 : TM_A02 : TM_A02spear
+Spear : TM_A03 : TM_A02 : TM_A02spear
+
+Spear : EXCLUSIVEROOM : TM_SPEAREND
+
+Artificer,Spear : TM_C13 : TM_C03 : DISCONNECTED
+Artificer,Spear : TM_C21 : TM_C30 : DISCONNECTED
+Artificer,Spear : TM_C30 : TM_C21 : DISCONNECTED
+
+END CONDITIONAL LINKS
+
+ROOMS
+GATE_SI_TM : TM_C20, DISCONNECTED : GATE
+GATE_SB_TM : TM_E08, DISCONNECTED : GATE
+TM_BROKENGATE : TM_F09
+TM_C20 : TM_C19, TM_C18, GATE_SI_TM
+TM_C19 : TM_S01, TM_C20
+TM_C18 : TM_C24, TM_C17, TM_C27, TM_C20, TM_C21
+TM_C27 : TM_C18, TM_C26
+TM_C21 : TM_C18, TM_C29, TM_C30
+TM_C17 : TM_C16, TM_C18
+TM_S01 : TM_C19 : SHELTER
+TM_C16 : TM_C10, TM_C15, TM_C17
+TM_C15 : TM_C16, TM_C14
+TM_C24 : TM_C23, TM_C13, TM_C18, TM_C25
+TM_C23 : TM_C24 : SWARMROOM
+TM_C26 : TM_C27, TM_C25
+TM_C25 : TM_C24, TM_C26, TM_C28
+TM_C14 : TM_C13, TM_C15
+TM_C11 : TM_C08, TM_C12, TM_C13
+TM_C12 : TM_C11
+TM_C10 : TM_C07, TM_C22, TM_C16
+TM_C07 : TM_C06, TM_C10
+TM_C09 : TM_C22, TM_C08
+TM_C22 : TM_C09, TM_C10
+TM_C08 : TM_C06, TM_C09, TM_C11
+TM_C06 : TM_C07, TM_C05, TM_C08
+TM_C28 : TM_C25, TM_C29
+TM_C05 : TM_B05, TM_C06
+TM_C13 : TM_C11, TM_C14, TM_C24, TM_C03
+TM_C29 : TM_C28, TM_C21, TM_D11, TM_C30
+TM_C30 : TM_C21, TM_C29, TM_D12 : SWARMROOM
+TM_B05 : TM_B04, TM_S02, TM_B06, TM_C05
+TM_S02 : TM_B05 : SHELTER
+TM_B06 : TM_B12, TM_B05
+TM_B12 : TM_B09, TM_B06
+TM_B04 : TM_B03, TM_B05
+TM_B03 : TM_B02, TM_B04
+TM_B02 : TM_A06, TM_B01, TM_B03
+TM_B01 : TM_A03, TM_B02
+TM_A03 : TM_A02, TM_B01, TM_A06, TM_A04
+TM_A06 : TM_A03, TM_A04, TM_B02
+TM_A02 : TM_A01, TM_S03, TM_A03, DISCONNECTED
+TM_A01 : TM_A02
+TM_S03 : TM_A02 : SHELTER
+TM_A05 : TM_A04, DISCONNECTED, TM_B07
+TM_A04 : TM_A03, TM_A06, TM_A05
+TM_B07 : TM_A05, TM_B08
+TM_B08 : TM_B07, TM_B10, TM_B09
+TM_B10 : TM_B08, TM_B11
+TM_B11 : TM_B10, TM_B13
+TM_B09 : TM_B08, TM_B12, TM_B14
+TM_B13 : TM_B11, TM_S09, TM_B14
+TM_S09 : TM_B13 : SHELTER
+TM_B14 : TM_B13, TM_B09, TM_B15
+TM_B15 : TM_B14, TM_C01, TM_B16
+TM_C01 : TM_B15, TM_C02
+TM_C02 : TM_C01, TM_S04, TM_B16, TM_C03
+TM_S04 : TM_C02 : SHELTER
+TM_B16 : TM_B15, TM_C02, TM_C04
+TM_C03 : TM_C02, TM_C13, TM_C04
+TM_C04 : TM_B16, TM_C03, TM_D02, TM_D11
+TM_D11 : TM_C04, TM_C29, TM_D11C, TM_D17
+TM_D11C : TM_D11, TM_D12
+TM_D12 : TM_C30, TM_D11C, TM_D13, TM_E12
+TM_D13 : TM_D15, TM_D12
+TM_D17 : TM_D11, TM_D03
+TM_D02 : TM_C04, TM_D10
+TM_D10 : TM_D02, TM_D04, TM_D03
+TM_D03 : TM_D10, TM_D17, TM_D07
+TM_D07 : TM_D03, TM_D18, TM_D08, TM_D14, TM_D15
+TM_D08 : TM_D07, TM_S05
+TM_S05 : TM_D08 : SHELTER
+TM_D14 : TM_D07
+TM_D18 : TM_D07, TM_D04
+TM_D04 : TM_D01, TM_D10, TM_D18, TM_D06, DISCONNECTED
+TM_D01 : TM_D04 : SWARMROOM
+TM_D06 : TM_D04, TM_D05, TM_D09
+TM_D05 : TM_D06
+TM_D15 : TM_D07, TM_D13, DISCONNECTED, TM_D16, TM_E14
+TM_D16 : TM_D15, TM_E01
+TM_D09 : TM_D06, DISCONNECTED, TM_E01
+TM_E01 : TM_D09, TM_D16, TM_E03, TM_E06
+TM_E03 : TM_E02, TM_E01, TM_E04
+TM_E02 : TM_E03
+TM_E04 : TM_E05, TM_E09, TM_E03
+TM_E09 : TM_E04
+TM_E05 : TM_S06, TM_E04, TM_E08
+TM_E08 : TM_E05, GATE_SB_TM
+TM_S06 : TM_E05 : SHELTER
+TM_E06 : TM_E01, TM_E19, TM_E13
+TM_E19 : TM_E06
+TM_E13 : TM_E06, TM_E14
+TM_E14 : TM_D15, TM_E16, TM_E13, TM_E15
+TM_E15 : TM_E14, TM_S08
+TM_S08 : TM_E15 : SHELTER
+TM_E16 : TM_E17, TM_E14
+TM_E17 : TM_E12, TM_F01, TM_E16
+TM_F01 : TM_E17, TM_F03
+TM_F03 : TM_F07, TM_F02, TM_F04, TM_F01, TM_F05
+TM_F05 : TM_F03, TM_E07
+TM_E07 : TM_F05
+TM_F02 : TM_F03
+TM_F04 : TM_F08, TM_F03, TM_F10
+TM_F08 : TM_F07, TM_F04
+TM_F10 : TM_F04 : SCAVTRADER
+TM_E12 : TM_D12, TM_F06, TM_E17
+TM_F06 : TM_F07, TM_E12
+TM_F07 : TM_F08, TM_F09, TM_F06, TM_F03 : SCAVOUTPOST : HEAVYPERF
+TM_F09 : TM_F11, TM_S07, TM_F07, TM_BROKENGATE
+TM_F11 : TM_F09 : SWARMROOM
+TM_S07 : TM_F09 : SHELTER
+
+// ARTI
+TM_C13arti : TM_C11arti, TM_C14, TM_C24, DISCONNECTED
+TM_C08arti : TM_C06, TM_C09, TM_C11arti
+TM_C10arti : TM_C07, TM_C22, TM_C16
+TM_C11arti : TM_C08arti, TM_C12, TM_C13arti
+TM_C05arti : TM_B05arti, TM_C06
+TM_B05arti : TM_B04, TM_S02, TM_B06, TM_C05arti
+TM_B03arti : TM_B02arti, TM_B04
+TM_B02arti : TM_A06, TM_B01, TM_B03arti
+TM_B08arti : TM_B07, TM_B10, TM_B09arti
+TM_B09arti : TM_B08arti, TM_B12, TM_B14
+
+//SPEAR
+TM_SPEAREND : TM_A01spear
+TM_A01spear : TM_SPEAREND, TM_A02spear
+TM_A02spear : TM_A01spear, TM_S03, TM_A03, DISCONNECTED
+TM_C10spear : TM_C07, TM_C22, TM_C16
+TM_C05spear : TM_B05arti, TM_C06
+TM_B03spear : TM_B02arti, TM_B04
+
+//RIV
+TM_D15riv : TM_D07, TM_D13, DISCONNECTED, TM_D16, TM_E14riv
+TM_E01riv : TM_D09, TM_D16, TM_E03riv, TM_E06riv
+TM_E03riv : TM_E02, TM_E01riv, TM_E04riv
+TM_E04riv : TM_E05riv, TM_E09riv, TM_E03riv
+TM_E09riv : TM_E04riv
+TM_E05riv : TM_S06, TM_E04riv, TM_E08riv
+TM_E08riv : TM_E05riv, GATE_SB_TM
+TM_E06riv : TM_E01riv, TM_E19riv, TM_E13riv
+TM_E19riv : TM_E06riv
+TM_E13riv : TM_E06riv, TM_E14riv
+TM_E14riv : TM_D15riv, TM_E16riv, TM_E13riv, TM_E15riv
+TM_E15riv : TM_E14riv, TM_S08
+TM_E16riv : TM_E17riv, TM_E14riv
+TM_E17riv : TM_E12riv, TM_F01riv, TM_E16riv
+TM_F01riv : TM_E17riv, TM_F03riv
+TM_F03riv : TM_F07riv, TM_F02riv, TM_F04riv, TM_F01riv, TM_F05riv
+TM_F05riv : TM_F03riv, TM_E07
+TM_F02riv : TM_F03riv
+TM_F04riv : TM_F08riv, TM_F03riv, TM_F10riv
+TM_F08riv : TM_F04riv
+TM_F10riv : TM_F04riv
+TM_E12riv : TM_D12, TM_F06riv, TM_E17riv
+TM_F06riv : TM_F07riv, TM_E12riv
+TM_F07riv : TM_F09riv, TM_F06riv, TM_F03riv : SCAVOUTPOST : HEAVYPERF
+TM_F09riv : TM_F11, TM_S07, TM_F07riv, TM_BROKENGATE
+END ROOMS
+
+CREATURES
+//all
+OFFSCREEN : 0-Deer, 0-Scavenger-14, 0-Vulture-4
+//TM_F02 : 1-Scavenger-4
+//TM_F03 : 5-Scavenger, 6-Scavenger, 7-Scavenger
+//TM_F04 : 1-Scavenger
+TM_B14 : 3-Mimic-{9}, 4-Mimic-{12}
+TM_B15 : 3-Mimic-{12}
+TM_E14 : 4-Tentacle Plant
+TM_C29 : 5-Small Centipede-2
+TM_E03 : 3-CicadaA-2, 3-CicadaB-2, 4-Salamander
+TM_E02 : 1-Centiwing
+TM_E17 : 3-Blue
+TM_E12 : 3-Salamander-2
+TM_F07 : 5-CicadaA-2, 5-CicadaB-3, 4-BigNeedleWorm, 4-SmallNeedleWorm-3
+TM_D07 : 5-Yellow-2, 6-Yellow-2
+TM_B16 : 4-Centipede-{0.6}, 5-Mimic-{10}
+TM_B15 : 4-Centipede-{0.25}
+TM_C15 : 2-White
+TM_C10 : 4-Blue
+TM_C08 : 5-Dropbug
+TM_B03 : 2-White
+LINEAGE : TM_B08 : 3 : Blue-0.5, White-0.4, Cyan-0
+TM_D12 : 4-Centiwing
+TM_C21 : 3-Dropbug
+TM_A06 : 4-Blue
+(White,Red)TM_C16 : 4-Cyan
+(Yellow,White)TM_C08 : 4-Pink
+(Yellow,White)TM_B15 : 4-SmallCentipede
+(Yellow,White)TM_C17 : 2-CicadaA, 2-CicadaB
+(White,Red)TM_D10 : 3-Dropbug
+
+//monk
+(Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, NONE-0.1, NONE-0.05, KingVulture-0
+(Yellow)LINEAGE : TM_C29 : 5 : Centipede-{0.4}-0.3, Centipede-{0.7}-0
+(Yellow)TM_E04 : 3-Centiwing
+(Yellow)LINEAGE : TM_E01 : 5 : Blue-0.2, White-0.4, Cyan-0
+(Yellow)TM_F07 : 6-Green
+(Yellow)TM_D08 : 2-Eggbug
+(Yellow)TM_D18 : 2-Blue
+(Yellow)LINEAGE : TM_D04 : 5 : White-0.2, Cyan-0
+(Yellow)LINEAGE : TM_D04 : 6 : Blue-0.5, White-0.2, Cyan-0.2, Red-0
+(Yellow)TM_D10 : 5-Blue
+(Yellow)TM_C04 : 4-Centipede-{0.2}
+(Yellow)TM_B16 : 6-Centipede-{0.2}, 6-SmallCentipede-2
+(Yellow)TM_C18 : 5-Blue, 6-Mimic-{10}, 8-CicadaA, 9-CicadaB-2
+(Yellow)TM_C13 : 4-Blue
+(Yellow)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
+(Yellow)LINEAGE : TM_A05 : 3 : Blue-0.4, White-0.2, Cyan-0
+(Yellow)LINEAGE : TM_B08 : 4 : White-0.1, Cyan-0
+(Yellow)TM_B09 : 3-Blue
+(Yellow)TM_C01 : 3-Yellow, 4-Yellow, 5-Yellow-2
+(Yellow)TM_D06 : 3-Yellow, 4-Yellow, 5-Yellow-2
+(Yellow)TM_B05 : 4-White
+
+//survivor
+(White)OFFSCREEN : 0-Vulture
+(White)LINEAGE : OFFSCREEN : 0 : NONE-0.5, KingVulture-0
+(White)LINEAGE : OFFSCREEN : 0 : Vulture-0.2, KingVulture-0
+(White)LINEAGE : TM_C29 : 5 : Centipede-{0.8}-0.1, Red Centipede-0
+(White)TM_E04 : 3-Centiwing
+(White)LINEAGE : TM_E01 : 5 : Blue-0.7, White-0.4, Cyan-0
+(White)TM_F07 : 7-Centiwing, 6-Green
+(White)TM_D07 : 6-Yellow
+(White)TM_D08 : 2-Blue
+(White)TM_D18 : 2-White
+(White)TM_D04 : 5-Cyan
+(White)LINEAGE : TM_D04 : 6 : Blue-0.4, Cyan-0.2, Red-0
+(White)TM_D10 : 5-White
+(White)TM_C04 : 4-Centipede-{0.4}
+(White)TM_C01 : 2-White, 3-Yellow-2, 4-Yellow, 5-Yellow-2
+(White)TM_C02 : 4-Dropbug
+(White)TM_B16 : 6-Centipede-{0.2}, 6-Centipede-{0.3}, 6-SmallCentipede-2
+(White)TM_B14 : 5-Centipede-{0.3}
+(White)LINEAGE : TM_B13 : 2 : Dropbug-0.3, Cyan-0
+(White)TM_C03 : 3-Centiwing
+(White)TM_C18 : 5-Blue, 9-CicadaB
+(White)LINEAGE : TM_C18 : 6 : Mimic-{12}-0.3, Mimic-{18}-0.1, Tentacle Plant-0
+(White)TM_C24 : 4-White
+(White)TM_C13 : 4-Blue
+(White)TM_C16 : 3-Centiwing
+(White)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
+(White)TM_C08 : 7-Blue
+(White)TM_B03 : 3-Blue
+(White)TM_A05 : 2-Dropbug, 3-White
+(White)LINEAGE : TM_B08 : 4 : White-0.2, Cyan-0
+(White)TM_B09 : 3-Centiwing
+(White)TM_D12 : 5-White
+(White)TM_B10 : 2-Yellow
+(White)TM_B11 : 2-Yellow, 3-Yellow, 4-Yellow
+(White)TM_D06 : 3-Yellow, 4-Yellow, 5-Yellow-3
+(White)TM_B05 : 4-White-{Mean:0.4}, 5-Blue
+
+//hunter
+(Red)OFFSCREEN : 0-Vulture, 0-King Vulture-2
+(Red)LINEAGE : OFFSCREEN : 0 : Vulture-0.7, King Vulture-0 
+(Red)LINEAGE : TM_C29 : 5 : Centipede-{0.9}-0.4, Red-0
+(Red)TM_E04 : 3-Centiwing-2
+(Red)TM_E01 : 5-Cyan
+(Red)TM_E03 : 6-Salamander
+(Red)TM_F07 : 8-Cyan, 7-Centiwing-2
+(Red)LINEAGE : TM_F07 : 6 : Green-0.3, Red-0
+(Red)TM_D07 : 6-Yellow-2
+(Red)TM_D08 : 2-Blue
+(Red)TM_D18 : 2-White
+(Red)TM_D04 : 5-Cyan, 6-White-{Mean:0.6}
+(Red)TM_D10 : 5-White, 4-Dropbug
+(Red)LINEAGE : TM_C04 : 4 : Centipede-{0.6}-0.3, Red Centipede-0
+(Red)TM_C01 : 2-White-{Mean:0.6}, 3-Cyan-2, 4-White, 5-White-{Mean:0.5}
+(Red)TM_C02 : 4-Dropbug, 5-Dropbug
+(Red)TM_B15 : 4-Centipede-{0.6}
+(Red)TM_B16 : 6-Centipede-{0.5}, 6-Centipede-{0.3}
+(Red)TM_B14 : 5-Centipede-{0.6}
+(Red)TM_B13 : 3-Dropbug
+(Red)TM_C03 : 3-Centiwing
+(Red)TM_B10 : 2-Cyan
+(Red)TM_B11 : 3-White, 4-Cyan
+(Red)TM_C18 : 5-White, 7-Dropbug, 8-Centiwing
+(Red)LINEAGE : TM_C18 : 6 : Mimic-{12}-0.3, Mimic-{16}-0.3, Mimic-{22}-0
+(Red)TM_C24 : 4-White-{Mean:0.7}
+(Red)TM_C13 : 4-Cyan
+(Red)TM_C16 : 3-Dropbug
+(Red)TM_C10 : 3-White
+(Red)TM_C10 : 3-White
+(Red)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm
+(Red)TM_C08 : 7-Cyan
+(Red)TM_B03 : 3-White-{Mean:0.7}
+(Red)TM_A05 : 2-White-{Mean:0.8}, 3-Dropbug
+(Red)TM_B08 : 4-Cyan
+(Red)TM_B09 : 3-White
+(Red)TM_D12 : 5-Cyan
+(Red)TM_B04 : 2-Cyan, 3-Dropbug
+(Red)TM_C12 : 1-Dropbug
+(Red)TM_D06 : 3-White, 4-Red-{Mean:0.2}, 5-Cyan-{Mean:1.0}
+(Red)TM_B05 : 4-White-{Mean:0.5}, 5-Dropbug
+(Red)TM_B07 : 2-Cyan
+(Red)LINEAGE : TM_C08 : 4 : Centipede-{1.0}-0.2, Red Centipede-0
+
+END CREATURES
+
+BAT MIGRATION BLOCKAGES
+
+END BAT MIGRATION BLOCKAGES

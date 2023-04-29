@@ -1,0 +1,8 @@
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.01086957
+Clouds: 0.04347826
+Palette: 19
+Effects: SkyAndLightBloom-0.2391304-30-30, DayNight-1-284-17, 
+PlacedObjects: LightSource><529.4495><497.7653><0.1521739~Environment~-275~254~-571~-28.39746~1~1~None~0~0, DangleFruit><354.3672><578.912><0~0~2~3, DayNightSettings><140.0076><347.3001><5~8.660254~3~46, 
+FadePalette: 3, 0.2934783

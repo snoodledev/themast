@@ -1,0 +1,9 @@
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.01086957
+Clouds: 0
+Effects: SkyAndLightBloom-0.3152174-15-21, DayNight-1-230-6, 
+PlacedObjects: LightSource><482.6014><467.8661><0.09782609~Environment~-198~226~50~86.60254~1~1~None~0~0, DayNightSettings><336.3112><292.3096><5~8.660254~3~46, 
+AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><723.3441><199.6248><0.5><1><735.3441><621.6248><-35.35534><-35.35534><0><0.1, SPOT><Basic Mech.wav><809.3796><43.65973><0.5><1><621.3796><183.6597><-35.35534><-35.35534><0><0.1, SPOT><SO_IND-Humm.ogg><434.421><200.0663><0.5><1><536.421><428.0663><-223.3553><-98.35535><0><0.2739132, 
+FadePalette: 3, 0.5869565

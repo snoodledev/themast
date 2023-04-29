@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.01086957
+Grime: 0.06521739
+WaterReflectionAlpha: 0.5434783
+Palette: 101
+EffectColorA: 15
+EffectColorB: 6
+Effects: LightBurn-0.1630435-15-87, None-0-24-7, WaterDepth-0.1082654-323.0813-24.26875, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><28.44885><466.2286><0.4347826><1, SPOT><AM_ENV-Pasture.ogg><709.8038><459.9612><0.75><1><474.8038><642.9612><-213.3553><-191.3553><0><0.404348, 
+FadePalette: 105, 0.25
+WetTerrain: OFF

@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: FloodAndRain
+RainIntensity: 0.8586956
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.6847826
+Grime: 0.1086956
+BkgDroneVolume: 0.1586957
+Palette: 105
+EffectColorA: 8
+EffectColorB: 6
+Effects: Fog-0.3043478-327-15, Flies-0.04347826-19-78, WaterGlowworm-0.5760869-20-20, RockFlea-0.1304348-293-82, 
+PlacedObjects: LightSource><510.3155><1048.923><0.06521739~Environment~-67~342~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.1413043><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.3695652><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.3152174><1, SPOT><AM_SUB-BlankState.ogg><760.7922><129.4455><0.2608696><1><63.79218><185.4455><189.6447><54.64465><0><0.5869565, 
+FadePalette: 8, 0.452174, 0.6913044

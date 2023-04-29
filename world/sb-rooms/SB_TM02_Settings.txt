@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.2391304
+Grime: 0
+BkgDroneVolume: 0
+Palette: 21
+EffectColorA: 0
+EffectColorB: 6
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><829.3027><640.0327><0.4021739><1, OMNI><AM_SUB-BlankState.ogg><655.7799><638.9478><0.3152174><1, 
+FadePalette: 10, 0.5978261

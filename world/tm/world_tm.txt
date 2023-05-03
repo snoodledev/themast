@@ -132,13 +132,13 @@ Artificer,Spear : EXCLUSIVEROOM : TM_B09arti
 Artificer,Spear : TM_B12 : TM_B09 : TM_B09arti
 Artificer,Spear : TM_B14 : TM_B09 : TM_B09arti
 
-Spear : HIDEROOM : TM_A01
-Spear : EXCLUSIVEROOM : TM_A01spear
+Artificer,Spear : HIDEROOM : TM_A01
+Artificer,Spear : EXCLUSIVEROOM : TM_A01spear
 
-Spear : HIDEROOM : TM_A02
-Spear : EXCLUSIVEROOM : TM_A02spear
-Spear : TM_S03 : TM_A02 : TM_A02spear
-Spear : TM_A03 : TM_A02 : TM_A02spear
+Artificer,Spear : HIDEROOM : TM_A02
+Artificer,Spear : EXCLUSIVEROOM : TM_A02spear
+Artificer,Spear : TM_S03 : TM_A02 : TM_A02spear
+Artificer,Spear : TM_A03 : TM_A02 : TM_A02spear
 
 Spear : EXCLUSIVEROOM : TM_SPEAREND
 

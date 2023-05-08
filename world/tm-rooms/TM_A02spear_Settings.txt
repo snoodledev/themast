@@ -17,3 +17,4 @@ AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><484.1303><648.8398><0.4021739><0.432
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>TM - expanse<eA>vol<eB>0.4082655<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>74<tA>panPos<tB>186.4737<tB>259.4729<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>Spear<tA>pos<tB>708.0833<tB>4297.164<tA>handlePos<tB>-93.69489<tB>-85.86888, 
 FadePalette: 19, 0.07608695, 0.07608695, 0.08695652, 0.1086956, 0.1304348, 0.1521739
 WetTerrain: OFF
+BackgroundType: atc_tm

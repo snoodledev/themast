@@ -8,3 +8,4 @@ PlacedObjects: PlacedWind><-83.56982><-40.66318><-4~772~1361~767~1359~1~0.152173
 AmbientSounds: SPOT><AM_WIN-HowlingWnd.ogg><725.6038><550.1365><0.3586957><1><624.6038><-17.86353><190.6447><21.64465><0><0.502174, SPOT><AM_WIN-StrongWnd2.ogg><711.0526><391.218><0.6847826><1><515.0526><-17.78201><271.6447><106.6447><0><1, 
 FadePalette: 28, 0.2449732
 WetTerrain: OFF
+BackgroundType: atc_tm

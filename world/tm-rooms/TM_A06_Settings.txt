@@ -12,3 +12,4 @@ PlacedObjects: EEGhostSpot><143.2644><2191.801><, PlacedWind><94.93951><1658.814
 AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><466.1839><650.9213><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><605.4448><562.0451><0.2717391><1, 
 FadePalette: 19, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826
 WetTerrain: OFF
+BackgroundType: atc_tm

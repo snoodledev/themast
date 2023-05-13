@@ -1,0 +1,10 @@
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.0326087
+Clouds: 0
+EffectColorA: 18
+EffectColorB: 13
+Effects: SkyAndLightBloom-0.3586957-21-19, LightBurn-0.5326087-228-17, DayNight-0.9565217-278-115, 
+PlacedObjects: FirecrackerPlant><610.6462><303.329><-48~-289~2~3, FirecrackerPlant><636.1112><298.1662><-340~-278~2~3, InsectGroup><864.9462><324.0388><-33~61~-495~-131~TinyDragonFly~0.2173913, LightSource><329.5872><409.8839><0.3804348~EffectColor1~-29~58~-167~-289.3975~1~0~None~0~0, LightSource><807.6941><342.7017><0.05434782~Environment~-403~64~89~-313.3975~1~1~None~0~0, LightSource><1623.417><360.1093><0.05434782~Environment~-394~166~50~86.60254~1~1~None~0~0, DayNightSettings><1146.116><710.5899><32~82.66028~3~46, WallSteamer><1887.051><389.7736><-47~18, WallSteamer><408.1083><513.8912><-84~25, SteamPipe><327.0806><391.8564><-16~20, WallSteamer><580.7477><508.55><-39~36, WallSteamer><957.9498><534.7402><-71~-23, WallSteamer><693.8057><506.5472><11~20, Filter><1869.062><398.4319><30~27~0~0~Rivulet|Saint, Filter><523.0582><737.5569><-6~-312~0~0~Rivulet|Saint, Filter><327.8906><387.6422><-8~12~-94.49036~233.4511~Rivulet|Saint, Filter><899.4826><588.3008><0~100~0~0~Rivulet|Saint, 
+AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><663.8677><187.3383><0.2065217><0.7652174><557.8677><262.3383><-35.35534><-35.35534><0><0.1, SPOT><SO_IND-Generator.ogg><583.3201><58.9373><0.173913><1><1493.32><232.9373><-35.35534><-35.35534><0><0.1326088, OMNI><AM_ENV-NatWind.ogg><470.8612><521.9163><0.2282609><1, 
+FadePalette: 3, 0.2934783, 0.2934783

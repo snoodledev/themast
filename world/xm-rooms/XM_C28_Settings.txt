@@ -1,0 +1,7 @@
+RainIntensity: 0.9130435
+RumbleIntensity: 0.3913043
+EffectColorB: 13
+Effects: DayNight-0.2934783-369-48, 
+PlacedObjects: InsectGroup><591.6135><433.6462><89~145~-577~115~Moth~0.1195652, LightSource><621.1565><494.5732><0.0326087~Environment~-313~152~50~86.60254~1~1~None~0~0, DayNightSettings><359.0501><307.4924><5~8.660254~3~46, 
+AmbientSounds: OMNI><SO_IND-Humm.ogg><815.9393><124.8144><0.326087><1, OMNI><SO_IND-WeirdVent.ogg><816.8121><209.0599><0.5><0.2173913, 
+FadePalette: 3, 0.6521739

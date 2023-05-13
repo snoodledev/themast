@@ -1,0 +1,11 @@
+Template: TM_SettingsTemplate_Outside
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.02173913
+Clouds: 0
+Effects: Fog-0.4565217-18-78, SkyDandelions-0.25-294-8, AboveCloudsView-1-24-8, DayNight-0.9347826-1074-453, Contrast-0.02173913-278-99, 
+PlacedObjects: LightSource><604.4309><319.3353><0.06521739~Environment~683~-255~50~86.60254~1~1~None~0~0, DandelionPatch><1480.88><327.9019><-8~40, PlacedWind><12.0705><-14.56283><-1~761~2351~765~2338~1~0.1956521~Visuals~Horizontal, DandelionPatch><1287.64><142.1072><-19~51, DandelionPatch><1347.14><156.3927><-34~42, DayNightSettings><433.6533><304.1216><5~8.660254~3~46, WallSteamer><2132.361><453.9165><-45~8, WallSteamer><2119.631><335.6514><23~81, WallSteamer><2122.179><701.8392><-39~7, Filter><2151.318><569.584><-47~-303~-406~-109~Rivulet|Saint, 
+AmbientSounds: SPOT><AM_ENV-WallHum.ogg><523.4364><273.9276><0.3586957><0.6869565><2046.436><432.9276><-325.3553><-133.3553><0><0.6326088, SPOT><AM_IND-Utility01.ogg><739.074><270.1858><0.3695652><0.7847826><2030.074><419.1858><-165.3553><-87.35535><0><0.6000001, SPOT><AM_IND-ElectricHum01.ogg><320.3004><336.9871><0.3478261><1.03913><1594.3><642.9871><-35.35534><-35.35534><0><0.1326088, SPOT><AM_IND-DeepHum.ogg><828.8979><481.6154><0.4021739><1><1950.898><467.6154><-112.3553><-190.3553><0><0.154348, SPOT><AM_WIN-StrongWnd2.ogg><506.4806><529.3009><0.5><1><455.4806><255.3009><536.6447><-140.3553><0><1, 
+FadePalette: 28, 0.3586957, 0.4130435
+WetTerrain: OFF
+BackgroundType: atc_tm

@@ -1,0 +1,11 @@
+Template: TM_SettingsTemplate_Outside
+CeilingDrips: 0
+RainIntensity: 0.02173913
+RumbleIntensity: 0.1630435
+Clouds: 0.1521739
+Effects: AboveCloudsView-0-285-21, Fog-0.7173913-20-20, SkyDandelions-0.1413043-19-75, Desaturation-0.0326087-204-147, DayNight-1-302-286, 
+PlacedObjects: PlacedWind><-83.56982><-40.66318><-4~772~1361~767~1359~1~0.1521739~Visuals~Horizontal, DayNightSettings><327.4171><278.182><5~8.660254~3~46, 
+AmbientSounds: SPOT><AM_WIN-HowlingWnd.ogg><725.6038><550.1365><0.3586957><1><624.6038><-17.86353><190.6447><21.64465><0><0.502174, SPOT><AM_WIN-StrongWnd2.ogg><711.0526><391.218><0.6847826><1><515.0526><-17.78201><271.6447><106.6447><0><1, 
+FadePalette: 28, 0.2449732
+WetTerrain: OFF
+BackgroundType: atc_tm

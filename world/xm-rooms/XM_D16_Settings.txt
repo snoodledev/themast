@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.05434782
+Grime: 0.06521739
+BkgDroneVolume: 0.1478262
+WaterReflectionAlpha: 0.5434783
+Palette: 8
+EffectColorA: 4
+EffectColorB: 13
+Effects: LightBurn-0.05434782-20-20, WaterDepth-0.03866643-159.4854-99.72292, 
+PlacedObjects: PuffBall><437.4094><310.9283><0~0~2~3, PuffBall><449.301><308.7696><0~0~2~3, LightSource><237.5513><339.4771><0.1086956~Environment~-218~219~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-WallHum.ogg><727.919><430.5671><0.2608696><0.276087, OMNI><SO_NAT-LilDrips.ogg><761.0769><314.8502><0.3043478><1, SPOT><AM_ENV-NatWind.ogg><719.0994><487.9235><0.2173913><1><-81.90057><360.9235><117.6447><-19.35535><0><0.4152175, OMNI><AM_IND-Utility01.ogg><509.981><545.4491><0.2173913><0.9021739, SPOT><AM_ENV-WallHum.ogg><277.2272><264.3013><0.3369565><0.3152174><854.2273><554.3013><-112.3553><-13.35535><0><0.3500001, 
+FadePalette: 105, 0.5652174

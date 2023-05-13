@@ -1,0 +1,19 @@
+Template: NONE
+RainIntensity: 0.8586956
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.4021739
+Grime: 0.1086956
+RandomItemDensity: 1
+RandomItemSpearChance: 0.6782608
+Palette: 105
+EffectColorA: 9
+EffectColorB: 6
+Effects: Fog-0.01086957-327-15, Flies-0.04347826-19-78, 
+PlacedObjects: LightSource><439.8235><353.594><0.05434782~Environment~-170~339~-609~236.6025~1~1, LanternOnStick><257.1657><384.9314><-38~-91, LanternOnStick><593.7201><365.0522><57~-134, DeadTokenStalk><625.517><504.9493><21~-49, DeadTokenStalk><675.6923><526.4451><-12~-54, TradeOutpost><550.3279><182.8982><-282~193, ScavengerTreasury><614.3527><252.6717><-14~58, ScavengerTreasury><569.066><436.5783><-9~29, CustomDecal><-89.93561><204.6757><32~622~1298~589~1288~-77~-44~-1.525879E-05~0.3152174~1~0.2608696~zGWMarks - C05b~0.6413044~0.1847826~0.8152174~0.1086956~0.7717391~0~0.7717391~0, CustomDecal><281.0526><176.693><-3~80~499~67~497~-6~-247~151~0~1~0.1195652~Scav Wedges~0.4456522~0~0.6086956~0~0.3043478~0~0.1847826~0, InsectGroup><500.5725><269.0922><-135~192~0~0~RockFlea~0.1413043, FirecrackerPlant><688.871><466.3472><0~0~2~3, FirecrackerPlant><299.8777><310.4039><0~0~2~3, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.0326087><0.4326087, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.1195652><1, OMNI><AM_ENV-Outside.ogg><741.9398><495.3129><0.2391304><0.9804348, OMNI><AM_SUB-CaveTone.ogg><786.1996><250.0114><0.06521739><1, OMNI><AM_ENV-Pasture.ogg><747.8079><595.3055><0.173913><1, 
+FadePalette: 8, 0.5326087

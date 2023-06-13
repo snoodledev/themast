@@ -1,0 +1,19 @@
+Template: NONE
+RainIntensity: 1
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.5543478
+WaveLength: 0.4347826
+WaveAmplitude: 0
+SecondWaveLength: 0.5434783
+SecondWaveAmplitude: 0.1086956
+Clouds: 0.1195652
+Grime: 0.1086956
+RandomItemDensity: 0.6630435
+WaterReflectionAlpha: 0.4021739
+Palette: 105
+EffectColorA: 18
+EffectColorB: 6
+Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.04695652-290-142, WaterGlowworm-0.8695652-289-222, 
+PlacedObjects: LightSource><595.4378><638.9312><0.25~Environment~663~-478~119~-311.3975~1~1, LightSource><1280.318><617.8329><0.1630435~Environment~-615~-582~-606~-115.3975~1~1, MultiplayerItem><792.59><548.6199><Spear~-3.679504~27~0.4565217, MultiplayerItem><812.05><37.50198><Spear~-352.6795~-17~0.2608696, MultiplayerItem><531.1478><228.3847><Spear~17.32051~-10~0.6521739, MultiplayerItem><1435.723><300.9482><SporePlant~-370.6794~143~0.2826087, MultiplayerItem><341.9459><394.5402><SporePlant~17.32051~-10~0.08695637, MultiplayerItem><1263.062><233.4317><Spear~-231.6795~99~0.4130435, MultiplayerItem><1557.7><336.2473><SporePlant~-680.6795~-163~0.2065217, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><49.05322><336.2857><0.3695652><1, OMNI><AM_ENV-Pasture.ogg><48.57251><260.0921><0.4130435><1, OMNI><AM_ENV-WindGrass.ogg><724.8><415.7493><0.3586957><1, 
+FadePalette: 2, 0.03

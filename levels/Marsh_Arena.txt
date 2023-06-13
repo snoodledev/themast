@@ -1,0 +1,36 @@
+Creature - Salamander - dens:4,5,6,7,8,9 - chance:0.4 - invSymbol:A2
+Creature - Blue - dens:4,5,6 - chance:0.1 - invSymbol:A3
+
+CreatureGroup - SALAMANDERS - symbol:A1
+Creature - Salamander - dens:4,5,6,7,8,9 - amount:3 - group:SALAMANDERS
+
+CreatureGroup - LIZARDS - symbol:A2
+Creature - Green - dens:4,5,6 - group:LIZARDS
+Creature - Blue - dens:4,5 - group:LIZARDS
+Creature - Pink - dens:4,5,6,7 - group:LIZARDS
+Creature - White - dens:4,5 - chance:0.2 - group:LIZARDS
+
+CreatureGroup - YELLOWS - symbol:A3
+Creature - Yellow - dens:4,5,6,7 - amount:3-4 - group:YELLOWS
+
+CreatureGroup - CENTIWINGS - symbol:B1
+Creature - Centiwing - dens:4,5,6,7 - amount:2-3 - group:CENTIWINGS
+
+CreatureGroup - CENTIS - symbol:B2
+Creature - Centipede - dens:4,5 - amount:1-2 - group:CENTIS
+
+CreatureGroup - SCAVS - symbol:B3
+Creature - Scavenger - dens:-1 - amount:4-6 - group:SCAVS
+
+Creature - Red - dems:4,5,6,7 - amount:1 - symbol:B4 - chance:0.1 - RARE
+
+CreatureGroup - LEECHES - chance:0.6
+Creature - Leech - dens:8,9 - chance:0.7 - amount:2-3 - symbol:C1 - group:LEECHES
+Creature - SeaLeech - dens:8,9 - chance:0.3 - amount:1-2 - symbol:C2 - group:LEECHES
+Creature - Snail - amount:1-3 - dens:6,7,8,9 - chance:0.4 - symbol:C3
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:4,5,6 - amount:1-2 - chance:0.2 - group:CYANS
+
+Creature - Vulture - chance:0.6 - symbol:D1
+Creature - KingVulture - chance:0.01 - amount:1 - symbol:D2 - RARE

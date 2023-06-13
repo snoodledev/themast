@@ -1,0 +1,26 @@
+CreatureGroup - YELLOWS - chance:0.9 - symbol:A1
+Creature - Yellow - dens:5,6,8,9,10 - amount:3-4 - group:YELLOWS
+
+CreatureGroup - SCAVS - symbol:B4
+Creature - Scavenger - dens:-1 - group:SCAVS
+Creature - Scavenger - dens:-1 - group:SCAVS
+Creature - Scavenger - dens:-1 - group:SCAVS
+Creature - Scavenger - dens:-1 - group:SCAVS
+
+Creature - Centipede - chance:0.8 - dens:5,6,8,9,10 - amount:3-4 - symbol:A3
+
+CreatureGroup - SPIDS - chance:0.3 - symbol:A2
+Creature - Big Spider - dens:5,6,8,9,10 - chance:0.6 - amount:2-3 - group:SPIDS
+Creature - Spitter Spider - dens:5,6,8,9,10 - chance:0.3 - group:SPIDS
+
+Creature - Centiwing - dens:4,7,11 - chance:1.0 - amount:2-3 - symbol:B1
+Creature - White - dens:5,6,11 - chance:0.4 - amount:1 - symbol:B2
+Creature - Dropbug - dens:4,7,11 - chance:0.1 - amount:2-3 - symbol:B3
+
+Creature - Blue - dens:5,6,7,8,10 - chance:0.5 - amount:1-2 - invGroup:BLUES
+
+Creature - Vulture - chance:0.5 - symbol:D1
+Creature - KingVulture - chance:0.01 - symbol:D2 - RARE
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:5,6,10,11 - amount:1-2 - chance:0.2 - group:CYANS

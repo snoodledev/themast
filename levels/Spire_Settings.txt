@@ -1,0 +1,16 @@
+Template: NONE
+DangerType: Thunder
+CeilingDrips: 0
+RainIntensity: 0.3369565
+RumbleIntensity: 0.3695652
+Clouds: 0
+Grime: 0
+RandomItemDensity: 0.9021739
+RandomItemSpearChance: 0.2760869
+Palette: 28
+EffectColorA: 18
+EffectColorB: 15
+Effects: SkyBloom-0.1956522-24-72, AboveCloudsView-1-20-20, ElectricDeath-1-28-134, 
+PlacedObjects: MultiplayerItem><421.5627><590.1899><Spear~17.32051~-10~0.3804348, MultiplayerItem><131.8997><666.673><Spear~17.32051~-10~0.5, MultiplayerItem><252.6262><469.407><Rock~17.32051~-10~0.5652174, MultiplayerItem><708.8848><546.4135><Spear~17.32051~-10~0.2282609, MultiplayerItem><583.45><128.0013><Spear~17.32051~-10~0.316163, DeepProcessing><549.6004><399.173><1~38~36~43~81~0~-266~-80~0.1413043~1~0.423913, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><709.9399><664.3126><0.2608696><1.019565, OMNI><AM_WIN-HowlingWnd.ogg><715.1532><589.3785><0.1956522><1, 
+FadePalette: 19, 0.1

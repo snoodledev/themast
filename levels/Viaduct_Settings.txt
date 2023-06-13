@@ -1,0 +1,15 @@
+Template: NONE
+CeilingDrips: 0.1630435
+RainIntensity: 0.6304348
+RumbleIntensity: 0.8369565
+Clouds: 0.1847826
+Grime: 0.1
+RandomItemDensity: 0.4021739
+RandomItemSpearChance: 0.1673912
+Palette: 2
+EffectColorA: 5
+EffectColorB: 6
+Effects: Fog-0.2608696-20-20, RockFlea-0.07608695-25-70, RedSwarmer-0.01086957-282-19, Flies-0.02173913-292-75, 
+PlacedObjects: LightSource><353.3971><750.3494><0.1230336~Environment~959~-663~77~-118.3975~1~1, LightSource><818.3235><739.344><0.06521739~Environment~-978~-623~-643~-108.3975~1~1, MultiplayerItem><1038.662><582.3828><SporePlant~-270.6794~13~0.2826087, MultiplayerItem><317.9478><245.5569><Spear~17.32051~-10~0.2826087, MultiplayerItem><712.6437><166.8306><Spear~-57.6795~94~1, MultiplayerItem><999.3355><146.8863><ExplosiveSpear~17.32051~-10~0.3478261, MultiplayerItem><226.5579><125.0554><Spear~17.32051~-10~0.2608696, MultiplayerItem><341.3029><606.5337><Rock~20.3205~-114~0.4347826, 
+AmbientSounds: OMNI><AM_ENV-Pasture.ogg><474.0538><636.7113><0.2065217><1, OMNI><AM_ENV-Outside.ogg><475.5696><548.3125><0.4130435><1, OMNI><AM_ENV-NatWind.ogg><740.8383><487.9295><0.1956522><1, 
+FadePalette: 105, 0.95

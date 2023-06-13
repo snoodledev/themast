@@ -1,0 +1,19 @@
+Creature - Yellow - dens:4,6,7 - chance:1.0 - amount:3-4 - symbol:A1
+Creature - Blue - dens:5,6,7,8 - chance:1.0 - amount:2-3 - symbol:A2
+Creature - White - dens:4,6,7 - chance:0.5 - amount:2 - symbol:A3
+
+Creature - White - dens:4,6,7 - chance:0.5 - amount:1 - symbol:A1
+Creature - White - dens:4,6,7 - chance:0.2 - amount:1 - symbol:A2
+
+Creature - Centipede - chance:0.2 - dens:4,5 - amount:2 - symbol:B1
+Creature - Centiwing - chance:0.8 - dens:4,5 - amount:2-3 - symbol:B2
+Creature - BigNeedleWorm - chance:1.0 - dens:4,5 - amount:1 - symbol:B3
+
+Creature - Cyan - dens:4,8 - amount:1-2 - chance:0.1
+
+Creature - Blue - dens:5,6,7 - chance:1.0
+Creature - Cicada - dens:4 - chance:0.2 - amount:2
+
+Creature - Vulture - chance:1.0 - symbol:D1
+Creature - Vulture - chance:0.2 - symbol:D1 - RARE
+Creature - KingVulture - chance:0.1 - symbol:D2 - RARE

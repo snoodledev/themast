@@ -1,0 +1,17 @@
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.3913043
+RumbleIntensity: 0.6630435
+WaveSpeed: 0.4970821
+WaveLength: 0.998541
+WaveAmplitude: 0.0006772109
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.6521739
+Grime: 0.2065217
+RandomItemDensity: 0.3369565
+Effects: Fog-0.1291892-30-30, AboveCloudsView-0-30.67188-106.7979, CloudAdjustment-0.2087976-293.9906-203.6354, Coldness-1-20-20, 
+PlacedObjects: Mushroom><372.1355><157.336><0~0~2~3, Mushroom><354.5645><162.8247><25~61~2~3, SnowSource><2097.933><182.42><None~1537~-10~50~86.60254~0.2173913~0.05434782, SnowSource><4009.978><325.8012><Radial~1058~376~50~86.60254~0.4891304~0.2717391, SnowSource><426.6738><276.4349><Radial~584~328~50~86.60254~0.5108696~0.3478261, 
+AmbientSounds: SPOT><AM_IND-ElectricHum02.ogg><11.8429><263.4271><0.1521739><0.6673913><1402.843><252.4271><-35.35534><-35.35534><0.1413043><0.2413045, 
+FadePalette: 12, 0.5108697, 0.4456518, 0.3787593, 0.2746603
+WetTerrain: OFF

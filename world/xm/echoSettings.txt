@@ -1,0 +1,5 @@
+priming : false
+radius : 4
+echosong : TM_if2
+room : XM_X01
+defaultflip : 1.0

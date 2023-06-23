@@ -3,9 +3,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.6781254
 RumbleIntensity: 0.6413044
-WaveSpeed: 0.4725672
-WaveLength: 0.9862836
-WaveAmplitude: 0.0005424422
+WaveSpeed: 0.4972655
+WaveLength: 0.9986327
+WaveAmplitude: 2.234266E-12
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1195652
@@ -13,11 +13,11 @@ Grime: 0.1086956
 RandomItemDensity: 0.25
 RandomItemSpearChance: 0.1130434
 WaterReflectionAlpha: 0.4021739
-Palette: 12
+Palette: 198
 EffectColorA: 6
 EffectColorB: 13
-Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.1195652-300-146, Dustpuffs-0-30-30, 
+Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.1195652-300-146, Dustpuffs-0-30-30, Darkness-0.2065217-279-216, 
 PlacedObjects: LightSource><69.60474><757.0507><0.1975429~Environment~815.8208~-563.7906~-214.2625~-352.4319~1~1~None~0~0, LightSource><-195.1036><198.8463><0.2783966~Environment~1076.942~-26.17812~50~86.60254~1~1~None~0~0, SnowSource><182.2354><354.6912><Radial~923.4729~97.8656~3.043762~100.8318~0.5669383~0.4794617, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><61.4491><448.9812><0.4130435><1, OMNI><AM_ENV-NatWind.ogg><57.13031><361.6602><0.3080842><1, OMNI><AM_ENV-LightWind.ogg><74.49536><256.05><0.3043478><1, 
-FadePalette: 0, 0.5562615
+FadePalette: 105, 0.1214789
 WetTerrain: OFF

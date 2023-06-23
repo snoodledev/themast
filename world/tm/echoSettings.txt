@@ -1,0 +1,6 @@
+(White,Yellow)priming : true
+(Red)priming : false
+radius : 3
+echosong : TM_if
+room : TM_A06
+defaultflip : -1.0

@@ -1,9 +1,18 @@
+CeilingDrips: 0
 RainIntensity: 0.6304348
 RumbleIntensity: 0.2173913
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.2717391
 Grime: 0.0326087
+Palette: 198
+EffectColorA: 13
 EffectColorB: 13
-Effects: Fog-0.4891304-277-23, DayNight-0.8913044-282-141, 
-PlacedObjects: InsectGroup><629.1417><967.3588><-10~182~0~0~Moth~0.1956522, InsectGroup><570.0787><559.1032><0~100~0~0~Moth~0.06521739, LightSource><643.0962><1037.675><0.1195652~Environment~-445~372~50~86.60254~1~1~None~0~0, LightSource><637.8935><257.8607><0.09782609~Environment~-351~243~50~86.60254~1~1~None~0~0, DayNightSettings><315.1712><411.6034><5~8.660254~3~46, 
+Effects: Fog-0.4891304-277-23, DayNight-0.8913044-282-141, SkyAndLightBloom-0-26-24, 
+PlacedObjects: InsectGroup><629.1417><967.3588><-10~182~0~0~Moth~0.1956522, InsectGroup><570.0787><559.1032><0~100~0~0~Moth~0.06521739, LightSource><643.0962><1037.675><0.06521739~Environment~-445~372~50~86.60254~1~1~None~0~0, LightSource><637.8935><257.8607><0.08695652~Environment~-351~243~50~86.60254~1~1~None~0~0, DayNightSettings><315.1712><411.6034><5~8.660254~3~46, 
 AmbientSounds: SPOT><SO_IND-WeirdVent.ogg><520.9105><294.6306><0.7826087><0.5695652><634.9105><650.6306><-49.35535><-42.35535><0><0.2304349, SPOT><SO_IND-Generator.ogg><726.3242><216.1547><0.4456522><0.7456522><644.3242><1442.155><-35.35534><-35.35534><0><0.1869567, OMNI><SO_IND-WeirdVent.ogg><734.3674><116.3997><0.5><0.276087, OMNI><SO_IND-Humm.ogg><719.8133><192.8103><0.25><1, SPOT><AM_IND-DeepHum.ogg><510.9147><155.1809><0.3152174><1><634.9147><649.1809><-113.3553><-53.35535><0><0.2086958, SPOT><SO_IND-HVAC.ogg><314.1407><202.8579><0.6739131><1><633.1407><646.8579><-80.35535><-66.35535><0><0.1, 
-FadePalette: 3, 0.3804348, 0.4456522
+FadePalette: 10, 0.2391304, 0.3043478
+WetTerrain: OFF

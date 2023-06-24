@@ -1,9 +1,17 @@
-CeilingDrips: 0.0326087
+DangerType: Blizzard
+CeilingDrips: 0
 RainIntensity: 0.1413043
 RumbleIntensity: 0.173913
+WaveSpeed: 0.4999453
+WaveLength: 0.9999726
+WaveAmplitude: 1.779121E-11
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.1086956
-Palette: 19
-Effects: SkyAndLightBloom-0.4782609-18-23, DayNight-1-308-33, 
-PlacedObjects: LightSource><399.4022><241.6745><0.0326087~Environment~-265~198~-430~227.6025~1~1~None~0~0, DayNightSettings><197.02><342.449><5~8.660254~3~46, WallSteamer><370.5656><627.8274><56~24, Filter><390.3285><632.816><-42~68~0~0~Rivulet|Saint, 
+Palette: 198
+EffectColorA: 13
+Effects: SkyAndLightBloom-0.4782609-18-23, DayNight-1-308-33, AboveCloudsView-0-301-106, Fog-0.3804348-274-164, 
+PlacedObjects: LightSource><399.4022><241.6745><0.0326087~Environment~-265~198~-430~227.6025~1~1~None~0~0, DayNightSettings><197.02><342.449><5~8.660254~3~46, LightSource><1065.695><659.5578><0.06521739~Environment~-1465~-828~-423~-152.3975~1~1~None~0~0, SnowSource><1014.625><602.156><Radial~-254~-137~-296~-238.3975~0.8043478~0.4456522, SnowSource><1031.158><191.3225><Radial~-181~212~-303~-53.39746~0.6304348~0.5, 
 AmbientSounds: SPOT><AM_WIN-HowlingWnd.ogg><778.287><547.9465><0.173913><0.1><-2.713013><501.9465><68.64466><-90.35535><0><0.2956523, SPOT><AM_WIN-StrongWnd2.ogg><377.4445><339.2035><0.2065218><1><27.44452><491.2035><-35.35534><-35.35534><0><0.7304349, SPOT><AM_IND-DeepHum.ogg><551.6287><622.3411><0.4673913><1><581.6287><569.3411><-74.35535><-95.35535><0><0.5891306, SPOT><Mech Basic.wav><794.5936><125.1247><0.3586957><1><1115.594><126.1247><-356.3553><62.64466><0><0.3500001, 
-FadePalette: 3, 0.6413044
+FadePalette: 8, 0.1086956
+WetTerrain: OFF

@@ -1,9 +1,9 @@
 CeilingDrips: 0
 RainIntensity: 0.5217391
 RumbleIntensity: 0.1521739
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.4932098
+WaveLength: 0.9966049
+WaveAmplitude: 0.0002233684
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.7282609
@@ -15,5 +15,5 @@ Effects: Fog-0.326087-309-20, SkyAndLightBloom-0-22-25,
 PlacedObjects: CustomDecal><338.73><629.801><-40~-101~56~-126~104~1~-324~-288~0.3043478~0.5217391~0~UWshelter~0.5434783~0.8043478~0.5434783~0.8043478~0.5434783~0.8043478~0.5434783~0.8043478, ReliableIggyDirection><649.3771><311.5922><0~100~50~50~2~Shelter~AnyTime~3~0~White|Yellow, 
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><735.9191><375.1829><0.5><0.276087, SPOT><AM_IND-ElectricHum01.ogg><677.8799><211.652><0.2608696><1><666.8799><514.652><-29.35535><-7.355347><0><0.1, SPOT><AM_IND-DeepHum.ogg><179.1888><230.5661><0.3478261><0.9021739><451.1888><122.5661><-35.35534><-35.35534><0><0.3065219, SPOT><AM_IND-ElectricHum02.ogg><726.4593><281.6958><0.2934783><0.6282609><451.4593><157.6958><-35.35534><-35.35534><0><0.2304349, 
 Triggers: Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>208.1447<tB>415.83<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB>White|Red|Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>754.1448<tB>304.83<tA>handlePos<tB>-5.355347<tB>115.6447, 
-FadePalette: 10, 0.4347826
+FadePalette: 10, 0.5
 WetTerrain: OFF

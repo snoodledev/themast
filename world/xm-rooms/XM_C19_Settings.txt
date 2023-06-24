@@ -13,5 +13,5 @@ EffectColorB: 21
 Effects: SkyAndLightBloom-0-29-20, 
 PlacedObjects: KarmaFlower><745.0535><328.9628><-39~267~5~7, Filter><763.5776><361.3986><0~55~-350~111~White|Red|Rivulet|Artificer|Saint|Spear|Gourmand, LightSource><604.306><398.7011><0.0326087~Environment~628~280~-367~-177.3975~1~1~None~0~0, 
 AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><709.3417><296.6777><0.4891304><0.55><656.3417><498.6777><-35.35534><-35.35534><0><0.1652175, 
-FadePalette: 10, 0.3586957
+FadePalette: 10, 0.326087
 WetTerrain: OFF

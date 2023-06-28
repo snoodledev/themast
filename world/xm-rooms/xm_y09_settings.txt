@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.6413044
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.07608695
+Grime: 0.1086956
+Palette: 198
+EffectColorA: 18
+EffectColorB: 13
+Effects: FairyParticles-0.08695652-300-88, ReplaceEffectColorB-0.1630435-341-174-Color-0.9130435-0.9673913-0.8586956, Fog-0.1521739-327-15, Flies-0.04347826-19-78, RockFlea-0.1086956-306-84, 
+PlacedObjects: FairyParticleSettings><2227.579><1541.604><-35~151.6602~0~1~1~0~1~4~60~180~40~100~5~26.08704~176.087~195.6522~0~0~0~0~0.01086957~0.01086957~0.5~0.7065217~1.899995~Leaf~SIN_IO~SIN_IO~0~0~0, LightSource><222.55><124.2468><0.6086956~EffectColor2~6~60~-333~43.60254~0~0~None~0~0, LightSource><237.3077><134.6948><0.05434782~EffectColor2~-14~69~-335~161.6025~0~1~None~0~0, LightSource><366.3183><563.0836><0.3043478~EffectColor2~-16~58~-25~-166.3974~0~0~None~0~0, LightSource><679.6813><126.6654><0.08695652~EffectColor2~-36~140~73~-122.3975~0~1~None~0~0, LightSource><655.4315><111.5621><0.4456522~EffectColor2~-23~69~96~-6.397461~0~0~None~0~0, LightSource><698.5451><133.9449><0.5760869~EffectColor2~0~100~50~86.60254~0~0~None~0~0, 
+FadePalette: 10, 0.8130435
+WetTerrain: OFF

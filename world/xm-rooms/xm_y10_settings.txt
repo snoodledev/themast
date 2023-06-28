@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 1
+RumbleIntensity: 0.6413044
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.07608695
+Grime: 0.1086956
+Palette: 198
+EffectColorA: 18
+EffectColorB: 13
+Effects: FairyParticles-0.08695652-300-88, ReplaceEffectColorA-0-728-347-Color-0.4021739-0-0, ReplaceEffectColorB-0.1630435-341-174-Color-0.9130435-0.9673913-0.8586956, Fog-0.05434782-327-15, Flies-0.04347826-19-78, RockFlea-0.1086956-306-84, LightBurn-0.2282609-20-20, 
+PlacedObjects: FairyParticleSettings><2227.579><1541.604><-35~151.6602~0~1~1~0~1~4~60~180~40~100~5~26.08704~176.087~195.6522~0~0~0~0~0.01086957~0.01086957~0.5~0.7065217~1.899995~Leaf~SIN_IO~SIN_IO~0~0~0, LightSource><405.9952><1881.05><0.02173912~Environment~-217~349~-164~123.6025~1~1~None~0~0, LightSource><679.8273><1940.434><0.01086957~EffectColor1~21~174~50~86.60254~1~1~None~0~0, LightSource><728.6324><1821.088><0.02173915~EffectColor1~-164~160~50~86.60254~1~1~None~0~0, LightSource><774.9651><1701.447><0.01086957~EffectColor1~-162~179~50~86.60254~1~1~None~0~0, LightSource><838.431><362.0849><0.02173913~Environment~-43~238~-186~148.6025~0~1~None~0~0, LightSource><905.8206><1238.687><0.5652174~EffectColor2~-50~68~-423~-113.3975~0~0~None~0~0, LightSource><901.6992><1239.268><0.1086956~EffectColor2~-29~84~-420~2.602539~0~1~None~0~0, LightSource><787.8866><1188.915><0.75~EffectColor2~-15~57~177~29.60254~0~0~None~0~0, LightSource><786.0573><1190.446><0.07608695~EffectColor2~-8~76~161.0001~-91.39746~0~1~None~0~0, LightSource><883.8098><1242.188><0.4021739~EffectColor2~-30~40~50~86.60254~0~0~None~0~0, LightSource><421.5813><249.6827><0.5~EffectColor2~-19~74~-380~69.60254~0~0~None~0~0, LightSource><426.188><251.6901><0.09782609~EffectColor2~2~68~50~86.60254~0~1~None~0~0, LightSource><921.1196><241.4016><0.2391304~EffectColor2~-16~97~50.00006~86.60254~0~0~None~0~0, LightSource><916.1822><248.9175><0.08695652~EffectColor2~-30~113~74.99994~-38.39748~0~1~None~0~0, LightSource><384.8499><708.3821><0.4782609~EffectColor2~74~-52~-312~-205.3975~0~0~None~0~0, LightSource><394.308><709.6938><0.1195652~EffectColor2~71~-66~-57~-269.3975~0~1~None~0~0, 
+FadePalette: 10, 0.6173913, 0.7152174, 0.7913044
+WetTerrain: OFF

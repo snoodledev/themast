@@ -1,8 +1,18 @@
-Clouds: 0
-Palette: 28
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.05434782
+WaveSpeed: 0.5
+WaveLength: 1
+WaveAmplitude: 1.984354E-28
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.2391304
+Grime: 0.2391304
+Palette: 198
 EffectColorA: 18
-EffectColorB: 13
-Effects: SkyAndLightBloom-0.1521739-26-23, 
-PlacedObjects: LightSource><635.1926><350.9416><0.07608695~EffectColor1~154~-27~-4~238.6025~1~1~None~0~0, DeepProcessing><536.6862><268.6771><-11~152~215~163~210~-1~-4~-189~0.1195652~1~0.6304348, LightSource><461.5961><311.1278><0.05434782~Environment~309~201~-281~231.6025~1~1~None~0~0, LightSource><452.1287><312.591><0.2173913~Environment~30~113~-258~64.60254~1~1~None~0~0, LightSource><620.8495><343.3683><1~EffectColor1~-116~75~-444~-159.3975~0~0~Fade~0.4891304~0, 
-AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><722.097><627.6211><0.4565217><0.5695652, OMNI><AM_IND-Utility01.ogg><735.1303><454.0898><0><1, SPOT><SO_SFX-Data5.ogg><715.0617><235.8174><0.6195652><0.9413043><553.0617><303.8174><-84.35535><3.644653><0><0.1326088, SPOT><Basic Mech.wav><719.8001><71.50626><0.1630435><0.8043478><455.8001><328.5063><-89.35535><-32.35535><0><0.1652175, OMNI><SO_IND-Turbine.ogg><536.8795><625.5903><0.3804348><0.7847826, OMNI><AM_ENV-LightWind.ogg><719.8661><522.4128><0><1, OMNI><AM_ENV-WallHum.ogg><735.9191><375.1829><0.2717391><0.2565217, OMNI><SO_IND-MechHum02.ogg><561.55><539.4963><0.3586957><0.3347826, 
-FadePalette: 29, 0.2826087
+Effects: ReplaceEffectColorA-0-940-414-Color-0.2826087-0-0, ReplaceEffectColorB-0.2391304-308-180-Color-0.4456522-0.4130435-0.3913043, SkyAndLightBloom-0.02173913-16-16, 
+PlacedObjects: LightSource><269.3548><422.9203><0.05434782~Environment~-79~87~50~86.60254~1~1~None~0~0, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, ShelterBhvrSpawnPosition><212.9176><413.3295><, ShelterBhvrManager><646.5524><280.443><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrTriggerZone><197.138><403.6052><93~77, 
+FadePalette: 10, 0.2934783
+WetTerrain: OFF

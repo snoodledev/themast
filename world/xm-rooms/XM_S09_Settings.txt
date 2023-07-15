@@ -1,3 +1,4 @@
+Template: NONE
 CeilingDrips: 0
 RainIntensity: 0
 RumbleIntensity: 0.05434782
@@ -10,7 +11,6 @@ Clouds: 0
 Palette: 198
 EffectColorA: 18
 Effects: ReplaceEffectColorA-0-940-414-Color-0.2826087-0-0, ReplaceEffectColorB-0.1956522-308-180-Color-0.5434783-0.5-0.4130435, SkyAndLightBloom-0.02173913-16-16, 
-PlacedObjects: LightSource><515.3548><381.9203><0.04347826~Environment~-79~87~50~86.60254~1~1~None~0~0, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, 
-AmbientSounds: SPOT><SO_IND-Generator.ogg><734.9121><223.6329><0.4347826><0.373913><472.9121><425.6329><-69.35529><5.644653><0><0.2956523, SPOT><SO_IND-HeatDuct.ogg><463.6722><211.1483><0.3695652><0.8043478><440.6722><470.1483><-25.35535><-29.35535><0><0.1, 
+PlacedObjects: LightSource><515.3548><381.9203><0.02173913~Environment~-79~87~50~86.60254~1~1~None~0~0, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, 
 FadePalette: 10, 0.6413044
 WetTerrain: OFF

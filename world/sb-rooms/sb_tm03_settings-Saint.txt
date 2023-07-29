@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.02173913
+Grime: 0
+BkgDroneVolume: 0
+Palette: 198
+EffectColorA: 0
+EffectColorB: 6
+PlacedObjects: LightBeam><598.9955><444.45><-40~238~16~258~44~6~-436~94~0.5739129~0.2065217~0.07608695~1~None~0~0, LightSource><609.4495><457.7639><0.07608695~Environment~-131~148~-459~-67.39746~1~1~None~0~0, DangleFruit><639.5369><484.6966><-641~-227~2~3, DangleFruit><596.7115><517.692><-314~-319~2~3, DataPearl><617.76><428.3824><225~19~0~0~Misc~0, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><829.3027><640.0327><0.3913043><1, OMNI><AM_SUB-BlankState.ogg><655.7799><638.9478><0.3804348><1, 
+FadePalette: 10, 0.1521739
+WetTerrain: OFF

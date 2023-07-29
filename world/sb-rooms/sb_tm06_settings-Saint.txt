@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.490339
+WaveLength: 0.9646388
+WaveAmplitude: 0.001065465
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1231318
+Grime: 0
+BkgDroneVolume: 0
+Palette: 198
+EffectColorA: 0
+EffectColorB: 6
+Effects: LightBurn-0.6365376-20-20, 
+PlacedObjects: LightSource><432.181><1278.313><0~Environment~349.326~111.3833~212.2126~-35.76831~1~1~None~0~0, InsectGroup><411.9621><1215.435><98.18127~151.225~-283.8718~-29.1698~Moth~0.3762678, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><829.3027><640.0327><0.4021739><1, OMNI><AM_SUB-BlankState.ogg><655.7799><638.9478><0.3152174><1, 
+FadePalette: 10, 0.6504986, 0.6985285
+WetTerrain: OFF

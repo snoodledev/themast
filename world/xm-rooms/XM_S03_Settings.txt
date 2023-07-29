@@ -5,7 +5,7 @@ RainIntensity: 0
 RumbleIntensity: 0.05434782
 WaveSpeed: 0.5
 WaveLength: 1
-WaveAmplitude: 1.984354E-28
+WaveAmplitude: 5.605194E-45
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.2391304

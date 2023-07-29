@@ -3,9 +3,9 @@ DangerType: FloodAndRain
 CeilingDrips: 0
 RainIntensity: 0.8586956
 RumbleIntensity: 0.6304348
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.4620858
+WaveLength: 0.9810429
+WaveAmplitude: 9.000006E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.6847826
@@ -13,7 +13,8 @@ Grime: 0.1086956
 Palette: 12
 EffectColorA: 8
 EffectColorB: 6
-Effects: Fog-0.1086956-327-15, Flies-0.04347826-19-78, RockFlea-0.1304348-20-20, Darkness-0.6195652-319-130, 
+Effects: Fog-0.1086956-327-15, Flies-0.04347826-19-78, RockFlea-0.1304348-20-20, 
 AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.1195652><0.4326087, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.3152174><1, OMNI><AM_ENV-Outside.ogg><741.9398><495.3129><0.2065217><0.9804348, SPOT><AM_ENV-NatWind.ogg><454.3082><315.3065><0.3913043><1><251.3082><718.3065><99.64465><-84.35535><0><0.2413038, OMNI><AM_SUB-CaveTone.ogg><710.1996><253.0114><0.25><1, SPOT><AM_ENV-NatWind.ogg><470.6969><490.9428><0.173913><1><400.6969><759.9428><-171.3553><-173.3553><0><1, 
-FadePalette: 15, 0.3478261
+FadePalette: 198, 0.4130435
 WetTerrain: OFF
+MorePalette0: 10, 0.5217391

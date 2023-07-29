@@ -2,13 +2,13 @@ Template: NONE
 CeilingDrips: 0
 RainIntensity: 0.7065217
 RumbleIntensity: 0.3152174
-WaveSpeed: 0.5066383
-WaveLength: 0.9966809
-WaveAmplitude: 9.000164E-05
+WaveSpeed: 0.5007128
+WaveLength: 0.9996436
+WaveAmplitude: 9E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Grime: 0.1086956
-Palette: 12
+Palette: 198
 EffectColorA: 21
 EffectColorB: 13
 Effects: SkyAndLightBloom-0.1304348-20-20, Fog-0.3369565-24-101, 

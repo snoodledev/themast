@@ -1,3 +1,4 @@
+
 Palette: 19
 batDepleteCyclesMin: 2
 batDepleteCyclesMax: 7
@@ -8,9 +9,9 @@ blackSalamanderChance: 0.02
 overseersSpawnChance: 0.6
 overseersMin: 0
 overseersMax: 4
-Subregion: Ashen Spire
 playerGuideOverseerSpawnChance: 0.04
 Room Setting Templates: Inside, Outside, 
+Subregion: Ashen Spire
 Room_Attr: XM_E01: MirosBird-Stay,
 Room_Attr: XM_E12: MirosBird-Stay,
 Room_Attr: XM_F06: MirosBird-Stay,
@@ -22,4 +23,3 @@ Room_Attr: XM_Y06: MirosBird-Stay,
 Room_Attr: XM_Y07: MirosBird-Stay,
 Room_Attr: XM_Y12: MirosBird-Stay,
 Room_Attr: XM_Y14: MirosBird-Stay,
-Room_Attr: XM_Y13: MirosBird-Stay,

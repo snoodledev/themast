@@ -1,0 +1,18 @@
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.1630435
+Grime: 0
+BkgDroneVolume: 0
+Palette: 198
+EffectColorA: 18
+EffectColorB: 6
+Effects: LightBurn-0.3369565-20-20, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><829.3027><640.0327><0.4021739><1, OMNI><AM_SUB-BlankState.ogg><655.7799><638.9478><0.2065217><1, OMNI><AM_IND-Utility02.ogg><824.6682><548.9325><0.3478261><0.3934783, OMNI><Deep Weird Wind.wav><818.566><446.4216><0.09782609><0.4130435, 
+FadePalette: 10, 0.7282609, 0.8152174
+WetTerrain: OFF

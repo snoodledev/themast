@@ -1,0 +1,20 @@
+Template: NONE
+CeilingDrips: 0
+RainIntensity: 0.8586956
+RumbleIntensity: 0.6304348
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3804348
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 105
+EffectColorA: 8
+EffectColorB: 6
+Effects: Flies-0.04347826-19-78, RockFlea-0.1413043-20-20, 
+PlacedObjects: LightSource><528.1364><377.8354><0.02173913~Environment~-40~168~50~86.60254~1~1~None~0~0, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.1086956><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.2391304><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.25><1, SPOT><SO_IND-HeatDuct.ogg><532.0857><114.886><0.4021739><1><600.0857><467.886><-46.35535><-35.35535><0><0.1, SPOT><waterGurgleLOOP2.wav><122.6199><338.0899><0.2173913><1><53.61987><299.0899><25.64465><-12.35535><0><0.4695654, SPOT><SO_SFX-LakeBottom.ogg><444.8544><510.0794><0.1413043><0.5304348><445.8544><230.0794><-487.3553><-11.35535><0><0.1, SPOT><waterGurgleLOOP1.wav><134.3596><448.3327><0.1630435><1><34.35956><298.3327><29.64465><-22.35535><0><0.5565217, 
+FadePalette: 8, 0.6956522
+WetTerrain: OFF

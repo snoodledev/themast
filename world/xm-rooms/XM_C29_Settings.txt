@@ -1,8 +1,9 @@
+DangerType: None
 CeilingDrips: 0
 RumbleIntensity: 0.2934783
-WaveSpeed: 0.4828671
-WaveLength: 0.9914336
-WaveAmplitude: 8.100054E-05
+WaveSpeed: 0.5146233
+WaveLength: 0.8405144
+WaveAmplitude: 0.03043477
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 198

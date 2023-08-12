@@ -1,5 +1,5 @@
 Template: NONE
-DangerType: Flood
+DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.8586956
 RumbleIntensity: 0.2826087

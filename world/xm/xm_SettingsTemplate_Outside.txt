@@ -1,4 +1,4 @@
-DangerType: Rain
+DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.75
 RumbleIntensity: 0.1521739
@@ -14,7 +14,7 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.4565217
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 19
+Palette: 198
 EffectColorA: 5
 EffectColorB: 13
 AmbientSounds: OMNI><AM_ENV-NatWind.ogg><838.4495><650.9854><0.4456522><1, OMNI><AM_ENV-LightWind.ogg><660.0915><650.6779><0.423913><0.9021739, 

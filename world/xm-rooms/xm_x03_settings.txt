@@ -1,16 +1,16 @@
 Template: XM_SettingsTemplate_Outside
 DangerType: Blizzard
 CeilingDrips: 0
-RainIntensity: 0.01086957
-WaveSpeed: 0.5000029
-WaveLength: 0.9999985
-WaveAmplitude: 7.213413E-09
+RainIntensity: 0.06521739
+WaveSpeed: 0.4999372
+WaveLength: 0.9836643
+WaveAmplitude: 0.003233838
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.02173913
 Palette: 12
-Effects: AboveCloudsView-0-20-20, Fog-0.5760869-30-81, 
-PlacedObjects: LightSource><694.1408><680.108><0.0326087~Environment~970~-428~-276~-144.3975~1~1~None~0~0, LightSource><1043.181><673.1643><0.06521739~Environment~1573~-862~-353~-142.3975~1~1~None~0~0, LightSource><705.196><2055.21><0.1195652~Environment~1119~-442~36~-47.39752~1~1~None~0~0, SnowSource><466.8115><1896.933><None~970~538~-576~160.6025~0.2934783~0.6086956, SnowSource><23.81812><355.9168><Radial~975~475~50~86.60254~0.2065217~0.4565217, SnowSource><171.9109><417.1791><Radial~1099~391~37~-239.3975~0.4673913~0.4782609, LightSource><-133.7985><2223.194><0.09782609~Environment~1571~-871~352~-325.3975~1~1~None~0~0, LightSource><-64.05069><1253.983><0.1195652~Environment~1292~-458~5.000031~53.60254~1~1~None~0~0, LightSource><-207.6821><618.3328><0.01086957~Environment~1026~-419~25~-77.39752~1~1~None~0~0, LightSource><482.4363><684.3229><0.1630435~Environment~-133~-186~-459~-177.3975~1~1~None~0~0, ColouredLightSource><430.6992><2264.982><-220~-247~E9C2A9~-1518^-912~0.1521739~True~0.5~0~0.5~Always~0~100, 
+Effects: DayNight-0.9-338-15, AboveCloudsView-0-20-20, Fog-0.5760869-30-81, 
+PlacedObjects: DayNightSettings><2078.832><1543.608><-1~209.6603~8~46, LightSource><694.1408><680.108><0.0326087~Environment~970~-428~-276~-144.3975~1~1~None~0~0, LightSource><1043.181><673.1643><0.06521739~Environment~1573~-862~-353~-142.3975~1~1~None~0~0, LightSource><705.196><2055.21><0.1195652~Environment~1119~-442~36~-47.39752~1~1~None~0~0, SnowSource><466.8115><1896.933><None~970~538~-576~160.6025~0.2934783~0.6086956, SnowSource><23.81812><355.9168><Radial~975~475~50~86.60254~0.2065217~0.4565217, SnowSource><171.9109><417.1791><Radial~1099~391~37~-239.3975~0.4673913~0.4782609, LightSource><-133.7985><2223.194><0.09782609~Environment~1571~-871~352~-325.3975~1~1~None~0~0, LightSource><-64.05069><1253.983><0.1195652~Environment~1292~-458~5.000031~53.60254~1~1~None~0~0, LightSource><-207.6821><618.3328><0.01086957~Environment~1026~-419~25~-77.39752~1~1~None~0~0, LightSource><482.4363><684.3229><0.1630435~Environment~-133~-186~-459~-177.3975~1~1~None~0~0, ColouredLightSource><430.6992><2264.982><-220~-247~E9C2A9~-1518^-912~0.1521739~True~0.5~0~0.5~Always~0~100, 
 FadePalette: 40, 0.2608696, 0.3043478, 0.2391304
 WetTerrain: OFF
 MorePalette0: 198, 0, 0.1195652, 0.1956522

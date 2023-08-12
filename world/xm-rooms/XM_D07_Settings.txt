@@ -1,10 +1,11 @@
 Template: NONE
+DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.6739131
 RumbleIntensity: 0.75
-WaveSpeed: 0.5242921
-WaveLength: 0.9878539
-WaveAmplitude: 9.006794E-05
+WaveSpeed: 0.5200158
+WaveLength: 0.9899921
+WaveAmplitude: 4.074184E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.2173913

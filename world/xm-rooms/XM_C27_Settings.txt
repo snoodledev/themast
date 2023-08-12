@@ -1,13 +1,14 @@
+DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.4347826
 RumbleIntensity: 0.1521739
-WaveSpeed: 0.4952986
-WaveLength: 0.9976493
-WaveAmplitude: 0.0001996403
+WaveSpeed: 0.5023248
+WaveLength: 0.890142
+WaveAmplitude: 0.0210009
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.7065217
-Palette: 12
+Palette: 198
 EffectColorA: 13
 Effects: DayNight-0.8804348-325-12, 
 PlacedObjects: InsectGroup><754.8576><388.9186><-93~189~-583~-167~Moth~0.08695652, LightSource><682.5618><376.4402><0.07608695~Environment~-386~243~-364~59.60254~1~1~None~0~0, DayNightSettings><372.199><302.27><5~8.660254~3~46, 

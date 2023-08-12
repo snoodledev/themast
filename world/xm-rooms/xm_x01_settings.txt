@@ -1,15 +1,15 @@
 Template: XM_SettingsTemplate_Outside
-DangerType: None
+DangerType: Blizzard
 CeilingDrips: 0
-RainIntensity: 0.04
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+RainIntensity: 0.01826079
+WaveSpeed: 0.5000001
+WaveLength: 0.9954348
+WaveAmplitude: 0.0009128705
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.02173913
 Palette: 30
-Effects: AboveCloudsView-0-20-20, Fog-0.0326087-30-81, 
-PlacedObjects: LightSource><2040.302><1459.032><0.0326087~Environment~-1315~-918~-340~-320.3975~0~1~None~0~0, LightSource><1644.804><2197.789><0.0326087~Environment~-1376~-851~-265~-157.3975~0~1~None~0~0, LightSource><1585.613><2941.354><0.05434782~Environment~-1623~-889~-311~-209.3975~0~1~None~0~0, LightSource><410.6572><3796.573><0.04347826~Environment~-1615~-882~-181~-311.3975~0~1~None~0~0, LightSource><-156.0096><2312.7><0.07608695~Environment~1435~-621~209~-232.3975~0~1~None~0~0, CustomDecal><-3.841492><2060.82><-282~1690~1232~1666~1234~-17~-18~503~0~1~0~rustb1~0.1195652~0.8804348~0.1195652~0.8804348~0.1195652~0.8804348~0.1195652~0.8804348, EEGhostSpot><645.6823><3583.168><, 
+Effects: DayNight-0.8-338-15, AboveCloudsView-0-20-20, Fog-0.0326087-30-81, 
+PlacedObjects: DayNightSettings><2078.832><1543.608><-1~209.6603~8~46, LightSource><2040.302><1459.032><0.0326087~Environment~-1315~-918~-340~-320.3975~0~1~None~0~0, LightSource><1644.804><2197.789><0.0326087~Environment~-1376~-851~-265~-157.3975~0~1~None~0~0, LightSource><1585.613><2941.354><0.05434782~Environment~-1623~-889~-311~-209.3975~0~1~None~0~0, LightSource><410.6572><3796.573><0.04347826~Environment~-1615~-882~-181~-311.3975~0~1~None~0~0, LightSource><-156.0096><2312.7><0.07608695~Environment~1435~-621~209~-232.3975~0~1~None~0~0, CustomDecal><-3.841492><2060.82><-282~1690~1232~1666~1234~-17~-18~503~0~1~0~rustb1~0.1195652~0.8804348~0.1195652~0.8804348~0.1195652~0.8804348~0.1195652~0.8804348, EEGhostSpot><645.6823><3583.168><, 
 FadePalette: 40, 0.1652174, 0.2304347, 0.2956522, 0.3717391, 0.4586956, 0.2304347, 0.2847826, 0.35, 0.4260869
 WetTerrain: OFF

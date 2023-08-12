@@ -1,15 +1,15 @@
 Template: XM_SettingsTemplate_Outside
-DangerType: None
+DangerType: Blizzard
 CeilingDrips: 0
-RainIntensity: 0
-WaveSpeed: 0.5
-WaveLength: 1
-WaveAmplitude: 9.510713E-22
+RainIntensity: 0.01086957
+WaveSpeed: 0.4999985
+WaveLength: 0.9972818
+WaveAmplitude: 0.0005478207
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.02173913
 Palette: 30
-Effects: AboveCloudsView-0-20-20, Fog-0.2826087-30-81, 
-PlacedObjects: LightSource><36.4458><748.2094><0.0326087~Environment~1634~-906~183~-264.3975~1~1~None~0~0, LightSource><879.1135><691.8962><0.06521739~Environment~-1037~-766~-89~-280.3975~1~1~None~0~0, SnowSource><505.3532><310.1141><None~796~572~-385~-150.3975~0.06521739~0.6630435, LightSource><189.9754><1454.052><0.07608695~Environment~1302~-458~-26~-275.3975~1~1~None~0~0, SnowSource><467.4431><1207.948><None~-950~-607~-275~-138.3975~0.2826087~0.5434783, 
+Effects: DayNight-0.95-338-15, AboveCloudsView-0-20-20, Fog-0.2826087-30-81, 
+PlacedObjects: DayNightSettings><2078.832><1543.608><-1~209.6603~8~46, LightSource><36.4458><748.2094><0.0326087~Environment~1634~-906~183~-264.3975~1~1~None~0~0, LightSource><879.1135><691.8962><0.06521739~Environment~-1037~-766~-89~-280.3975~1~1~None~0~0, SnowSource><505.3532><310.1141><None~796~572~-385~-150.3975~0.06521739~0.6630435, LightSource><189.9754><1454.052><0.07608695~Environment~1302~-458~-26~-275.3975~1~1~None~0~0, SnowSource><467.4431><1207.948><None~-950~-607~-275~-138.3975~0.2826087~0.5434783, 
 FadePalette: 40, 0.2826087, 0.4891304
 WetTerrain: OFF

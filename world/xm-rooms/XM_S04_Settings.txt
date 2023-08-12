@@ -1,14 +1,14 @@
 CeilingDrips: 0
 RainIntensity: 0.6086956
-WaveSpeed: 0.5083484
-WaveLength: 0.9958258
-WaveAmplitude: 9.411649E-05
+WaveSpeed: 0.4986997
+WaveLength: 0.9993498
+WaveAmplitude: 8.999999E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.02173913
 Palette: 40
 EffectColorA: 13
-Effects: SkyAndLightBloom-0.1413043-24-18, 
-PlacedObjects: LightSource><530.4896><62.69971><0.09782609~Environment~-138~105~50~86.60254~1~1~None~0~0, 
+Effects: SkyAndLightBloom-0-24-18, 
+PlacedObjects: LightSource><530.4896><62.69971><0.02173913~Environment~-138~105~50~86.60254~1~1~None~0~0, 
 FadePalette: 10, 0.8586956
 WetTerrain: OFF

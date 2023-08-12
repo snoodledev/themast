@@ -1,4 +1,7 @@
-priming : false
+priming : true
+minkarma : 1
+minkarmacap : 1
+size : 1
 radius : 4
 echosong : TM_if2
 room : XM_X01

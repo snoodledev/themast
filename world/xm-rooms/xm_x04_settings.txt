@@ -1,0 +1,15 @@
+Template: XM_SettingsTemplate_Outside
+DangerType: Blizzard
+CeilingDrips: 0
+RainIntensity: 0.06521739
+WaveSpeed: 0.5000685
+WaveLength: 0.9999657
+WaveAmplitude: 1.94953E-08
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.02173913
+Palette: 12
+EffectColorA: 18
+Effects: AboveCloudsView-0-20-20, Fog-0.2934783-30-81, 
+FadePalette: 40, 0.4565217, 0.4565217, 0.4565217
+WetTerrain: OFF

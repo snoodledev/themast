@@ -1,10 +1,10 @@
-DangerType: Thunder
+DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.4782609
 RumbleIntensity: 0.5108696
-WaveSpeed: 0.4909469
-WaveLength: 0.9954734
-WaveAmplitude: 9.000004E-05
+WaveSpeed: 0.4970142
+WaveLength: 0.9278839
+WaveAmplitude: 0.02391304
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.3478261

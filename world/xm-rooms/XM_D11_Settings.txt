@@ -11,7 +11,7 @@ WaterReflectionAlpha: 0.2934783
 Palette: 198
 EffectColorA: 13
 EffectColorB: 6
-Effects: SkyAndLightBloom-0.06521739-22-20, Darkness-0.5326087-267-14, 
+Effects: SkyAndLightBloom-0.06521739-22-20, Darkness-0.7065217-267-14, 
 PlacedObjects: LightSource><448.4781><955.3011><0.0326087~Environment~703~185~-94~259.6025~1~1~None~0~0, LightSource><425.6215><1786.153><0.01086957~Environment~924~257~50~86.60254~1~1~None~0~0, 
 FadePalette: 10, 0.3478261, 0.5326087, 0.6956522
 WetTerrain: OFF

@@ -1,12 +1,13 @@
 Template: NONE
 DangerType: Flood
+CeilingDrips: 0
 RainIntensity: 0.8586956
 RumbleIntensity: 0.25
-WaveSpeed: 0.5543478
-WaveLength: 0.4347826
-WaveAmplitude: 0
-SecondWaveLength: 0.5434783
-SecondWaveAmplitude: 0.1086956
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
 Clouds: 0.6847826
 Grime: 0.1086956
 BkgDroneVolume: 0
@@ -14,6 +15,7 @@ Palette: 105
 EffectColorA: 18
 EffectColorB: 6
 Effects: Fog-0.3043478-327-15, Flies-0.04347826-19-78, 
-PlacedObjects: LightSource><341.3159><447.5612><1~EffectColor1~-35~-72~50~86.60254~1~0, 
+PlacedObjects: LightSource><341.3159><447.5612><1~EffectColor1~-35~-72~50~86.60254~1~0~None~0~0, 
 AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.2173913><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.4565217><1, OMNI><SO_WAT-OpenFlow.ogg><742.6586><153.6281><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><750.9114><54.42932><0.3586957><0.9217392, 
 FadePalette: 10, 0.9839131
+WetTerrain: OFF

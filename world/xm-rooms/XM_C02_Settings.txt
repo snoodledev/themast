@@ -3,9 +3,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.09782609
 RumbleIntensity: 0.3586957
-WaveSpeed: 0.4999172
-WaveLength: 0.9999586
-WaveAmplitude: 3.974405E-06
+WaveSpeed: 0.499702
+WaveLength: 0.999851
+WaveAmplitude: 2.710765E-06
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.08695652
@@ -14,8 +14,10 @@ RandomItemSpearChance: 0.3413043
 Palette: 12
 EffectColorA: 13
 Effects: AboveCloudsView-1-1072-506, Fog-0.5434783-20-20, SkyDandelions-0-277-19, DayNight-0.862862-32-116, 
-PlacedObjects: PlacedWind><17.10236><-3.365051><-1~770~2389~770~2661~-1~0.1086956~Visuals~Horizontal, DayNightSettings><2498.714><315.8033><5~8.660254~3~46, SnowSource><481.85><628.0768><Radial~454~114~-323~-120.3975~0.7065217~0.4891304, LightSource><1075.803><504.5573><0.05434782~Environment~1618~-828~-156~-109.3975~1~1~None~0~0, LightSource><262.3052><648.4423><0.1521739~Environment~1312~-406~-271~-267.3975~1~1~None~0~0, SnowSource><111.4407><246.309><Radial~-47~163~50~86.60254~0.5869565~0.1847826, 
+PlacedObjects: PlacedWind><17.10236><-3.365051><-1~770~2389~770~2661~-1~0.1086956~Visuals~Horizontal~0.1086956~Visuals~Horizontal~0.1086956~Visuals~Horizontal, DayNightSettings><2498.714><315.8033><5~8.660254~3~46, SnowSource><481.85><628.0768><Radial~454~114~-323~-120.3975~0.7065217~0.4891304, LightSource><1075.803><504.5573><0.05434782~Environment~1618~-828~-156~-109.3975~1~1~None~0~0, LightSource><262.3052><648.4423><0.1521739~Environment~1312~-406~-271~-267.3975~1~1~None~0~0, SnowSource><111.4407><246.309><Radial~-47~163~50~86.60254~0.5869565~0.1847826, 
 AmbientSounds: SPOT><Noise Wind.wav><865.6682><17.8175><0.4565217><0.276087><3828.668><429.8175><-134.3553><-2.355347><0><0.4586958, SPOT><Basic Mech.ogg><864.1874><140.5697><0.2065217><0.6869565><3809.188><443.5697><-213.3553><-11.35535><0><0.4260871, SPOT><AM_WIN-HowlingWnd.ogg><830.8245><538.0645><0.3152174><1><658.8245><458.0645><322.6447><-89.35535><0><0.502174, SPOT><AM_WIN-StrongWnd2.ogg><837.0053><424.9499><0.2934783><1><680.0053><432.9499><317.6447><40.64465><0><0.5456523, SPOT><SO_IND-WeirdVent.ogg><664.9331><15.06152><0.4021739><0.6282609><2770.933><444.0615><-142.3553><-114.3553><0><0.1108697, 
-FadePalette: 40, 0.230152, 0.1291892, 0.07608695, 0.183537
+FadePalette: 40, 0.230152, 0.1183196, 0.07608695, 0.183537
 WetTerrain: OFF
+MorePalette0: 10, 0, 0.08695652, 0.2391304
+MorePalette1: 198, 0.1956522, 0.1195652, 0.2065217
 BackgroundType: atc_tm

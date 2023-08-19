@@ -172,40 +172,40 @@ TM_F09 : TM_F11, TM_S07, TM_F07, TM_BROKENGATE
 TM_F11 : TM_F09 : SWARMROOM
 TM_S07 : TM_F09 : SHELTER
 
+//msc
 TM_SPEAREND : TM_A01spear
 TM_A01spear : TM_SPEAREND, TM_A02
 
 END ROOMS
 
 CREATURES
-//TM_B03 : 2-Hoverfly-10
-TM_B03 : 2-White
-
 
 //all
-OFFSCREEN : 0-Deer, 0-Scavenger-14, 0-Vulture-4
 //TM_F02 : 1-Scavenger-4
 //TM_F03 : 5-Scavenger, 6-Scavenger, 7-Scavenger
 //TM_F04 : 1-Scavenger
-TM_B14 : 3-Mimic-{9}, 4-Mimic-{12}
-TM_B15 : 3-Mimic-{12}
-TM_E14 : 4-Tentacle Plant
-TM_C29 : 5-Small Centipede-2
-TM_E03 : 3-CicadaA-2, 3-CicadaB-2, 4-Salamander
-TM_E02 : 1-Centiwing
-TM_E17 : 3-Blue
-TM_E12 : 3-Salamander-2
-TM_F07 : 5-CicadaA-2, 5-CicadaB-3, 4-BigNeedleWorm, 4-SmallNeedleWorm-3
-TM_D07 : 5-Yellow-2, 6-Yellow-2
-TM_B16 : 4-Centipede-{0.6}, 5-Mimic-{10}
-TM_B15 : 4-Centipede-{0.25}
-TM_C15 : 2-White
-TM_C10 : 4-Blue
-TM_C08 : 5-Dropbug
-LINEAGE : TM_B08 : 3 : Blue-0.5, White-0.4, Cyan-0
-TM_D12 : 4-Centiwing
-TM_C21 : 3-Dropbug
-TM_A06 : 4-Blue
+//TM_B03 : 2-Hoverfly-10
+(White,Red,Yellow,Gourmand)TM_B03 : 2-White
+(Yellow,White,Red,Gourmand)OFFSCREEN : 0-Deer, 0-Scavenger-14, 0-Vulture-4
+(Yellow,White,Red,Gourmand)TM_B14 : 3-Mimic-{9}, 4-Mimic-{12}
+(Yellow,White,Red,Gourmand)TM_B15 : 3-Mimic-{12}
+(Yellow,White,Red,Gourmand)TM_E14 : 4-Tentacle Plant
+(Yellow,White,Red,Gourmand)TM_C29 : 5-Small Centipede-2
+(Yellow,White,Red,Gourmand)TM_E03 : 3-CicadaA-2, 3-CicadaB-2, 4-Salamander
+(Yellow,White,Red,Gourmand)TM_E02 : 1-Centiwing
+(Yellow,White,Red,Gourmand)TM_E17 : 3-Blue
+(Yellow,White,Red,Gourmand)TM_E12 : 3-Salamander-2
+(Yellow,White,Red,Gourmand)TM_F07 : 5-CicadaA-2, 5-CicadaB-3, 4-BigNeedleWorm, 4-SmallNeedleWorm-3
+(Yellow,White,Red,Gourmand)TM_D07 : 5-Yellow-2, 6-Yellow-2
+(Yellow,White,Red,Gourmand)TM_B16 : 4-Centipede-{0.6}, 5-Mimic-{10}
+(Yellow,White,Red,Gourmand)TM_B15 : 4-Centipede-{0.25}
+(Yellow,White,Red,Gourmand)TM_C15 : 2-White
+(Yellow,White,Red,Gourmand)TM_C10 : 4-Blue
+(Yellow,White,Red,Gourmand)TM_C08 : 5-Dropbug
+(Yellow,White,Red,Gourmand)LINEAGE : TM_B08 : 3 : Blue-0.5, White-0.4, Cyan-0
+(Yellow,White,Red,Gourmand)TM_D12 : 4-Centiwing
+(Yellow,White,Red,Gourmand)TM_C21 : 3-Dropbug
+(Yellow,White,Red,Gourmand)TM_A06 : 4-Blue
 (White,Red)TM_C16 : 4-Cyan
 (Yellow,White)TM_C08 : 4-Pink
 (Yellow,White)TM_B15 : 4-SmallCentipede

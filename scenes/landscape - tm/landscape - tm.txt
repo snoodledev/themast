@@ -1,0 +1,9 @@
+tm_landscape - 3 : 10
+tm_landscape - 2 : 6
+tm_landscape - 1 : 5
+
+blurMin : -0.1
+blurMax : 0.4
+idleDepths : 10
+idleDepths : 5
+idleDepths : 3

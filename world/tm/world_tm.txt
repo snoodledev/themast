@@ -394,7 +394,7 @@ CREATURES
 (Rivulet)TM_E04 : 3-TentaclePlant
 (Rivulet)TM_E01 : 6-Eel
 (Artificer)OFFSCREEN : 0-Scavenger-24, 0-ScavengerElite-4
-OFFSCREEN : 0-Scavenger-18
+(Spear)OFFSCREEN : 0-Scavenger-18
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

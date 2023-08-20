@@ -1,0 +1,9 @@
+xm_landscape - 3 : 10
+xm_landscape - 2 : 6
+xm_landscape - 1 : 5
+
+blurMin : -0.1
+blurMax : 0.4
+idleDepths : 10
+idleDepths : 5
+idleDepths : 3

@@ -160,7 +160,6 @@ TM_E17 : TM_E12, TM_F01, TM_E16
 TM_F01 : TM_E17, TM_F03
 TM_F03 : TM_F07, TM_F02, TM_F04, TM_F01, TM_F05
 TM_F05 : TM_F03, TM_E07
-TM_E07 : TM_F05
 TM_F02 : TM_F03
 TM_F04 : TM_F08, TM_F03, TM_F10
 TM_F08 : TM_F07, TM_F04
@@ -172,6 +171,7 @@ TM_F09 : TM_F11, TM_S07, TM_F07, TM_BROKENGATE
 TM_F11 : TM_F09 : SWARMROOM
 TM_S07 : TM_F09 : SHELTER
 
+TM_E07 : TM_F05
 //msc
 TM_SPEAREND : TM_A01spear
 TM_A01spear : TM_SPEAREND, TM_A02
@@ -181,7 +181,6 @@ TM_F08riv : TM_F04
 END ROOMS
 
 CREATURES
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_B03 : 2-White
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)OFFSCREEN : 0-Deer
 (White,Yellow,Red,Gourmand)OFFSCREEN : 0-Scavenger-14
 (Yellow,White,Red,Gourmand)OFFSCREEN : 0-Vulture-4
@@ -189,33 +188,31 @@ CREATURES
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B14 : 4-Mimic-{12}
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B15 : 3-Mimic-{12}
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_E14 : 4-Tentacle Plant
-(White,Yellow,Red,Gourmand)TM_C29 : 5-Small Centipede-2
+(White,Yellow,Red,Gourmand,Rivulet)TM_C29 : 5-Small Centipede-2
 (Yellow,White,Red,Gourmand)TM_E03 : 3-CicadaA-2
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_E03 : 3-CicadaB-2
 (White,Yellow,Red)TM_E03 : 4-Salamander
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E02 : 1-Centiwing
-(White,Yellow,Red,Gourmand,Artificer)TM_E17 : 3-Blue
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_E02 : 1-Centiwing
+(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E17 : 3-Blue
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_E12 : 3-Salamander-2
-(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_F07 : 5-CicadaA-2, 5-CicadaB-3
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_F07 : 4-BigNeedleWorm
+(White,Yellow,Red,Gourmand,Artificer,Spear)TM_F07 : 5-CicadaA-2, 5-CicadaB-3, 4-BigNeedleWorm
 (Yellow,White,Red,Gourmand)TM_F07 : 4-SmallNeedleWorm-3
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_D07 : 5-Yellow-2, 6-Yellow-2
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_B16 : 4-Centipede-{0.6}
-(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B16 : 5-Mimic-{10}
+(White,Yellow,Red,Gourmand,Artificer,Spear)TM_B16 : 4-Centipede-{0.6}, 5-Mimic-{10}, 6-PoleMimic-{14}
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_B15 : 4-Centipede-{0.25}
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_C15 : 2-White
-(Yellow,White,Red,Gourmand)TM_C10 : 4-Blue
+(White,Yellow,Red,Gourmand)TM_C10 : 4-Blue
 (White,Yellow,Red,Gourmand,Spear)TM_C08 : 5-Dropbug
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : TM_B08 : 3 : Blue-0.5, White-0.4, Cyan-0
-(Yellow,White,Red,Gourmand)TM_D12 : 4-Centiwing
+(White,Yellow,Red,Gourmand,Rivulet)TM_D12 : 4-Centiwing
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_C21 : 3-Dropbug
-(White,Yellow,Red,Gourmand)TM_A06 : 4-Blue
-(White,Red)TM_C16 : 4-Cyan
-(Yellow,White)TM_C08 : 4-Pink
+(White,Yellow,Red,Gourmand,Rivulet)TM_A06 : 4-Blue
+(White,Red,Rivulet)TM_C16 : 4-Cyan
+(White,Yellow,Rivulet)TM_C08 : 4-Pink
 (White,Yellow,Gourmand,Artificer,Spear)TM_B15 : 4-SmallCentipede
 (White,Yellow,Gourmand,Artificer,Spear)TM_C17 : 2-CicadaA
 (White,Yellow,Gourmand,Spear)TM_C17 : 2-CicadaB
-(White,Red,Gourmand,Artificer,Spear)TM_D10 : 3-Dropbug
+(White,Red,Gourmand,Artificer,Spear,Rivulet)TM_D10 : 3-Dropbug
 (Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, NONE-0.1, NONE-0.05, KingVulture-0
 (Yellow)LINEAGE : TM_C29 : 5 : Centipede-{0.4}-0.3, Centipede-{0.7}-0
 (Yellow)LINEAGE : TM_E01 : 5 : Blue-0.2, White-0.4, Cyan-0
@@ -251,12 +248,12 @@ CREATURES
 (White,Gourmand)LINEAGE : TM_D04 : 6 : Blue-0.4, Cyan-0.2, Red-0
 (White,Gourmand)TM_D10 : 5-White
 (White,Gourmand)TM_C04 : 4-Centipede-{0.4}
-(White,Gourmand)TM_C01 : 2-White
-(White,Gourmand,Spear)TM_C01 : 3-Yellow-2, 5-Yellow-2
-(White)TM_C01 : 4-Yellow
+(White,Gourmand,Rivulet)TM_C01 : 2-White
+(White,Gourmand,Spear,Rivulet)TM_C01 : 3-Yellow-2, 5-Yellow-2
+(White,Rivulet)TM_C01 : 4-Yellow
 (White,Gourmand)TM_C02 : 4-Dropbug
 (White)TM_B16 : 6-Centipede-{0.2}, 6-Centipede-{0.3}, 6-SmallCentipede-2
-(White,Gourmand)TM_B14 : 5-Centipede-{0.3}
+(White,Gourmand,Rivulet)TM_B14 : 5-Centipede-{0.3}
 (White)LINEAGE : TM_B13 : 2 : Dropbug-0.3, Cyan-0
 (White,Gourmand,Artificer,Spear,Rivulet)TM_C03 : 3-Centiwing
 (White)TM_C18 : 5-Blue, 9-CicadaB
@@ -264,7 +261,7 @@ CREATURES
 (White)TM_C24 : 4-White
 (White)TM_C13 : 4-Blue
 (White)TM_C16 : 3-Centiwing
-(White)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
+(White,Rivulet)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
 (White,Gourmand)TM_C08 : 7-Blue
 (White)TM_B03 : 3-Blue
 (White)TM_A05 : 2-Dropbug, 3-White
@@ -275,11 +272,12 @@ CREATURES
 (White,Yellow)TM_B11 : 2-Yellow, 3-Yellow
 (White)TM_B11 : 4-Yellow
 (White)TM_D06 : 3-Yellow
-(White,Gourmand)TM_D06 : 4-Yellow, 5-Yellow-3
+(White,Gourmand,Rivulet)TM_D06 : 4-Yellow, 5-Yellow-3
 (White,Gourmand)TM_B05 : 4-White-{Mean:0.4}, 5-Blue
-(Red)OFFSCREEN : 0-Vulture, 0-King Vulture-2
-(Red)LINEAGE : OFFSCREEN : 0 : Vulture-0.7, King Vulture-0 
-(Red,Gourmand)LINEAGE : TM_C29 : 5 : Centipede-{0.9}-0.4, Red-0
+(Red)OFFSCREEN : 0-Vulture
+(Red,Artificer,Spear,Rivulet)OFFSCREEN : 0-King Vulture-2
+(Red,Rivulet)LINEAGE : OFFSCREEN : 0 : Vulture-0.7, King Vulture-0 
+(Red,Gourmand,Rivulet)LINEAGE : TM_C29 : 5 : Centipede-{0.9}-0.4, Red-0
 (Red,Artificer)TM_E04 : 3-Centiwing-2
 (Red,Artificer)TM_E01 : 5-Cyan
 (Red,Artificer)TM_F07 : 8-Cyan
@@ -289,46 +287,47 @@ CREATURES
 (Red,Gourmand)TM_D08 : 2-Blue
 (Red,Gourmand,Artificer,Spear,Rivulet)TM_D18 : 2-White
 (Red,Artificer,Spear,Rivulet)TM_D04 : 5-Cyan, 6-White-{Mean:0.6}
-(Red)TM_D10 : 5-White
-(Red,Artificer)TM_D10 : 4-Dropbug
+(Red,Rivulet)TM_D10 : 5-White
+(Red,Artificer,Rivulet)TM_D10 : 4-Dropbug
 (Red,Artificer,Spear)LINEAGE : TM_C04 : 4 : Centipede-{0.6}-0.3, Red Centipede-0
 (Red)TM_C01 : 2-White-{Mean:0.6}
-(Red,Artificer,Rivulet)TM_C01 : 3-Cyan-2
-(Red,Artificer)TM_C01 : 4-White, 5-White-{Mean:0.5}
-(Red)TM_C02 : 4-Dropbug, 5-Dropbug
+(Red,Artificer)TM_C01 : 3-Cyan-2, 5-White-{Mean:0.5}
+(Red,Artificer,Rivulet)TM_C01 : 4-White
+(Red,Artificer,Rivulet)TM_C02 : 4-Dropbug
+(Red,Rivulet)TM_C02 : 5-Dropbug
 (Red)TM_B15 : 4-Centipede-{0.6}
 (Red)TM_B16 : 6-Centipede-{0.5}, 6-Centipede-{0.3}
 (Red)TM_B14 : 5-Centipede-{0.6}
-(Red)TM_B13 : 3-Dropbug
+(Red,Rivulet)TM_B13 : 3-Dropbug
 (Red)TM_C03 : 3-Centiwing
 (Red,Artificer)TM_B10 : 2-Cyan
-(Red)TM_B11 : 3-White
+(Red,Rivulet)TM_B11 : 3-White
 (Red,Artificer)TM_B11 : 4-Cyan
 (Red)TM_C18 : 5-White
 (Red,Artificer)TM_C18 : 7-Dropbug
 (Red,Gourmand,Artificer,Spear)TM_C18 : 8-Centiwing
 (Red,Gourmand,Artificer,Spear)LINEAGE : TM_C18 : 6 : Mimic-{12}-0.3, Mimic-{16}-0.3, Mimic-{22}-0
-(Red)TM_C24 : 4-White-{Mean:0.7}
+(Red,Rivulet)TM_C24 : 4-White-{Mean:0.7}
 (Red)TM_C13 : 4-Cyan
-(Red,Artificer,Spear)TM_C16 : 3-Dropbug
-(Red,Gourmand,Artificer,Spear,Rivulet)TM_C10 : 3-White
+(Red,Artificer,Spear,Rivulet)TM_C16 : 3-Dropbug
+(Red,Gourmand,Artificer,Spear)TM_C10 : 3-White
 (Red,Artificer)TM_C10 : 3-White
 (Red,Gourmand)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm
 (Red,Artificer,Spear)TM_C08 : 7-Cyan
-(Red,Gourmand,Artificer)TM_B03 : 3-White-{Mean:0.7}
+(Red,Gourmand,Artificer,Rivulet)TM_B03 : 3-White-{Mean:0.5}
 (Red)TM_A05 : 2-White-{Mean:0.8}, 3-Dropbug
 (Red,Artificer)TM_B08 : 4-Cyan
-(Red)TM_B09 : 3-White
-(Red,Artificer,Spear)TM_D12 : 5-Cyan
+(Red,Rivulet)TM_B09 : 3-White
+(Red,Artificer,Spear,Rivulet)TM_D12 : 5-Cyan
 (Red,Artificer,Spear)TM_B04 : 2-Cyan
 (Red)TM_B04 : 3-Dropbug
-(Red,Gourmand,Artificer,Spear)TM_C12 : 1-Dropbug
-(Red,Gourmand,Artificer,Spear)TM_D06 : 3-White
+(Red,Gourmand,Artificer,Spear,Rivulet)TM_C12 : 1-Dropbug
+(Red,Gourmand,Artificer,Spear,Rivulet)TM_D06 : 3-White
 (Red,Artificer)TM_D06 : 4-Red-{Mean:0.2}
 (Red,Artificer,Spear)TM_D06 : 5-Cyan-{Mean:1.0}
 (Red,Artificer,Rivulet)TM_B05 : 4-White-{Mean:0.5}
-(Red,Artificer,Spear)TM_B05 : 5-Dropbug
-(Red,Artificer,Spear)TM_B07 : 2-Cyan
+(Red,Artificer,Spear,Rivulet)TM_B05 : 5-Dropbug
+(Red,Artificer,Spear,Rivulet)TM_B07 : 2-Cyan
 (Red,Gourmand,Artificer,Spear)LINEAGE : TM_C08 : 4 : Centipede-{1.0}-0.2, Red Centipede-0
 (Gourmand)TM_B07 : 2-BlueLizard
 (Gourmand)TM_B04 : 2-BlueLizard, 3-Cicada
@@ -371,9 +370,29 @@ CREATURES
 (Artificer,Spear)TM_F04 : 3-JungleLeech
 (Gourmand,Artificer,Spear)TM_E05 : 3-JungleLeech-2
 (Red)TM_E03 : 5-Leech-2
-(Rivulet)TM_C18 : 5-TentaclePlant
-(Rivulet)TM_D12 : 5-Eel
+(Rivulet)TM_C18 : 5-TentaclePlant, 6-WhiteLizard
+(Artificer,Spear,Rivulet)OFFSCREEN : 0-Vulture-6
+(Rivulet)TM_B16 : 3-BlueLizard, 6-TentaclePlant, 5-TentaclePlant, 4-TentaclePlant
+(Rivulet)TM_C08 : 5-WhiteLizard, 4-PinkLizard, 7-YellowLizard, 8-YellowLizard, 6-YellowLizard, 3-CyanLizard
+(Rivulet)TM_B08 : 4-CyanLizard
+(Rivulet)TM_D08 : 2-BlueLizard
+(Rivulet)TM_C12 : 1-DropBug
+(Rivulet)TM_C17 : 3-ZoopLizard
+(Rivulet)TM_B15 : 4-TentaclePlant
+(Rivulet)TM_B11 : 4-Centipede-{1}, 2-TentaclePlant
+(Rivulet)TM_C04 : 4-BigSpider-2
+(Rivulet)TM_C29 : 4-SpitterSpider
+(Rivulet)TM_C13 : 4-TentaclePlant
+(Rivulet)TM_B04 : 2-ZoopLizard
+(Rivulet)TM_C10 : 3-ZoopLizard, 4-WhiteLizard, 5-TentaclePlant
 
+(Rivulet)TM_F06 : 2-TentaclePlant, 4-Eel-2, 3-TentaclePlant
+(Rivulet)TM_F07riv : 5-Eel, 7-TentaclePlant, 6-Caramel, 3-TentaclePlant, 4-Centiwing-2, 8-TentaclePlant
+(Rivulet)TM_F03 : 5-TentaclePlant, 8-AquaCenti
+(Rivulet)TM_E12 : 3-TentaclePlant
+(Rivulet)TM_E03 : 4-Leech-8, 4-TentaclePlant, 7-TentaclePlant, 6-TentaclePlant, 3-CicadaA-2, 3-CicadaB-2, 5-Leech-6, 5-Eel
+(Rivulet)TM_E04 : 3-TentaclePlant
+(Rivulet)TM_E01 : 6-Eel
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

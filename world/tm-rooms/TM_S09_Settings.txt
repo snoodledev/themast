@@ -3,6 +3,6 @@ RainIntensity: 0
 RumbleIntensity: 0.05434782
 Clouds: 0
 Effects: SkyAndLightBloom-0.3152174-16-16, DayNight-1-269-56, 
-PlacedObjects: LightSource><464.3548><451.9203><0.1304348~Environment~-133~162~50~86.60254~1~1~None~0~0, BrokenShelterWaterLevel><473.0659><436.4388><, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, 
+PlacedObjects: BrokenShelterWaterLevel><473.0659><436.4388><, LightSource><464.3548><451.9203><0.1304348~Environment~-133~162~50~86.60254~1~1~None~0~0, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, 
 AmbientSounds: SPOT><SO_IND-Generator.ogg><734.9121><223.6329><0.4347826><0.373913><472.9121><425.6329><-69.35529><5.644653><0><0.2956523, SPOT><SO_IND-HeatDuct.ogg><463.6722><211.1483><0.3695652><0.8043478><440.6722><470.1483><-25.35535><-29.35535><0><0.1, 
 FadePalette: 3, 0.6847826

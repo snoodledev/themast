@@ -11,10 +11,10 @@ Clouds: 0.6847826
 Grime: 0.1086956
 BkgDroneVolume: 0
 BkgDroneNoThreatVolume: 1
-Palette: 105
-EffectColorA: 7
+Palette: 15
+EffectColorA: 18
 EffectColorB: 6
-Effects: Fog-0.3043478-327-15, Flies-0.04347826-19-78, WaterFluxMinLevel-0.7173913-308-233, WaterFluxMaxLevel-0.8804348-311-167, WaterFluxMinDelay-0.1413043-307-295, WaterFluxSpeed-0.3586957-298-59, 
-PlacedObjects: GlowWeed><452.1213><761.5152><0~0~2~3, GlowWeed><539.3398><706.8213><0~0~2~3, GlowWeed><493.3929><553.89><0~0~2~3, GlowWeed><404.0591><583.6905><0~0~2~3, 
+Effects: Fog-0.3043478-327-15, Flies-0.04347826-19-78, 
+PlacedObjects: GlowWeed><452.1213><761.5152><0~0~2~3, GlowWeed><539.3398><706.8213><0~0~2~3, GlowWeed><493.3929><553.89><0~0~2~3, GlowWeed><404.0591><583.6905><0~0~2~3, LightSource><480.6946><1013.558><0.1630435~EffectColor1~618~97~-102~199.6025~1~0~None~0~0, 
 AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.2173913><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.4565217><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.5869565><1, OMNI><SO_WAT-TubWater.ogg><741.1196><503.9016><0.3586957><1, OMNI><SO_WAT-OpenFlow.ogg><742.6586><153.6281><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><750.9114><54.42932><0.3586957><0.9217392, 
 FadePalette: 10, 0.9539131, 0.9413043

@@ -182,7 +182,7 @@ END ROOMS
 
 CREATURES
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)OFFSCREEN : 0-Deer
-(White,Yellow,Red,Gourmand)OFFSCREEN : 0-Scavenger-14
+(White,Yellow,Red,Gourmand,Rivulet)OFFSCREEN : 0-Scavenger-14
 (Yellow,White,Red,Gourmand)OFFSCREEN : 0-Vulture-4
 (White,Yellow,Red,Gourmand,Spear,Rivulet)TM_B14 : 3-Mimic-{9}
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B14 : 4-Mimic-{12}
@@ -339,6 +339,7 @@ CREATURES
 (Gourmand,Spear)TM_C17 : 3-CicadaB
 (Gourmand)TM_F07 : 8-CicadaB
 (Gourmand)TM_F10 : 1-Yeek
+(Saint)TM_C12 : 1-SlugNPC
 (Artificer)TM_D10 : 5-CyanLizard
 (Artificer,Spear)TM_C29 : 5-RedCentipede-0.5, 4-Centipede
 (Artificer)TM_B14 : 3-PoleMimic-{12}, 5-CyanLizard
@@ -385,14 +386,15 @@ CREATURES
 (Rivulet)TM_C13 : 4-TentaclePlant
 (Rivulet)TM_B04 : 2-ZoopLizard
 (Rivulet)TM_C10 : 3-ZoopLizard, 4-WhiteLizard, 5-TentaclePlant
-
 (Rivulet)TM_F06 : 2-TentaclePlant, 4-Eel-2, 3-TentaclePlant
-(Rivulet)TM_F07riv : 5-Eel, 7-TentaclePlant, 6-Caramel, 3-TentaclePlant, 4-Centiwing-2, 8-TentaclePlant
+(Rivulet)TM_F07riv : 5-Eel, 7-Caramel, 6-Caramel, 3-TentaclePlant, 4-Centiwing-2, 8-TentaclePlant
 (Rivulet)TM_F03 : 5-TentaclePlant, 8-AquaCenti
 (Rivulet)TM_E12 : 3-TentaclePlant
 (Rivulet)TM_E03 : 4-Leech-8, 4-TentaclePlant, 7-TentaclePlant, 6-TentaclePlant, 3-CicadaA-2, 3-CicadaB-2, 5-Leech-6, 5-Eel
 (Rivulet)TM_E04 : 3-TentaclePlant
 (Rivulet)TM_E01 : 6-Eel
+(Artificer)OFFSCREEN : 0-Scavenger-24, 0-ScavengerElite-4
+OFFSCREEN : 0-Scavenger-18
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

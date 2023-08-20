@@ -10,10 +10,11 @@ SecondWaveAmplitude: 0.1086956
 Clouds: 0.3043478
 Grime: 0.1086956
 BkgDroneVolume: 0
-Palette: 105
+Palette: 15
 EffectColorA: 6
 EffectColorB: 6
-Effects: Fog-0.3043478-327-15, Flies-0.08695652-19-78, WaterFluxMinLevel-0.4891304-252-270, WaterFluxMaxLevel-0.6195652-263-222, WaterFluxMinDelay-0.1304348-376-113, 
+Effects: Fog-0.3043478-327-15, Flies-0.08695652-19-78, WaterFluxMinLevel-0.5-252-270, WaterFluxMaxLevel-0.6847826-263-222, WaterFluxMinDelay-0.1304348-376-113, 
 PlacedObjects: InsectGroup><1853.094><252.3744><-405~537~190~-127~WaterGlowworm~0.5, 
 AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.1413043><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.4565217><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.5869565><1, OMNI><AM_SUB-BlankState.ogg><759.3482><80.42422><0.25><0.9804348, 
-FadePalette: 10, 0.8804348, 0.8913044, 0.9239131
+FadePalette: 10, 0.9021739, 0.9130435, 0.9239131
+MorePalette0: 105, 0.05434782, 0.08695652, 0.06521739

@@ -1,39 +1,39 @@
 CONDITIONAL LINKS
 // RIVULET
-Rivulet : REPLACEROOM : TM_D15 : TM_D15riv
-Rivulet : REPLACEROOM : TM_E01 : TM_E01riv
-Rivulet : REPLACEROOM : TM_E03 : TM_E03riv
-Rivulet : REPLACEROOM : TM_E04 : TM_E04riv
-Rivulet : REPLACEROOM : TM_E09 : TM_E09riv
-Rivulet : REPLACEROOM : TM_E05 : TM_E05riv
-Rivulet : REPLACEROOM : TM_E08 : TM_E08riv
-Rivulet : REPLACEROOM : TM_E06 : TM_E06riv
-Rivulet : REPLACEROOM : TM_E19 : TM_E19riv
-Rivulet : REPLACEROOM : TM_E13 : TM_E13riv
-Rivulet : REPLACEROOM : TM_E14 : TM_E14riv
-Rivulet : REPLACEROOM : TM_E15 : TM_E15riv
-Rivulet : REPLACEROOM : TM_E16 : TM_E16riv
-Rivulet : REPLACEROOM : TM_E17 : TM_E17riv
-Rivulet : REPLACEROOM : TM_F01 : TM_F01riv
-Rivulet : REPLACEROOM : TM_F03 : TM_F03riv
-Rivulet : REPLACEROOM : TM_F05 : TM_F05riv
-Rivulet : REPLACEROOM : TM_E07 : TM_E07riv
-Rivulet : REPLACEROOM : TM_F02 : TM_F02riv
-Rivulet : REPLACEROOM : TM_F04 : TM_F04riv
-Rivulet : REPLACEROOM : TM_F10 : TM_F10riv
-Rivulet : REPLACEROOM : TM_E12 : TM_E12riv
-Rivulet : REPLACEROOM : TM_F06 : TM_F06riv
-Rivulet : REPLACEROOM : TM_F09 : TM_F09riv
+Rivulet : REPLACEROOM : TM_D15riv : TM_D15rivriv
+Rivulet : REPLACEROOM : TM_E01riv : TM_E01rivriv
+Rivulet : REPLACEROOM : TM_E03riv : TM_E03rivriv
+Rivulet : REPLACEROOM : TM_E04riv : TM_E04rivriv
+Rivulet : REPLACEROOM : TM_E09riv : TM_E09rivriv
+Rivulet : REPLACEROOM : TM_E05riv : TM_E05rivriv
+Rivulet : REPLACEROOM : TM_E08riv : TM_E08rivriv
+Rivulet : REPLACEROOM : TM_E06riv : TM_E06rivriv
+Rivulet : REPLACEROOM : TM_E19riv : TM_E19rivriv
+Rivulet : REPLACEROOM : TM_E13riv : TM_E13rivriv
+Rivulet : REPLACEROOM : TM_E14riv : TM_E14rivriv
+Rivulet : REPLACEROOM : TM_E15riv : TM_E15rivriv
+Rivulet : REPLACEROOM : TM_E16riv : TM_E16rivriv
+Rivulet : REPLACEROOM : TM_E17riv : TM_E17rivriv
+Rivulet : REPLACEROOM : TM_F01riv : TM_F01rivriv
+Rivulet : REPLACEROOM : TM_F03riv : TM_F03rivriv
+Rivulet : REPLACEROOM : TM_F05riv : TM_F05rivriv
+Rivulet : REPLACEROOM : TM_E07riv : TM_E07rivriv
+Rivulet : REPLACEROOM : TM_F02riv : TM_F02rivriv
+Rivulet : REPLACEROOM : TM_F04riv : TM_F04rivriv
+Rivulet : REPLACEROOM : TM_F10riv : TM_F10rivriv
+Rivulet : REPLACEROOM : TM_E12riv : TM_E12rivriv
+Rivulet : REPLACEROOM : TM_F06riv : TM_F06rivriv
+Rivulet : REPLACEROOM : TM_F09riv : TM_F09rivriv
 
 Rivulet : HIDEROOM : TM_F07
 Rivulet : EXCLUSIVEROOM : TM_F07riv
-Rivulet : TM_F06 : TM_F07 : TM_F07riv
-Rivulet : TM_F03 : TM_F07 : TM_F07riv
-Rivulet : TM_F09 : TM_F07 : TM_F07riv
+Rivulet : TM_F06riv : TM_F07 : TM_F07riv
+Rivulet : TM_F03riv : TM_F07 : TM_F07riv
+Rivulet : TM_F09riv : TM_F07 : TM_F07riv
 
 Rivulet : HIDEROOM : TM_F08
 Rivulet : EXCLUSIVEROOM : TM_F08riv
-Rivulet : TM_F04 : TM_F08 : TM_F08riv
+Rivulet : TM_F04riv : TM_F08 : TM_F08riv
 
 // ARTI/SPEAR
 Artificer : REPLACEROOM : TM_C10 : TM_C10arti
@@ -62,8 +62,8 @@ END CONDITIONAL LINKS
 
 ROOMS
 GATE_SI_TM : TM_C20, DISCONNECTED : GATE
-GATE_SB_TM : TM_E08, DISCONNECTED : GATE
-TM_BROKENGATE : TM_F09
+GATE_SB_TM : TM_E08riv, DISCONNECTED : GATE
+TM_BROKENGATE : TM_F09riv
 TM_C20 : TM_C19, TM_C18, GATE_SI_TM
 TM_C19 : TM_S01, TM_C20
 TM_C18 : TM_C24, TM_C17, TM_C27, TM_C20, TM_C21
@@ -123,13 +123,13 @@ TM_C03 : TM_C02, TM_C13, TM_C04
 TM_C04 : TM_B16, TM_C03, TM_D02, TM_D11
 TM_D11 : TM_C04, TM_C29, TM_D11C, TM_D17
 TM_D11C : TM_D11, TM_D12
-TM_D12 : TM_C30, TM_D11C, TM_D13, TM_E12
-TM_D13 : TM_D15, TM_D12
+TM_D12 : TM_C30, TM_D11C, TM_D13, TM_E12riv
+TM_D13 : TM_D15riv, TM_D12
 TM_D17 : TM_D11, TM_D03
 TM_D02 : TM_C04, TM_D10
 TM_D10 : TM_D02, TM_D04, TM_D03
 TM_D03 : TM_D10, TM_D17, TM_D19, TM_D07
-TM_D07 : TM_D03, TM_D18, TM_D08, TM_D14, TM_D15
+TM_D07 : TM_D03, TM_D18, TM_D08, TM_D14, TM_D15riv
 TM_D08 : TM_D07, TM_S05
 TM_S05 : TM_D08 : SHELTER
 TM_D14 : TM_D07
@@ -138,45 +138,45 @@ TM_D04 : TM_D01, TM_D10, TM_D18, TM_D06, DISCONNECTED
 TM_D01 : TM_D04 : SWARMROOM
 TM_D06 : TM_D04, TM_D05, TM_D09
 TM_D05 : TM_D06
-TM_D15 : TM_D07, TM_D13, DISCONNECTED, TM_D16, TM_E14
-TM_D16 : TM_D15, TM_E01
-TM_D09 : TM_D06, DISCONNECTED, TM_E01
-TM_E01 : TM_D09, TM_D19, TM_D16, TM_E03, TM_E06
-TM_D19 : TM_D03, TM_E01
-TM_E03 : TM_E02, TM_E01, TM_E04
-TM_E02 : TM_E03
-TM_E04 : TM_E05, TM_E09, TM_E03
-TM_E09 : TM_E04
-TM_E05 : TM_S06, TM_E04, TM_E08
-TM_E08 : TM_E05, GATE_SB_TM
-TM_S06 : TM_E05 : SHELTER
-TM_E06 : TM_E01, TM_E19, TM_E13
-TM_E19 : TM_E06
-TM_E13 : TM_E06, TM_E14
-TM_E14 : TM_D15, TM_E16, TM_E13, TM_S08
-TM_S08 : TM_E14 : SHELTER
-TM_E16 : TM_E17, TM_E14
-TM_E17 : TM_E12, TM_F01, TM_E16
-TM_F01 : TM_E17, TM_F03
-TM_F03 : TM_F07, TM_F02, TM_F04, TM_F01, TM_F05
-TM_F05 : TM_F03, TM_E07
-TM_E07 : TM_F05
-TM_F02 : TM_F03
-TM_F04 : TM_F08, TM_F03, TM_F10
-TM_F08 : TM_F07, TM_F04
-TM_F10 : TM_F04 : SCAVTRADER
-TM_E12 : TM_D12, TM_F06, TM_E17
-TM_F06 : TM_F07, TM_E12
-TM_F07 : TM_F08, TM_F09, TM_F06, TM_F03 : SCAVOUTPOST
-TM_F09 : TM_F11, TM_S07, TM_F07, TM_BROKENGATE
-TM_F11 : TM_F09 : SWARMROOM
-TM_S07 : TM_F09 : SHELTER
+TM_D15riv : TM_D07, TM_D13, DISCONNECTED, TM_D16, TM_E14riv
+TM_D16 : TM_D15riv, TM_E01riv
+TM_D09 : TM_D06, DISCONNECTED, TM_E01riv
+TM_E01riv : TM_D09, TM_D19, TM_D16, TM_E03riv, TM_E06riv
+TM_D19 : TM_D03, TM_E01riv
+TM_E03riv : TM_E02, TM_E01riv, TM_E04riv
+TM_E02 : TM_E03riv
+TM_E04riv : TM_E05riv, TM_E09riv, TM_E03riv
+TM_E09riv : TM_E04riv
+TM_E05riv : TM_S06, TM_E04riv, TM_E08riv
+TM_E08riv : TM_E05riv, GATE_SB_TM
+TM_S06 : TM_E05riv : SHELTER
+TM_E06riv : TM_E01riv, TM_E19riv, TM_E13riv
+TM_E19riv : TM_E06riv
+TM_E13riv : TM_E06riv, TM_E14riv
+TM_E14riv : TM_D15riv, TM_E16riv, TM_E13riv, TM_S08
+TM_S08 : TM_E14riv : SHELTER
+TM_E16riv : TM_E17riv, TM_E14riv
+TM_E17riv : TM_E12riv, TM_F01riv, TM_E16riv
+TM_F01riv : TM_E17riv, TM_F03riv
+TM_F03riv : TM_F07, TM_F02riv, TM_F04riv, TM_F01riv, TM_F05riv
+TM_F05riv : TM_F03riv, TM_E07riv
+TM_E07riv : TM_F05riv
+TM_F02riv : TM_F03riv
+TM_F04riv : TM_F08, TM_F03riv, TM_F10riv
+TM_F08 : TM_F07, TM_F04riv
+TM_F10riv : TM_F04riv : SCAVTRADER
+TM_E12riv : TM_D12, TM_F06riv, TM_E17riv
+TM_F06riv : TM_F07, TM_E12riv
+TM_F07 : TM_F08, TM_F09riv, TM_F06riv, TM_F03riv : SCAVOUTPOST
+TM_F09riv : TM_F11, TM_S07, TM_F07, TM_BROKENGATE
+TM_F11 : TM_F09riv : SWARMROOM
+TM_S07 : TM_F09riv : SHELTER
 
 //msc
 TM_SPEAREND : TM_A01spear
 TM_A01spear : TM_SPEAREND, TM_A02
-TM_F07riv : TM_F09, TM_F06, TM_F03 : SCAVOUTPOST
-TM_F08riv : TM_F04
+TM_F07riv : TM_F09riv, TM_F06riv, TM_F03riv : SCAVOUTPOST
+TM_F08riv : TM_F04riv
 
 END ROOMS
 
@@ -188,14 +188,14 @@ CREATURES
 (White,Yellow,Red,Gourmand,Spear,Rivulet)TM_B14 : 3-Mimic-{9}
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B14 : 4-Mimic-{12}
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B15 : 3-Mimic-{12}
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E14 : 4-Tentacle Plant
+(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E14riv : 4-Tentacle Plant
 (White,Yellow,Red,Gourmand)TM_C29 : 5-Small Centipede-2
-(Yellow,White,Red,Gourmand)TM_E03 : 3-CicadaA-2
-(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E03 : 3-CicadaB-2
-(White,Yellow,Red)TM_E03 : 4-Salamander
+(Yellow,White,Red,Gourmand)TM_E03riv : 3-CicadaA-2
+(White,Yellow,Red,Gourmand,Artificer,Spear)TM_E03riv : 3-CicadaB-2
+(White,Yellow,Red)TM_E03riv : 4-Salamander
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_E02 : 1-Centiwing
-(White,Yellow,Red,Gourmand,Artificer)TM_E17 : 3-Blue
-(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_E12 : 3-Salamander-2
+(White,Yellow,Red,Gourmand,Artificer)TM_E17riv : 3-Blue
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_E12riv : 3-Salamander-2
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_F07 : 5-CicadaA-2, 5-CicadaB-3
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_F07 : 4-BigNeedleWorm
 (Yellow,White,Red,Gourmand)TM_F07 : 4-SmallNeedleWorm-3
@@ -218,7 +218,7 @@ CREATURES
 (White,Red,Gourmand,Artificer,Spear)TM_D10 : 3-Dropbug
 (Yellow)LINEAGE : OFFSCREEN : 0 : NONE-0.1, NONE-0.1, NONE-0.1, NONE-0.05, KingVulture-0
 (Yellow)LINEAGE : TM_C29 : 5 : Centipede-{0.4}-0.3, Centipede-{0.7}-0
-(Yellow)LINEAGE : TM_E01 : 5 : Blue-0.2, White-0.4, Cyan-0
+(Yellow)LINEAGE : TM_E01riv : 5 : Blue-0.2, White-0.4, Cyan-0
 (Yellow)TM_F07 : 6-Green
 (Yellow)TM_D08 : 2-Eggbug
 (Yellow)TM_D18 : 2-Blue
@@ -240,8 +240,8 @@ CREATURES
 (White)LINEAGE : OFFSCREEN : 0 : NONE-0.5, KingVulture-0
 (White)LINEAGE : OFFSCREEN : 0 : Vulture-0.2, KingVulture-0
 (White)LINEAGE : TM_C29 : 5 : Centipede-{0.8}-0.1, Red Centipede-0
-(White,Yellow,Gourmand,Spear)TM_E04 : 3-Centiwing
-(White,Gourmand)LINEAGE : TM_E01 : 5 : Blue-0.7, White-0.4, Cyan-0
+(White,Yellow,Gourmand,Spear)TM_E04riv : 3-Centiwing
+(White,Gourmand)LINEAGE : TM_E01riv : 5 : Blue-0.7, White-0.4, Cyan-0
 (White,Gourmand,Spear)TM_F07 : 7-Centiwing
 (White)TM_F07 : 6-Green
 (White)TM_D07 : 6-Yellow
@@ -280,8 +280,8 @@ CREATURES
 (Red)OFFSCREEN : 0-Vulture, 0-King Vulture-2
 (Red)LINEAGE : OFFSCREEN : 0 : Vulture-0.7, King Vulture-0 
 (Red,Gourmand)LINEAGE : TM_C29 : 5 : Centipede-{0.9}-0.4, Red-0
-(Red,Artificer)TM_E04 : 3-Centiwing-2
-(Red,Artificer)TM_E01 : 5-Cyan
+(Red,Artificer)TM_E04riv : 3-Centiwing-2
+(Red,Artificer)TM_E01riv : 5-Cyan
 (Red,Artificer)TM_F07 : 8-Cyan
 (Red)TM_F07 : 7-Centiwing-2
 (Red,Gourmand,Artificer,Spear)LINEAGE : TM_F07 : 6 : SpitLizard-0.3, Red-0
@@ -339,15 +339,15 @@ CREATURES
 (Gourmand,Artificer,Spear)TM_C18 : 7-CicadaA
 (Gourmand,Spear)TM_C17 : 3-CicadaB
 (Gourmand)TM_F07 : 8-CicadaB
-(Gourmand)TM_F10 : 1-Yeek
+(Gourmand)TM_F10riv : 1-Yeek
 (Artificer)TM_D10 : 5-CyanLizard
 (Artificer,Spear)TM_C29 : 5-RedCentipede-0.5, 4-Centipede
 (Artificer)TM_B14 : 3-PoleMimic-{12}, 5-CyanLizard
 (Gourmand)TM_A06 : 3-Cicada
-(Artificer,Spear)TM_E03 : 6-JungleLeech-5
-(Red,Gourmand)TM_E03 : 6-Leech-4
-(Red,Gourmand,Artificer,Spear)TM_E01 : 6-Salamander
-(Gourmand,Artificer,Spear)TM_E03 : 5-JungleLeech-3
+(Artificer,Spear)TM_E03riv : 6-JungleLeech-5
+(Red,Gourmand)TM_E03riv : 6-Leech-4
+(Red,Gourmand,Artificer,Spear)TM_E01riv : 6-Salamander
+(Gourmand,Artificer,Spear)TM_E03riv : 5-JungleLeech-3
 (Gourmand)TM_D13 : 2-EggBug
 (Artificer,Spear)TM_B09 : 3-BigNeedleWorm, 3-SmallNeedleWorm-2
 (Artificer,Spear)TM_A06 : 4-WhiteLizard, 3-BigNeedleWorm
@@ -366,11 +366,11 @@ CREATURES
 (Spear)TM_B08 : 4-Centiwing
 (Spear)LINEAGE : TM_D09 : 3 : Centipede-{1}-0.7, RedCentipede-0
 (Artificer)TM_F07 : 7-SpitLizard
-(Artificer,Spear)TM_E17 : 3-JungleLeech-3
-(Artificer,Spear)TM_F03 : 8-JungleLeech-2
-(Artificer,Spear)TM_F04 : 3-JungleLeech
-(Gourmand,Artificer,Spear)TM_E05 : 3-JungleLeech-2
-(Red)TM_E03 : 5-Leech-2
+(Artificer,Spear)TM_E17riv : 3-JungleLeech-3
+(Artificer,Spear)TM_F03riv : 8-JungleLeech-2
+(Artificer,Spear)TM_F04riv : 3-JungleLeech
+(Gourmand,Artificer,Spear)TM_E05riv : 3-JungleLeech-2
+(Red)TM_E03riv : 5-Leech-2
 (Rivulet)TM_C18 : 5-TentaclePlant
 (Rivulet)TM_D12 : 5-Eel
 

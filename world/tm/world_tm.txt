@@ -318,6 +318,9 @@ CREATURES
 (Red)TM_B07 : 2-Cyan
 (Red)LINEAGE : TM_C08 : 4 : Centipede-{1.0}-0.2, Red Centipede-0
 
+
+(Artificer)OFFSCREEN : 0-Deer, 0-Scavenger-25, 0-ScavengerElite-40, 0-Vulture-4
+
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

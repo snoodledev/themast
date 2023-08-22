@@ -1,0 +1,15 @@
+Template: TM_SettingsTemplate_Outside
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+RandomItemDensity: 0
+Palette: 28
+EffectColorA: 14
+Effects: AboveCloudsView-1-1072-506, FairyParticles-0.1-1071-559, DayNight-0.9456522-1074-453, SkyBloom-1-23-76, 
+PlacedObjects: EEGhostSpot><143.2644><2191.801><, PlacedWind><94.93951><1658.814><-4~759~1087~757~1081~-2~0.1956521~Creatures~Horizontal~0.1956521~Creatures~Horizontal, PlacedWind><1184.816><1563.673><94~261~2004~276~2005~0~0.1521739~Creatures~Horizontal~0.1521739~Creatures~Horizontal, PlacedWind><1062.301><724.485><-11~754~1363~835~1354~1~0.5~Creatures~Horizontal~0.5~Creatures~Horizontal, PlacedWind><1084.31><194.0591><-23~525~1302~529~1300~-11~0.1956521~Creatures~Horizontal~0.1956521~Creatures~Horizontal, PlacedWind><2385.24><617.9498><35~943~799~942~858~-21~0.2608696~Creatures~Horizontal~0.2608696~Creatures~Horizontal, PlacedWind><2365.195><45.54384><39~229~790~212~819~9~0.1956521~Objects~Horizontal~0.1956521~Objects~Horizontal, Mushroom><1985.702><406.3058><-274~209~2~3, Mushroom><1964.632><398.4005><-294~23~2~3, LightSource><905.3075><1976.692><0.173913~EffectColor1~-142~153~-439~168.6025~0~1~Fade~0.3586957~0, FairyParticleSettings><3265.051><52.9828><-315~-445.3397~0~2.173913~1~0~3.774776~1.448696~60~131.0869~663.0438~1000~3.913043~10.4348~93.91304~86.08696~0.02173913~0.07608695~0.2173913~0.1847826~0.5869565~0.3804348~0.5~0.8369565~4.423913~Leaf~LINEAR~LINEAR~0~0~0.6521739, DayNightSettings><2446.553><357.0336><186~50.66025~3~46, DandelionPeach><2290.46><198.304><3~85~2~3, Filter><2111.696><184.2115><-2~58~-60~130~White|Yellow|Rivulet|Artificer|Saint|Spear|Gourmand, NeedleEgg><2144.43><193.6634><-100~43~4~9, DandelionPeach><1867.656><1966.875><0~0~2~3, DandelionPeach><1837.591><1974.822><0~0~2~3, DandelionPatch><1855.087><1946.116><-69.28442~82.43854, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><466.1839><650.9213><0.5><1, OMNI><AM_WIN-HowlingWnd.ogg><605.4448><562.0451><0.2717391><1, 
+FadePalette: 19, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826, 0.1847826
+WetTerrain: OFF
+BackgroundType: atc_tm

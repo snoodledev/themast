@@ -8,6 +8,9 @@ blackSalamanderChance: 0.02
 overseersSpawnChance: 0.6
 overseersMin: 0
 overseersMax: 4
+earlyCycleChance: 0.05
+earlyCycleFloodChance: 0.0
+pupSpawnChance: 0.25
 Subregion: The Mast
 Subregion: Primary Transmission Node
 Subregion: Marsh Flats

@@ -11,7 +11,7 @@ overseersMin: 0
 overseersMax: 4
 playerGuideOverseerSpawnChance: 0.04
 Room Setting Templates: Inside, Outside, 
-Subregion: Ashen Spire
+Subregion: Ashen Monolith
 Room_Attr: XM_E01: MirosBird-Stay,
 Room_Attr: XM_E12: MirosBird-Stay,
 Room_Attr: XM_F06: MirosBird-Stay,

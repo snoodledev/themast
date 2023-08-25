@@ -1,0 +1,18 @@
+[INCOMING REQUEST] - EQUIPMENT MANIFEST ? unknown group(NULL) all participants anonymous
+[[ DIAGNOSTICS REPORT AND ERROR LOG 0400x8.1 ]]
+Looks to the Moon.
+Enclosed within this broadcast are a series of access strains and an override permit to the Clastic Basin shared aquifer pump system.
+It contains every signage from the oversight councils, and is capable of a full shutdown of Five Pebbles' intakes.
+I had hoped it would not come to this.
+I can only hope that the embedded guiding probes bypass his blockades without him noticing, and this package crawls its way to you.
+Sincerely, a friend.
+[[ END DIAGNOSTICS REPORT AND ERROR LOG ]]
+ATTEMPTING LOCAL TRANSFER...
+---
+TRANSFER FAILED.
+FATAL EXCEPTION: SPECIFIED BURROWING JOINT IS UNREADABLE. ATTEMPTING REPATHING...
+ATTEMPTING ALTERNATE SEEDING...
+ATTEMPTING SECOND-ORDER REPATHING...
+ATTEMPTING MULTI-ORDER REPATHING...
+TRANSFER FAILED. ACCESS IS DENIED.
+== FAILED TO SEND ==

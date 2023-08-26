@@ -402,8 +402,17 @@ CREATURES
 TM_C06 : 3-BigSpider-{Night}
 (Red,Artificer,Rivulet,Spear)TM_C10 : 3-SpitterSpider-{Night}, 4-BigSpider-{Night}
 (White,Gourmand)TM_C10 : 3-BigSpider-{Night}
-TM_C08 : 8-BigSpider-{Night}
-TM_C08 : 7-BigSpider-{Night}
+TM_C08 : 7-BigSpider-{Night}, 8-BigSpider-{Night}
+(White,Red,Gourmand,Artificer,Rivulet,Spear)TM_B03 : 3-CyanLizard-{Night}
+(Red,Artificer,Rivulet,Spear)TM_B07 : 2-SpitterSpider-{Night}
+(White,Gourmand)TM_B07 : 2-BigSpider-{Night}
+TM_B04 : 2-ScavengerElite-{Night}
+TM_B08 : 3-BigSpider-{Night}
+TM_B10 : 2-Eggbug-{Night}
+
+// precycle
+
+
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

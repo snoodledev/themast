@@ -1,8 +1,8 @@
 CeilingDrips: 0
 RainIntensity: 0.5543478
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.507462
+WaveLength: 0.996269
+WaveAmplitude: 0.001018376
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.4565217
@@ -10,7 +10,7 @@ Palette: 198
 EffectColorA: 13
 EffectColorB: 0
 Effects: DayNight-0.4565217-303-11, 
-PlacedObjects: DayNightSettings><356.8265><305.1505><5~8.660254~3~46, 
+PlacedObjects: DayNightSettings><356.8265><305.1505><5~8.660254~3~46, LanternOnStick><915.5979><532.3799><-32~-83, LanternOnStick><775.855><550.4202><35~-105, 
 AmbientSounds: SPOT><SO_IND-Humm.ogg><440.4453><243.9566><0.3478261><0.7065217><520.4453><520.9567><-27.35535><-22.35535><0><0.1, SPOT><AM_IND-ElectricHum02.ogg><457.3021><143.2791><0.2065217><1><519.3021><518.2791><-35.35534><-35.35534><0><0.05652187, SPOT><AM_IND-Utility03.ogg><694.8145><88.92538><0.5><0.6086956><801.8145><329.9254><-35.35534><-35.35534><0><0.3173914, OMNI><AM_ENV-WallHum.ogg><735.9191><375.1829><0.4782609><0.2956522, OMNI><AM_IND-Utility01.ogg><735.1303><454.0898><0.25><0.8630434, OMNI><AM_ENV-LightWind.ogg><719.8661><522.4128><0.1521739><1, 
 FadePalette: 10, 0.5108696
 WetTerrain: OFF

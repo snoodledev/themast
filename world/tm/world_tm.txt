@@ -395,6 +395,15 @@ CREATURES
 (Rivulet)TM_E01 : 6-Eel
 (Artificer)OFFSCREEN : 0-Scavenger-24, 0-ScavengerElite-4
 (Spear)OFFSCREEN : 0-Scavenger-18
+
+// night
+(Artificer,Spear)OFFSCREEN : 0-ScavengerElite-8-{Night}
+(White,Yellow,Red,Gourmand,Rivulet)OFFSCREEN : 0-ScavengerElite-4-{Night}
+TM_C06 : 3-BigSpider-{Night}
+(Red,Artificer,Rivulet,Spear)TM_C10 : 3-SpitterSpider-{Night}, 4-BigSpider-{Night}
+(White,Gourmand)TM_C10 : 3-BigSpider-{Night}
+TM_C08 : 8-BigSpider-{Night}
+TM_C08 : 7-BigSpider-{Night}
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

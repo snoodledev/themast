@@ -2,9 +2,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.5217391
 RumbleIntensity: 0.1521739
-WaveSpeed: 0.4974339
-WaveLength: 0.998717
-WaveAmplitude: 0.002180154
+WaveSpeed: 0.4998896
+WaveLength: 0.8695101
+WaveAmplitude: 0.02608695
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.7282609
@@ -13,7 +13,7 @@ RandomItemDensity: 0.4021739
 Palette: 12
 EffectColorA: 13
 Effects: Fog-0.326087-309-20, SkyAndLightBloom-0-22-25, 
-PlacedObjects: CustomDecal><338.73><629.801><-40~-101~56~-126~104~1~-324~-288~0.3043478~0.5217391~0~UWshelter~0.5434783~0.8043478~0.5434783~0.8043478~0.5434783~0.8043478~0.5434783~0.8043478, ReliableIggyDirection><649.3771><311.5922><0~100~50~50~2~Shelter~AnyTime~3~0~White|Yellow, 
+PlacedObjects: ReliableIggyDirection><649.3771><311.5922><0~100~50~50~2~Shelter~AnyTime~3~0~White|Yellow, LanternOnStick><484.694><559.2986><-53~77, 
 AmbientSounds: OMNI><AM_ENV-WallHum.ogg><735.9191><375.1829><0.5><0.276087, SPOT><AM_IND-ElectricHum01.ogg><677.8799><211.652><0.2608696><1><666.8799><514.652><-29.35535><-7.355347><0><0.1, SPOT><AM_IND-DeepHum.ogg><179.1888><230.5661><0.3478261><0.9021739><451.1888><122.5661><-35.35534><-35.35534><0><0.3065219, SPOT><AM_IND-ElectricHum02.ogg><726.4593><281.6958><0.2934783><0.6282609><451.4593><157.6958><-35.35534><-35.35534><0><0.2304349, 
 Triggers: Spot<tA>event<tB>BringPlayerGuideToRoom<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>208.1447<tB>415.83<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB>White|Red|Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>754.1448<tB>304.83<tA>handlePos<tB>-5.355347<tB>115.6447, 
 FadePalette: 10, 0.5

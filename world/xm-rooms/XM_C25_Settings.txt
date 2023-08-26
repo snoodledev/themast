@@ -2,14 +2,14 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.9239131
 RumbleIntensity: 0.3152174
-WaveSpeed: 0.4670988
-WaveLength: 0.9835494
-WaveAmplitude: 4.050478E-09
+WaveSpeed: 0.5537653
+WaveLength: 0.9731174
+WaveAmplitude: 6.662486E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 198
 EffectColorA: 13
-Effects: SkyAndLightBloom-0.1630435-30-30, DayNight-0.6086956-304-38, 
+Effects: SkyAndLightBloom-0.05434782-30-30, DayNight-0.6086956-304-38, 
 PlacedObjects: InsectGroup><795.0683><702.1665><-241~68~-269~-88~Moth~0.1195652, LightSource><623.6796><571.412><0.02173913~Environment~-448~224~50~86.60254~1~1~None~0~0, DayNightSettings><361.0506><1141.016><5~8.660254~3~46, 
 AmbientSounds: OMNI><AM_ENV-LightWind.ogg><719.8661><522.4128><0.3369565><0.373913, OMNI><SO_IND-WeirdVent.ogg><740.4091><291.6287><0.5434783><0.1586957, SPOT><SO_IND-HeatDuct.ogg><392.058><425.194><0.3586957><0.9804348><373.058><268.1941><-35.35534><-35.35534><0><0.252174, OMNI><SO_IND-Humm.ogg><741.5545><107.2923><0.3043478><0.55, 
 FadePalette: 10, 0.5543478, 0.6086956

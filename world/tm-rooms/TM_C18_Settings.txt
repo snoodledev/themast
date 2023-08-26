@@ -11,3 +11,4 @@ AmbientSounds: SPOT><AM_IND-DeepHum.ogg><711.7368><168.9496><0.2282609><1><43.73
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>BM_DS_GATE<eA>vol<eB>0.2021743<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0.1630435<eA>rooms<eB>-1<eA>rest<eB>6<eA>fadeIn<eB>91.30434<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>690.3672<tB>399.8504<tA>fireChance<tB>1<tA>entrance<tB>3<tA>karma<tB>0<tA>slugcats<tB>Rivulet|Artificer|Saint|Spear|Gourmand<tA>pos<tB>209.3672<tB>427.8504<tA>handlePos<tB>-106.3553<tB>-89.35535, 
 FadePalette: 105, 0.2734783, 0.2908697, 0.3778262, 0.3278261
 BackgroundType: atc_tm
+BackgroundOffset: 0,217.3913

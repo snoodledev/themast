@@ -10,4 +10,5 @@ AmbientSounds: SPOT><SO_IND-HeatDuct.ogg><122.1011><39.88361><0.6086956><0.82391
 FadePalette: 28, 0.2449727, 0.3068388
 WetTerrain: OFF
 MorePalette0: 105, 0.07608695, 0.0326087
+BackgroundOffset: 0,100
 BackgroundType: atc_tm

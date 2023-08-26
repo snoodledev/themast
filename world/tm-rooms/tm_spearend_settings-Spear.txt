@@ -14,3 +14,4 @@ Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>tm - expanse (sundown)<eA>v
 FadePalette: 29, 0.1086956, 0.09782609, 0.06521739, 0.04347826, 0.0326087, 0.01086957
 WetTerrain: OFF
 BackgroundType: atc_tm
+BackgroundOffset: 0,217.3913

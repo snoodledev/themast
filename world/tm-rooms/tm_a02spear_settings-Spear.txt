@@ -18,3 +18,4 @@ Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>TM - expanse<eA>vol<eB>0.40
 FadePalette: 19, 0.07608695, 0.07608695, 0.08695652, 0.1086956, 0.1304348, 0.1521739
 WetTerrain: OFF
 BackgroundType: atc_tm
+BackgroundOffset: 0,217.3913

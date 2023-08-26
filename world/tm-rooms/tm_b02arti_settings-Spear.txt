@@ -9,3 +9,4 @@ AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><474.6984><649.7243><0.5869565><0.980
 FadePalette: 28, 0.89, 0.85, 0.82, 0.78
 WetTerrain: OFF
 BackgroundType: atc_tm
+BackgroundOffset: 0,217.3913

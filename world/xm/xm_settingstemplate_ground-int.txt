@@ -14,8 +14,8 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.4021739
 RandomItemSpearChance: 0.2
 WaterReflectionAlpha: 1
-Palette: 19
-EffectColorA: 5
-EffectColorB: 13
-Effects: Flies-0.22-22-76, Wasps-0.03-24-76, Coldness-0.5-20-20, 
-AmbientSounds: OMNI><AM_ENV-LightWind.ogg><719.8661><522.4128><0.2282609><0.90, 
+Palette: 198
+EffectColorA: 13
+EffectColorB: 6
+Effects: ReplaceEffectColorB-0.1956522-308-180-Color-0-0.2717391-0.1847826, Flies-0.35-22-76, Ants-0.25-22-90, Coldness-0.4-20-20, 
+AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.1304348><0.4326087, OMNI><AM_SUB-CaveTone.ogg><710.1996><253.0114><0.2717391><1, 

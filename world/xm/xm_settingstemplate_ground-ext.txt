@@ -17,5 +17,5 @@ WaterReflectionAlpha: 1
 Palette: 198
 EffectColorA: 5
 EffectColorB: 13
-Effects: Flies-0.16-22-76, Wasps-0.1-24-76, Coldness-1-20-20, 
-AmbientSounds: OMNI><AM_ENV-NatWind.ogg><838.4495><650.9854><0.4456522><1, OMNI><AM_ENV-LightWind.ogg><660.0915><650.6779><0.423913><0.9021739, 
+Effects: ReplaceEffectColorB-0.1956522-308-180-Color-0-0.2717391-0.1847826, Flies-0.35-22-76, Coldness-1-20-20, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><838.4495><650.9854><0.2065217><1, OMNI><AM_ENV-LightWind.ogg><660.0915><650.6779><0.173913><1, OMNI><am_env-lightwind.ogg><691.0626><500.5698><0.4021739><0.373913, OMNI><am_sub-blankstate.ogg><732.5303><323.5523><0.35><0.4521739, 

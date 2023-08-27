@@ -3,7 +3,7 @@ Clouds: 0
 Grime: 0.173913
 Palette: 28
 EffectColorB: 13
-Effects: SkyAndLightBloom-0.07608695-16-16, DayNight-1-289-17, 
+Effects: SkyAndLightBloom-0.07608695-16-16, DayNight-1-289-17, Coldness-1-20-20, 
 PlacedObjects: LightSource><477.864><160.8966><0.07608695~Environment~-159~178~-77~87.60254~1~1~None~0~0, DayNightSettings><430.6986><-36.22633><5~8.660254~3~46, LightSource><516.3192><129.1645><0.3586957~EffectColor2~-13~54~261~-102.3974~0~0~None~0~1, LightSource><42.5304><169.0524><0.1086956~EffectColor1~-1~45~23~-125.3975~0~1~None~0~1, LightSource><711.604><174.0793><0.1413043~EffectColor1~-9~35~65~88.60254~0~1~None~0~1, LightSource><1118.842><132.6273><0.173913~EffectColor1~-8~36~-84~130.6026~0~1~None~0~1, 
 AmbientSounds: SPOT><AM_IND-DeepHum.ogg><694.4084><307.872><0.5><1><600.4084><143.872><-35.35534><-35.35534><0><0.1, 
 FadePalette: 3, 0.3043478

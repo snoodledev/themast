@@ -1,9 +1,9 @@
 Template: NONE
-DangerType: Flood
+DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.490339
-WaveLength: 0.9646388
-WaveAmplitude: 0.001065465
+WaveSpeed: 0.4839247
+WaveLength: 0.7419623
+WaveAmplitude: 0.04998154
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.1231318

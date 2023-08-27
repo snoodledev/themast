@@ -2,9 +2,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.5108696
 RumbleIntensity: 0.1521739
-WaveSpeed: 0.5023774
-WaveLength: 0.9988113
-WaveAmplitude: 0.0002003327
+WaveSpeed: 0.4884789
+WaveLength: 0.9942394
+WaveAmplitude: 5.605194E-45
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 12
@@ -12,6 +12,6 @@ EffectColorA: 13
 EffectColorB: 21
 Effects: SkyAndLightBloom-0-29-20, 
 PlacedObjects: KarmaFlower><745.0535><328.9628><-39~267~5~7, Filter><763.5776><361.3986><0~55~-350~111~White|Red|Rivulet|Artificer|Saint|Spear|Gourmand, LightSource><604.306><398.7011><0.0326087~Environment~628~280~-367~-177.3975~1~1~None~0~0, 
-AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><709.3417><296.6777><0.4891304><0.55><656.3417><498.6777><-35.35534><-35.35534><0><0.1652175, OMNI><am_env-wallhum.ogg><701.6403><415.5828><0.3586957><0.8630434, 
+AmbientSounds: SPOT><AM_IND-ElectricHum01.ogg><709.3417><296.6777><0.423913><0.55><656.3417><498.6777><-35.35534><-35.35534><0><0.1652175, OMNI><am_env-wallhum.ogg><701.6403><415.5828><0.3913043><0.276087, 
 FadePalette: 10, 0.326087
 WetTerrain: OFF

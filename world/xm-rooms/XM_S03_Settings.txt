@@ -12,7 +12,8 @@ Clouds: 0.2391304
 Grime: 0.2391304
 Palette: 198
 EffectColorA: 18
-Effects: ReplaceEffectColorA-0-940-414-Color-0.2826087-0-0, ReplaceEffectColorB-0.2391304-308-180-Color-0.4456522-0.4130435-0.3913043, SkyAndLightBloom-0.02173913-16-16, 
+Effects: ReplaceEffectColorA-0-940-414-Color-0.2826087-0-0, ReplaceEffectColorB-0.2391304-308-180-Color-0.4456522-0.4130435-0.3913043, SkyAndLightBloom-0.02173913-16-16, Coldness-1-20-20, 
 PlacedObjects: LightSource><269.3548><422.9203><0.05434782~Environment~-79~87~50~86.60254~1~1~None~0~0, DayNightSettings><210.3085><303.0578><5~8.660254~3~46, ShelterBhvrSpawnPosition><212.9176><413.3295><, ShelterBhvrManager><646.5524><280.443><100~50~False~False~4~False~3~6~20~40~60~120~120~120~False, ShelterBhvrTriggerZone><197.138><403.6052><93~77, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><838.4495><650.9854><0.1304348><1, OMNI><AM_ENV-LightWind.ogg><660.0915><650.6779><0.1521739><1, OMNI><am_env-lightwind.ogg><691.0626><500.5698><0.1521739><0.373913, OMNI><am_sub-blankstate.ogg><732.5303><323.5523><0.4021739><0.373913, 
 FadePalette: 10, 0.2934783
 WetTerrain: OFF

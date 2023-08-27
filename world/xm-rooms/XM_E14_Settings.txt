@@ -1,4 +1,4 @@
-Template: NONE
+Template: XM_SettingsTemplate_ground-int
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.8586956
@@ -17,6 +17,6 @@ EffectColorA: 18
 EffectColorB: 6
 Effects: Fog-0.3043478-327-15, Flies-0.04347826-19-78, 
 PlacedObjects: Stowaway><429.8577><1371.359><13~-81, LightSource><831.8286><983.5662><0.6521739~EffectColor1~-8~82~50~86.60254~0~0~None~0~0, 
-AmbientSounds: OMNI><Deep Weird Wind.wav><742.3224><419.3136><0.2173913><0.4326087, OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.4565217><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.5869565><1, OMNI><SO_WAT-TubWater.ogg><741.1196><503.9016><0.3586957><1, OMNI><SO_WAT-OpenFlow.ogg><742.6586><153.6281><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><750.9114><54.42932><0.3586957><0.9217392, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><737.8707><248.6595><0.4565217><1, OMNI><SO_WAT-LilDrips.ogg><749.6999><322.7567><0.5869565><1, OMNI><SO_WAT-TubWater.ogg><741.1196><503.9016><0.3586957><1, OMNI><SO_WAT-OpenFlow.ogg><742.6586><153.6281><0.3586957><1, OMNI><AM_SUB-BlankState.ogg><750.9114><54.42932><0.3586957><0.9217392, 
 FadePalette: 10, 0.8669567, 0.897826
 WetTerrain: OFF

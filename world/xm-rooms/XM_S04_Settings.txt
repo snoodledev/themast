@@ -8,7 +8,7 @@ SecondWaveAmplitude: 0.0001
 Clouds: 0.02173913
 Palette: 40
 EffectColorA: 13
-Effects: SkyAndLightBloom-0-24-18, 
+Effects: SkyAndLightBloom-0-24-18, Coldness-1-20-20, 
 PlacedObjects: LightSource><530.4896><62.69971><0.02173913~Environment~-138~105~50~86.60254~1~1~None~0~0, 
 FadePalette: 10, 0.8586956
 WetTerrain: OFF

@@ -1,11 +1,11 @@
-Template: NONE
+Template: XM_SettingsTemplate_ground-metal
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 1
 RumbleIntensity: 0.6413044
-WaveSpeed: 0.5029144
-WaveLength: 0.9985428
-WaveAmplitude: 8.999999E-05
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.2282609

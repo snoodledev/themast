@@ -1,10 +1,10 @@
-Template: NONE
+Template: XM_SettingsTemplate_Outside
 DangerType: Blizzard
 CeilingDrips: 0
 RumbleIntensity: 0.5217391
-WaveSpeed: 0.6417391
-WaveLength: 0.9291304
-WaveAmplitude: 6.464888E-06
+WaveSpeed: 0.5054409
+WaveLength: 0.9972796
+WaveAmplitude: 6.61015E-11
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.5760869

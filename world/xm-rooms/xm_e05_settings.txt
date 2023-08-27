@@ -1,11 +1,11 @@
-Template: NONE
+Template: XM_SettingsTemplate_ground-int
 DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.3804348
 RumbleIntensity: 0.6413044
-WaveSpeed: 0.4951558
-WaveLength: 0.9975778
-WaveAmplitude: 5.382857E-10
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.07608695
@@ -15,5 +15,6 @@ EffectColorA: 18
 EffectColorB: 13
 Effects: ReplaceEffectColorB-0.1630435-341-174-Color-0.9130435-0.9673913-0.8586956, Fog-0.1521739-327-15, Flies-0.04347826-19-78, RockFlea-0.1086956-306-84, 
 PlacedObjects: LightSource><457.6461><1278.137><0.0326087~Environment~208~13~44~-141.3975~1~1~None~0~0, 
+AmbientSounds: OMNI><so_wat-lildrips.ogg><713.1283><475.5966><0.25><1, 
 FadePalette: 10, 0.7152174, 0.8673913
 WetTerrain: OFF

@@ -1,9 +1,9 @@
 Template: NONE
-DangerType: Flood
+DangerType: None
 CeilingDrips: 0
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.4915673
+WaveLength: 0.7457836
+WaveAmplitude: 0.00509
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.2391304
@@ -12,7 +12,7 @@ BkgDroneVolume: 0
 Palette: 198
 EffectColorA: 0
 EffectColorB: 6
-Effects: LightBurn-0.3711956-20-20, 
+Effects: LightBurn-0.3711956-20-20, Coldness-0.2065217-30-30, 
 PlacedObjects: LightSource><446.6955><1317.542><0.01546677~Environment~137~-220~-316~-4.414429~1~1~None~0~0, 
 AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><829.3027><640.0327><0.4021739><1, OMNI><AM_SUB-BlankState.ogg><655.7799><638.9478><0.3152174><1, 
 FadePalette: 10, 0.4347826, 0.5869565, 0.7173913

@@ -10,7 +10,7 @@ overseersSpawnChance: 0
 overseersMin: 0
 overseersMax: 0
 playerGuideOverseerSpawnChance: 0.04
-Room Setting Templates: Inside, Outside, 
+Room Setting Templates: Inside, Outside, ground-ext, ground-int, ground-metal
 Subregion: Ashen Monolith
 Room_Attr: XM_C18: CicadaA-Avoid,CicadaB-Avoid,Vulture-Avoid,Spider-Forbidden,BigSpider-Forbidden,SpitterSpider-Forbidden,SmallNeedleWorm-Avoid,BigNeedleWorm-Avoid,MirosVulture-Forbidden,
 Room_Attr: XM_C27: Spider-Avoid,BigSpider-Avoid,SpitterSpider-Avoid,

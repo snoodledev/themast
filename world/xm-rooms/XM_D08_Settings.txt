@@ -2,16 +2,16 @@ Template: XM_SettingsTemplate_Outside
 DangerType: Blizzard
 CeilingDrips: 0
 RumbleIntensity: 0.5652174
-WaveSpeed: 0.4628627
-WaveLength: 0.9814314
-WaveAmplitude: 1.515478E-07
+WaveSpeed: 0.4849819
+WaveLength: 0.9924909
+WaveAmplitude: 8.857861E-08
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 12
 EffectColorA: 13
 EffectColorB: 6
 Effects: Flies-0.02173913-20-20, SkyDandelions-0-290-19, Darkness-0.1521739-33-88, 
-PlacedObjects: LightSource><703.449><748.5194><0.08695652~Environment~-752~-498~-213~-231.3975~1~1~None~0~0, LightSource><1650.315><728.0749><0.2608696~Environment~-959~-793~81~-203.3975~1~1~None~0~0, LightSource><2763.936><577.5736><0.2717391~Environment~-1029~-463~-95~-429.3975~1~1~None~0~0, InsectGroup><2378.551><265.7357><-32~135~86~322~StandardFly~0.1086956, InsectGroup><568.4222><225.3157><-156~117~-315~201~StandardFly~0.1304348, InsectGroup><520.6528><383.9248><0~100~0~0~RockFlea~0.1630435, DangleFruit><596.1961><191.7107><-415~-158~2~3, DangleFruit><684.8048><145.0437><-466~-31~2~3, ReliableSpear><1053.348><47.57544><, DangleFruit><1204.294><104.3048><167~-34~2~3, NeedleEgg><859.3547><89.57959><0~0~4~9, Filter><871.2275><102.1987><0~100~-8~71~White|Yellow|Rivulet|Artificer|Saint|Spear|Gourmand, DandelionPatch><523.4476><352.0307><-12~80, SnowSource><1398.907><602.323><Radial~916~277~-178~-120.3975~0.3478261~0.2173913, SnowSource><1148.564><557.0605><Strip~1061~-14~50~86.60254~0.5543478~0.4565217, SnowSource><975.8051><590.4557><Strip~339~27~98~-27.39746~0.5978261~0.3695652, SnowSource><612.1864><593.9396><Radial~514~117~-203~45.60254~0.4891304~0.1630435, 
+PlacedObjects: LightSource><703.449><748.5194><0.08695652~Environment~-752~-498~-213~-231.3975~1~1~None~0~0, LightSource><1650.315><728.0749><0.2608696~Environment~-959~-793~81~-203.3975~1~1~None~0~0, LightSource><2763.936><577.5736><0.2717391~Environment~-1029~-463~-95~-429.3975~1~1~None~0~0, InsectGroup><2378.551><265.7357><-32~135~86~322~StandardFly~0.1086956, InsectGroup><568.4222><225.3157><-156~117~-315~201~StandardFly~0.1304348, InsectGroup><520.6528><383.9248><0~100~0~0~RockFlea~0.1630435, DangleFruit><596.1961><191.7107><-415~-158~2~3, DangleFruit><684.8048><145.0437><-466~-31~2~3, ReliableSpear><1053.348><47.57544><, DangleFruit><1204.294><104.3048><167~-34~2~3, NeedleEgg><859.3547><89.57959><0~0~4~9, Filter><871.2275><102.1987><0~100~-8~71~White|Yellow|Rivulet|Artificer|Saint|Spear|Gourmand, DandelionPatch><523.4476><352.0307><-12~80, SnowSource><1398.907><602.323><Radial~916~277~-178~-120.3975~0.3478261~0.2173913, SnowSource><1148.564><557.0605><Strip~1061~-14~50~86.60254~0.5543478~0.4565217, SnowSource><975.8051><590.4557><Strip~339~27~98~-27.39746~0.5978261~0.3695652, SnowSource><612.1864><593.9396><Radial~514~117~-203~45.60254~0.4891304~0.1630435, InsectGroup><510.1677><443.3177><-32~74~0~0~Wasp~0.2826087, 
 AmbientSounds: OMNI><AM_ENV-Pasture.ogg><130.4467><491.2862><0.2934782><1, OMNI><AM_ENV-Outside.ogg><132.5654><412.327><0.4021739><1, 
 FadePalette: 15, 0.2826087, 0.3152174, 0.1521739
 WetTerrain: OFF

@@ -3,9 +3,9 @@ DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.6956522
 RumbleIntensity: 0.3913043
-WaveSpeed: 0.4799189
-WaveLength: 0.9899595
-WaveAmplitude: 1.979205E-07
+WaveSpeed: 0.5266851
+WaveLength: 0.9866574
+WaveAmplitude: 9.164728E-14
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.4021739
@@ -14,7 +14,7 @@ RandomItemDensity: 0.4565217
 Palette: 12
 EffectColorA: 13
 Effects: Fog-0.4782609-15-6, SkyDandelions-0.2282609-15-63, DayNight-0.6630435-30-139, AboveCloudsView-0-333.7532-141.6594, CloudAdjustment-0.255197-335.8875-85.45416, 
-PlacedObjects: CustomDecal><245.2242><1359.448><-6~167~142~160~141~9~283~-199~0.6413044~1~0.3913043~AntMan~0.1956522~0.6086956~0.1956522~0.6086956~0.1956522~0.6086956~0.1956522~0.6086956, LightSource><2206.34><621.3704><0.1086956~Environment~-1332~711~-439~69.60254~1~1~None~0~0, DandelionPatch><1019.736><624.1995><-39~37, DandelionPatch><451.3679><1282.6><-8~101, DandelionPatch><768.3847><361.1478><-26~62, DayNightSettings><1133.018><1521.551><-31~97.66025~3~46, SnowSource><1848.446><373.2859><Radial~573~368~50~86.60254~0.5434783~0.4456522, SnowSource><598.2051><844.4449><Radial~716~-412~-28~-214.3975~0.4565217~0.5434783, SnowSource><459.1674><1402.432><Radial~308~-95~-197~-279.3975~0.05434784~0.3369565, SnowSource><708.4077><1110.373><Radial~595~441~1~154.6025~0.25~0.2391304, SnowSource><1450.794><1193.695><Radial~440~393~45~-240.3975~0.6304348~0.6304348, SnowSource><518.4484><339.025><Strip~563~12~50~86.60254~0.4456522~0.7608696, SnowSource><561.8681><146.9114><Radial~0~100~50~86.60254~0.4565217~0.423913, 
+PlacedObjects: CustomDecal><245.2242><1359.448><-6~167~142~160~141~9~283~-199~0.6413044~1~0.3913043~AntMan~0.1956522~0.6086956~0.1956522~0.6086956~0.1956522~0.6086956~0.1956522~0.6086956, LightSource><2206.34><621.3704><0.1086956~Environment~-1332~711~-439~69.60254~1~1~None~0~0, DandelionPatch><1019.736><624.1995><-39~37, DandelionPatch><451.3679><1282.6><-8~101, DandelionPatch><768.3847><361.1478><-26~62, DayNightSettings><1133.018><1521.551><-31~97.66025~3~46, SnowSource><1848.446><373.2859><Radial~573~368~50~86.60254~0.5434783~0.4456522, SnowSource><598.2051><844.4449><Radial~716~-412~-28~-214.3975~0.4565217~0.5434783, SnowSource><459.1674><1402.432><Radial~308~-95~-197~-279.3975~0.05434784~0.3369565, SnowSource><708.4077><1110.373><Radial~595~441~1~154.6025~0.25~0.2391304, SnowSource><1450.794><1193.695><Radial~440~393~45~-240.3975~0.6304348~0.6304348, SnowSource><518.4484><339.025><Strip~563~12~50~86.60254~0.4456522~0.7608696, SnowSource><561.8681><146.9114><Radial~0~100~50~86.60254~0.4565217~0.423913, InsectGroup><627.8003><476.2607><-43~81~-331~63~Wasp~0.5978254, 
 AmbientSounds: SPOT><AM_IND-DeepHum.ogg><711.7368><168.9496><0.2282609><1><43.73676><209.9496><-35.35534><-35.35534><0><0.4369566, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>tm - Drifting Polymers<eA>vol<eB>0.6152178<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0.1630435<eA>rooms<eB>-1<eA>rest<eB>6<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>52<tA>panPos<tB>690.3672<tB>399.8504<tA>fireChance<tB>1<tA>entrance<tB>2<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>233.3672<tB>404.8504<tA>handlePos<tB>-106.3553<tB>-89.35535, 
 FadePalette: 15, 0.2082609, 0.3369565, 0.258261, 0.1865218

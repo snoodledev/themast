@@ -5,7 +5,7 @@ WaveAmplitude: 0.0001
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 12
-Effects: Coldness-1-20-20, 
+Effects: Coldness-0-30-30, 
 PlacedObjects: LightSource><630.9435><409.9497><0.0326087~Environment~-130~232~50~86.60254~1~1~None~0~0, 
 AmbientSounds: SPOT><AM_IND-DeepHum.ogg><709.2836><140.9472><0.3478261><1><627.2836><476.9472><-16.35535><13.64465><0><0.1978262, OMNI><AM_IND-Utility01.ogg><735.1303><454.0898><0.09782609><0.8630434, SPOT><Basic Mech.wav><521.0466><537.5555><0.173913><0.6673913><631.0466><414.5555><-15.35535><-14.35535><0><0.252174, OMNI><AM_ENV-WallHum.ogg><735.9191><375.1829><0.2282609><0.276087, OMNI><AM_ENV-LightWind.ogg><719.8661><522.4128><0><1, 
 FadePalette: 10, 0.4347826

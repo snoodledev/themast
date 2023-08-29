@@ -411,8 +411,16 @@ TM_B08 : 3-BigSpider-{Night}
 TM_B10 : 2-Eggbug-{Night}
 
 // precycle
-
-
+TM_C18 : 8-Snail-2-{PreCycle}
+(Rivulet)TM_C18 : 7-Salamander-{PreCycle}
+TM_C15 : 2-CicadaA-2-{PreCycle}
+TM_B16 : 3-SmallCentipede-3-{PreCycle}, 3-Centipede-2-{PreCycle}
+(Yellow,White,Red,Gourmand,Artificer,Spear)TM_E17 : 3-Snail-3-{PreCycle}
+(White,Red,Gourmand,Artificer,Spear)TM_F07 : 3-Snail-2-{PreCycle}, 7-Snail-2-{PreCycle}, 7-Salamander-{PreCycle}, 8-Snail-{PreCycle}, 8-Snail-{PreCycle}
+(Yellow,White,Red,Gourmand,Artificer,Spear)TM_E03 : 5-Snail-2-{PreCycle}
+(White,Red,Gourmand,Artificer,Rivulet,Spear)TM_F06 : 2-TentaclePlant-{PreCycle}
+(Yellow,White,Red,Gourmand,Artificer,Spear)TM_E03 : 12-GarbageWorm-2-{PreCycle}
+(Yellow,White,Red,Gourmand,Artificer,Spear)TM_E04 : 8-GarbageWorm-{PreCycle}
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

@@ -7,6 +7,6 @@ Palette: 98
 EffectColorA: 5
 EffectColorB: 6
 Effects: LightBurn-0.1413043-20-20, 
-PlacedObjects: BrokenShelterWaterLevel><473.0659><436.4388><, LightSource><483.1501><370.6321><0.06521739~Environment~-46~149~50~86.60254~1~1, 
+PlacedObjects: BrokenShelterWaterLevel><451.0659><331.4388><, LightSource><483.1501><370.6321><0.06521739~Environment~-46~149~50~86.60254~1~1~None~0~0, 
 AmbientSounds: SPOT><Mech Basic.wav><705.4922><386.3001><0.2173913><1><493.4922><396.3001><-107.3553><-111.3553><0><0.1978262, OMNI><AM_ENV-LightWind.ogg><713.0626><522.8101><0.1847826><1, OMNI><AM_ENV-Outside.ogg><519.8972><522.3646><0.2717391><1, 
 FadePalette: 105, 0.6195652

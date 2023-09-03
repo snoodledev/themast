@@ -181,6 +181,7 @@ TM_F08riv : TM_F04
 END ROOMS
 
 CREATURES
+TM_B03 : 2-Hoverfly-20
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)OFFSCREEN : 0-Deer
 (White,Yellow,Red,Gourmand,Rivulet)OFFSCREEN : 0-Scavenger-14
 (Yellow,White,Red,Gourmand)OFFSCREEN : 0-Vulture-4

@@ -1,0 +1,2 @@
+[ADD]Hoverfly_Idle : hvflyidle1/vol=0.6, hvflyidle2/vol=0.6, hvflyidle3/vol=0.6, hvflyidle4/vol=0.6, hvflyidle5/vol=0.6, hvflyidle6/vol=0.6, hvflyidle7/vol=0.6
+[ADD]Hoverfly_Startle : hvflystartle1/vol=0.8, hvflystartle2/vol=0.8, hvflystartle3/vol=0.8

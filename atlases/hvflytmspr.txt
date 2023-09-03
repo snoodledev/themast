@@ -2,7 +2,23 @@
 
 "HoverflyBigWing1.png":
 {
-	"frame": {"x":2,"y":33,"w":45,"h":21},
+	"frame": {"x":1,"y":1,"w":45,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":21},
+	"sourceSize": {"w":45,"h":21}
+},
+"HoverflyBigWing2.png":
+{
+	"frame": {"x":47,"y":1,"w":45,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":21},
+	"sourceSize": {"w":45,"h":21}
+},
+"HoverflyBigWing3.png":
+{
+	"frame": {"x":93,"y":1,"w":45,"h":21},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":21},
@@ -10,7 +26,7 @@
 },
 "HoverflyEye111.png":
 {
-	"frame": {"x":2,"y":2,"w":5,"h":5},
+	"frame": {"x":139,"y":1,"w":5,"h":5},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":5},
@@ -18,7 +34,7 @@
 },
 "HoverflyEye121.png":
 {
-	"frame": {"x":9,"y":2,"w":5,"h":5},
+	"frame": {"x":145,"y":1,"w":5,"h":5},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":5,"h":5},
@@ -26,7 +42,7 @@
 },
 "HoverflyEye211.png":
 {
-	"frame": {"x":16,"y":2,"w":6,"h":6},
+	"frame": {"x":151,"y":1,"w":6,"h":6},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":6},
@@ -34,7 +50,7 @@
 },
 "HoverflyEye221.png":
 {
-	"frame": {"x":24,"y":2,"w":6,"h":6},
+	"frame": {"x":158,"y":1,"w":6,"h":6},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":6,"h":6},
@@ -42,7 +58,7 @@
 },
 "HoverflyEye311.png":
 {
-	"frame": {"x":32,"y":2,"w":7,"h":7},
+	"frame": {"x":165,"y":1,"w":7,"h":7},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":7},
@@ -50,7 +66,7 @@
 },
 "HoverflyEye321.png":
 {
-	"frame": {"x":41,"y":2,"w":7,"h":7},
+	"frame": {"x":173,"y":1,"w":7,"h":7},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":7},
@@ -58,7 +74,31 @@
 },
 "HoverflyHead1.png":
 {
-	"frame": {"x":20,"y":11,"w":19,"h":20},
+	"frame": {"x":181,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHead2.png":
+{
+	"frame": {"x":201,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHead3.png":
+{
+	"frame": {"x":221,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHead4.png":
+{
+	"frame": {"x":241,"y":1,"w":19,"h":20},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
@@ -66,7 +106,31 @@
 },
 "HoverflyHeadHighlight1.png":
 {
-	"frame": {"x":41,"y":11,"w":19,"h":20},
+	"frame": {"x":261,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHeadHighlight2.png":
+{
+	"frame": {"x":281,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHeadHighlight3.png":
+{
+	"frame": {"x":301,"y":1,"w":19,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
+	"sourceSize": {"w":19,"h":20}
+},
+"HoverflyHeadHighlight4.png":
+{
+	"frame": {"x":321,"y":1,"w":19,"h":20},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":20},
@@ -74,19 +138,35 @@
 },
 "HoverflySmallWing1.png":
 {
-	"frame": {"x":2,"y":11,"w":16,"h":14},
+	"frame": {"x":341,"y":1,"w":16,"h":14},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":14},
 	"sourceSize": {"w":16,"h":14}
+},
+"HoverflySmallWing2.png":
+{
+	"frame": {"x":358,"y":1,"w":16,"h":14},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":14},
+	"sourceSize": {"w":16,"h":14}
+},
+"icon_Hoverfly.png":
+{
+	"frame": {"x":375,"y":1,"w":28,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":20},
+	"sourceSize": {"w":28,"h":20}
 }},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "hvflytmspr.png",
 	"format": "RGBA8888",
-	"size": {"w":62,"h":56},
+	"size": {"w":404,"h":23},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:5280ae406b9d51e984a79849246f6068:a8fcd0ae20c54b9425f4ea460c3383c3:a2c6f5f3401b4bec7b9e7115bff014b8$"
+	"smartupdate": "$TexturePacker:SmartUpdate:b8d791f06c683aec805711b8b228fcd6:75b10016c37bedd3047feb6c07eb257d:a2c6f5f3401b4bec7b9e7115bff014b8$"
 }
 }

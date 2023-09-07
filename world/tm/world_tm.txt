@@ -400,28 +400,231 @@ TM_B03 : 2-Hoverfly-20
 // night
 (Artificer,Spear)OFFSCREEN : 0-ScavengerElite-8-{Night}
 (White,Yellow,Red,Gourmand,Rivulet)OFFSCREEN : 0-ScavengerElite-4-{Night}
-TM_C06 : 3-BigSpider-{Night}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_C06 : 3-BigSpider-{Night}
 (Red,Artificer,Rivulet,Spear)TM_C10 : 3-SpitterSpider-{Night}, 4-BigSpider-{Night}
 (White,Gourmand)TM_C10 : 3-BigSpider-{Night}
-TM_C08 : 7-BigSpider-{Night}, 8-BigSpider-{Night}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_C08 : 7-BigSpider-{Night}, 8-BigSpider-{Night}
 (White,Red,Gourmand,Artificer,Rivulet,Spear)TM_B03 : 3-CyanLizard-{Night}
 (Red,Artificer,Rivulet,Spear)TM_B07 : 2-SpitterSpider-{Night}
 (White,Gourmand)TM_B07 : 2-BigSpider-{Night}
-TM_B04 : 2-ScavengerElite-{Night}
-TM_B08 : 3-BigSpider-{Night}
-TM_B10 : 2-Eggbug-{Night}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B04 : 2-ScavengerElite-{Night}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B08 : 3-BigSpider-{Night}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B10 : 2-Eggbug-{Night}
 
 // precycle
-TM_C18 : 8-Snail-2-{PreCycle}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_C18 : 8-Snail-2-{PreCycle}
 (Rivulet)TM_C18 : 7-Salamander-{PreCycle}
-TM_C15 : 2-CicadaA-2-{PreCycle}
-TM_B16 : 3-SmallCentipede-3-{PreCycle}, 3-Centipede-2-{PreCycle}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_C15 : 2-CicadaA-2-{PreCycle}
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B16 : 3-SmallCentipede-3-{PreCycle}, 3-Centipede-2-{PreCycle}
 (Yellow,White,Red,Gourmand,Artificer,Spear)TM_E17 : 3-Snail-3-{PreCycle}
 (White,Red,Gourmand,Artificer,Spear)TM_F07 : 3-Snail-2-{PreCycle}, 7-Snail-2-{PreCycle}, 7-Salamander-{PreCycle}, 8-Snail-{PreCycle}, 8-Snail-{PreCycle}
 (Yellow,White,Red,Gourmand,Artificer,Spear)TM_E03 : 5-Snail-2-{PreCycle}
 (White,Red,Gourmand,Artificer,Rivulet,Spear)TM_F06 : 2-TentaclePlant-{PreCycle}
 (Yellow,White,Red,Gourmand,Artificer,Spear)TM_E03 : 12-GarbageWorm-2-{PreCycle}
 (Yellow,White,Red,Gourmand,Artificer,Spear)TM_E04 : 8-GarbageWorm-{PreCycle}
+
+// this fuckin guy
+(Inv)OFFSCREEN : 0-MirosVulture-20
+(Inv)TM_B14 : 3-SlugNPC
+(Inv)TM_B14 : 4-SlugNPC
+(Inv)TM_B15 : 3-SlugNPC
+(Inv)TM_E14 : 4-SlugNPC
+(Inv)TM_C29 : 5-SlugNPC-2
+(Inv)TM_E03 : 3-SlugNPC-2
+(Inv)TM_E03 : 3-SlugNPC-2
+(Inv)TM_E03 : 4-SlugNPC
+(Inv)TM_E02 : 1-SlugNPC
+(Inv)TM_E17 : 3-SlugNPC
+(Inv)TM_E12 : 3-SlugNPC-2
+(Inv)TM_F07 : 5-SlugNPC, 5-SlugNPC, 4-SlugNPC
+(Inv)TM_F07 : 4-SlugNPC-3
+(Inv)TM_D07 : 5-SlugNPC, 6-SlugNPC-2
+(Inv)TM_B16 : 4-SlugNPC, 5-SlugNPC, 6-SlugNPC
+(Inv)TM_B15 : 4-SlugNPC
+(Inv)TM_C15 : 2-SlugNPC
+(Inv)TM_C10 : 4-SlugNPC
+(Inv)TM_C08 : 5-SlugNPC
+(Inv)LINEAGE : TM_B08 : 3 : SlugNPC-0.5, SlugNPC-0.4, SlugNPC-0
+(Inv)TM_D12 : 4-SlugNPC
+(Inv)TM_C21 : 3-SlugNPC
+(Inv)TM_A06 : 4-SlugNPC
+(Inv)TM_C16 : 4-SlugNPC
+(Inv)TM_C08 : 4-SlugNPC
+(Inv)TM_B15 : 4-SlugNPC
+(Inv)TM_C17 : 2-SlugNPC
+(Inv)TM_C17 : 2-SlugNPC
+(Inv)TM_D10 : 3-SlugNPC
+(Inv)LINEAGE : TM_C29 : 5 : SlugNPC-0.3, SlugNPC-0
+(Inv)LINEAGE : TM_E01 : 5 : SlugNPC-0.2, SlugNPC-0.4, SlugNPC-0
+(Inv)TM_F07 : 6-SlugNPC
+(Inv)TM_D08 : 2-SlugNPC
+(Inv)TM_D18 : 2-SlugNPC
+(Inv)LINEAGE : TM_D04 : 5 : SlugNPC-0.2, SlugNPC-0
+(Inv)LINEAGE : TM_D04 : 6 : SlugNPC-0.5, SlugNPC-0.2, SlugNPC-0.2, SlugNPC-0
+(Inv)TM_D10 : 5-SlugNPC
+(Inv)TM_C04 : 4-SlugNPC
+(Inv)TM_B16 : 6-SlugNPC, 6-SlugNPC-2
+(Inv)TM_C18 : 5-SlugNPC-10, 6-SlugNPC, 8-SlugNPC, 9-SlugNPC-2
+(Inv)TM_C13 : 4-SlugNPC
+(Inv)TM_C06 : 3-SlugNPC, 3-SlugNPC-3
+(Inv)LINEAGE : TM_A05 : 3 : SlugNPC-0.4, SlugNPC-0.2, SlugNPC-0
+(Inv)LINEAGE : TM_B08 : 4 : SlugNPC-0.1, SlugNPC-0
+(Inv)TM_B09 : 3-SlugNPC
+(Inv)TM_C01 : 3-SlugNPC, 4-SlugNPC, 5-SlugNPC-2
+(Inv)TM_D06 : 3-SlugNPC, 4-SlugNPC, 5-SlugNPC-2
+(Inv)TM_B05 : 4-SlugNPC
+(Inv)LINEAGE : TM_C29 : 5 : SlugNPC-0.1, SlugNPC-0
+(Inv)TM_E04 : 3-SlugNPC
+(Inv)LINEAGE : TM_E01 : 5 : SlugNPC-0.7, SlugNPC-0.4, SlugNPC-0
+(Inv)TM_F07 : 7-SlugNPC
+(Inv)TM_F07 : 6-SlugNPC
+(Inv)TM_D07 : 6-SlugNPC
+(Inv)TM_D08 : 2-SlugNPC
+(Inv)TM_D18 : 2-SlugNPC
+(Inv)TM_D04 : 5-SlugNPC
+(Inv)LINEAGE : TM_D04 : 6 : SlugNPC-0.4, SlugNPC-0.2, SlugNPC-0
+(Inv)TM_D10 : 5-SlugNPC
+(Inv)TM_C04 : 4-SlugNPC
+(Inv)TM_C01 : 2-SlugNPC
+(Inv)TM_C01 : 3-SlugNPC, 5-SlugNPC-2
+(Inv)TM_C01 : 4-SlugNPC
+(Inv)TM_C02 : 4-SlugNPC
+(Inv)TM_B16 : 6-SlugNPC, 6-SlugNPC, 6-SlugNPC-2
+(Inv)TM_B14 : 5-SlugNPC
+(Inv)LINEAGE : TM_B13 : 2 : SlugNPC-0.3, SlugNPC-0
+(Inv)TM_C03 : 3-SlugNPC
+(Inv)TM_C18 : 5-SlugNPC, 9-SlugNPC
+(Inv)LINEAGE : TM_C18 : 6 : SlugNPC-0.3, SlugNPC-0.1, SlugNPC-0
+(Inv)TM_C24 : 4-SlugNPC
+(Inv)TM_C13 : 4-SlugNPC
+(Inv)TM_C16 : 3-SlugNPC
+(Inv)TM_C06 : 3-SlugNPC, 3-SlugNPC-3
+(Inv)TM_C08 : 7-SlugNPC
+(Inv)TM_B03 : 3-SlugNPC
+(Inv)TM_A05 : 2-SlugNPC
+(Inv)LINEAGE : TM_B08 : 4 : SlugNPC-0.2, SlugNPC-0
+(Inv)TM_B09 : 3-SlugNPC
+(Inv)TM_D12 : 5-SlugNPC
+(Inv)TM_B10 : 2-SlugNPC
+(Inv)TM_B11 : 2-SlugNPC
+(Inv)TM_B11 : 4-SlugNPC
+(Inv)TM_D06 : 3-SlugNPC
+(Inv)TM_D06 : 4-SlugNPC, 5-SlugNPC-3
+(Inv)TM_B05 : 4-SlugNPC, 5-SlugNPC
+(Inv)LINEAGE : TM_C29 : 5 : SlugNPC-0.4, SlugNPC-0
+(Inv)TM_E04 : 3-SlugNPC-2
+(Inv)TM_E01 : 5-SlugNPC
+(Inv)TM_F07 : 8-SlugNPC
+(Inv)TM_F07 : 7-SlugNPC-2
+(Inv)LINEAGE : TM_F07 : 6 : SlugNPC-0.3, SlugNPC-0
+(Inv)TM_D07 : 6-SlugNPC-2
+(Inv)TM_D08 : 2-SlugNPC
+(Inv)TM_D18 : 2-SlugNPC
+(Inv)TM_D04 : 5-SlugNPC, 6-SlugNPC
+(Inv)TM_D10 : 5-SlugNPC
+(Inv)TM_D10 : 4-SlugNPC
+(Inv)LINEAGE : TM_C04 : 4 : SlugNPC-0.3, SlugNPC-0
+(Inv)TM_C01 : 2-SlugNPC
+(Inv)TM_C01 : 3-SlugNPC, 5-SlugNPC
+(Inv)TM_C01 : 4-SlugNPC
+(Inv)TM_C02 : 4-SlugNPC
+(Inv)TM_C02 : 5-SlugNPC
+(Inv)TM_B15 : 4-SlugNPC
+(Inv)TM_B16 : 6-SlugNPC, 6-SlugNPC
+(Inv)TM_B14 : 5-SlugNPC
+(Inv)TM_B13 : 3-SlugNPC
+(Inv)TM_C03 : 3-SlugNPC
+(Inv)TM_B10 : 2-SlugNPC
+(Inv)TM_B11 : 3-SlugNPC
+(Inv)TM_B11 : 4-SlugNPC
+(Inv)TM_C18 : 5-SlugNPC
+(Inv)TM_C18 : 7-SlugNPC
+(Inv)TM_C18 : 8-SlugNPC
+(Inv)LINEAGE : TM_C18 : 6 : SlugNPC-0.3, SlugNPC-0.3, SlugNPC-0
+(Inv)TM_C24 : 4-SlugNPC
+(Inv)TM_C13 : 4-SlugNPC
+(Inv)TM_C16 : 3-SlugNPC
+(Inv)TM_C10 : 3-SlugNPC
+(Inv)TM_C10 : 3-SlugNPC
+(Inv)TM_C06 : 3-SlugNPC, 3-SlugNPC
+(Inv)TM_C08 : 7-SlugNPC
+(Inv)TM_B03 : 3-SlugNPC
+(Inv)TM_A05 : 2-SlugNPC
+(Inv)TM_B08 : 4-SlugNPC
+(Inv)TM_B09 : 3-SlugNPC
+(Inv)TM_D12 : 5-SlugNPC
+(Inv)TM_B04 : 2-SlugNPC
+(Inv)TM_B04 : 3-SlugNPC
+(Inv)TM_C12 : 1-SlugNPC
+(Inv)TM_D06 : 3-SlugNPC
+(Inv)TM_D06 : 4-SlugNPC
+(Inv)TM_D06 : 5-SlugNPC
+(Inv)TM_B05 : 4-SlugNPC
+(Inv)TM_B05 : 5-SlugNPC
+(Inv)TM_B07 : 2-SlugNPC
+(Inv)LINEAGE : TM_C08 : 4 : SlugNPC-0.2, SlugNPC-0
+(Inv)TM_B07 : 2-SlugNPC
+(Inv)TM_B04 : 2-SlugNPC
+(Inv)TM_B11 : 2-SlugNPC
+(Inv)TM_B10 : 2-SlugNPC
+(Inv)TM_C12 : 1-SlugNPC
+(Inv)TM_C16 : 4-SlugNPC
+(Inv)TM_C18 : 7-SlugNPC
+(Inv)TM_C17 : 3-SlugNPC
+(Inv)TM_F07 : 8-SlugNPC
+(Inv)TM_F10 : 1-Yeek
+(Inv)TM_C12 : 1-SlugNPC
+(Inv)TM_D10 : 5-SlugNPC
+(Inv)TM_C29 : 5-SlugNPC, 4-SlugNPC
+(Inv)TM_B14 : 3-SlugNPC, 5-SlugNPC
+(Inv)TM_A06 : 3-SlugNPC
+(Inv)TM_E03 : 6-SlugNPC-5
+(Inv)TM_E03 : 6-SlugNPC-4
+(Inv)TM_E01 : 6-SlugNPC
+(Inv)TM_E03 : 5-SlugNPC-3
+(Inv)TM_D13 : 2-SlugNPC
+(Inv)TM_B09 : 3-SlugNPC, 3-SlugNPC-2
+(Inv)TM_A06 : 4-SlugNPC, 3-SlugNPC
+(Inv)TM_C10 : 4-SlugNPC
+(Inv)TM_C06 : 3-SlugNPC, 3-SlugNPC
+(Inv)TM_D08 : 2-SlugNPC
+(Inv)TM_D13 : 2-SlugNPC
+(Inv)TM_B10 : 3-SlugNPC
+(Inv)TM_B16 : 3-SlugNPC
+(Inv)TM_C16 : 4-SlugNPC
+(Inv)TM_B16 : 6-SlugNPC
+(Inv)TM_C02 : 4-SlugNPC
+(Inv)TM_C01 : 2-SlugNPC
+(Inv)TM_B14 : 5-SlugNPC
+(Inv)TM_B11 : 3-SlugNPC, 4-SlugNPC
+(Inv)TM_B08 : 4-SlugNPC
+(Inv)LINEAGE : TM_D09 : 3 : SlugNPC-0.7, SlugNPC-0
+(Inv)TM_F07 : 7-SlugNPC
+(Inv)TM_E17 : 3-SlugNPC-3
+(Inv)TM_F03 : 8-SlugNPC-2
+(Inv)TM_F04 : 3-SlugNPC
+(Inv)TM_E05 : 3-SlugNPC-2
+(Inv)TM_E03 : 5-SlugNPC-2
+(Inv)TM_C18 : 5-SlugNPC, 6-SlugNPC
+(Inv)TM_B16 : 3-SlugNPC, 6-SlugNPC, 5-SlugNPC, 4-SlugNPC
+(Inv)TM_C08 : 5-SlugNPC, 4-SlugNPC, 7-SlugNPC, 8-SlugNPC, 6-SlugNPC, 3-SlugNPC
+(Inv)TM_B08 : 4-SlugNPC
+(Inv)TM_D08 : 2-SlugNPC
+(Inv)TM_C12 : 1-SlugNPC
+(Inv)TM_C17 : 3-SlugNPC
+(Inv)TM_B15 : 4-SlugNPC
+(Inv)TM_B11 : 4-SlugNPC, 2-SlugNPC
+(Inv)TM_C04 : 4-SlugNPC-2
+(Inv)TM_C29 : 4-SlugNPC
+(Inv)TM_C13 : 4-SlugNPC
+(Inv)TM_B04 : 2-SlugNPC
+(Inv)TM_C10 : 3-SlugNPC, 4-SlugNPC, 5-SlugNPC
+(Inv)TM_F06 : 2-SlugNPC
+(Inv)TM_F03 : 5-SlugNPC, 8-SlugNPC
+(Inv)TM_E12 : 3-SlugNPC, 4-SlugNPC, 5-SlugNPC, 6-SlugNPC-8
+(Inv)TM_E03 : 4-SlugNPC, 9-SlugNPC, 8-SlugNPC, 6-SlugNPC, 3-SlugNPC, 3-SlugNPC, 5-SlugNPC, 7-SlugNPC
+(Inv)TM_E04 : 3-SlugNPC, 4-SlugNPC, 7-SlugNPC, 6-SlugNPC, 5-SlugNPC
+(Inv)TM_E01 : 6-SlugNPC
 END CREATURES
 
 BAT MIGRATION BLOCKAGES

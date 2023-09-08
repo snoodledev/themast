@@ -5,5 +5,8 @@
 	"hide_version": false,
 	"authors": "snoodle",
 	"description": "PLEASE WORK!!!!",
+	"requirements": ["crs", "regionkit", "fisobs"],
+	"requirement_names": ["Custom Regions Support", "RegionKit", "Fisobs"],
+	"tags": ["Regions"],
 	"checksum_override_version": false
 }

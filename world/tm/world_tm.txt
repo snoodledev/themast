@@ -384,7 +384,8 @@ CREATURES
 (Rivulet)TM_B04 : 2-ZoopLizard
 (Rivulet)TM_C10 : 3-ZoopLizard, 4-WhiteLizard, 5-TentaclePlant
 (Rivulet)TM_F06 : 2-TentaclePlant, 6-Eel-2, 3-TentaclePlant, 4-TentaclePlant, 5-Salamander
-(Rivulet)TM_F07riv : 6-Eel, 6-Caramel, 7-Caramel, 4-TentaclePlant, 5-Centiwing-2, 8-TentaclePlant, 3-Salamander
+(Rivulet)TM_F07riv : 9-Eel, 6-Caramel, 7-Caramel, 4-TentaclePlant, 5-Centiwing-2, 8-TentaclePlant, 3-Salamander
+(Rivulet)TM_F08riv : 1-TentaclePlant
 (Rivulet)TM_F03 : 5-TentaclePlant, 8-AquaCenti
 (Rivulet)TM_E12 : 3-TentaclePlant, 4-TentaclePlant, 5-Salamander-2, 6-Leech-8
 (Rivulet)TM_E03 : 4-Leech-12, 9-TentaclePlant, 8-TentaclePlant, 6-TentaclePlant, 3-CicadaA-2, 3-CicadaB-2, 5-Leech-8, 7-Eel

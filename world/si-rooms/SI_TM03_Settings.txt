@@ -1,3 +1,5 @@
+RainIntensity: 0.7391304
+RumbleIntensity: 0.8913044
 Clouds: 0.25
 Grime: 0.1898097
 BkgDroneVolume: 0.2608696

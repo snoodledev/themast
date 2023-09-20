@@ -1,0 +1,11 @@
+DangerType: None
+RainIntensity: 0.2717391
+RumbleIntensity: 0.2717391
+Clouds: 0.1304348
+BkgDroneVolume: 0
+Palette: 28
+Effects: PixelShift-0.5-32-65, AboveCloudsView-1-20-20, Flies-0-30.09479-131.1302, SkyDandelions-0-285-101, DayNight-1-276-21, 
+PlacedObjects: WhiteToken><373.4124><293.8202><-42~-82~-76~228~0~Chatlog_SI0~White|Yellow|Red|Rivulet|Artificer|Saint~0~1~0~0~0~1~0~0~0~1~0, WhiteToken><572.9063><331.1248><16~-78~142~-295~0~Chatlog_SI1~White|Yellow|Red|Rivulet|Artificer|Saint~0~1~0~0~0~1~0~0~0~1~0, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><749.2><521.5049><0.3043478><0.8826087, SPOT><AM_WIN-StrongWnd2.ogg><786.4443><219.0579><0.2282609><1.03913><51.44434><142.0579><-277.3553><53.64465><0><0.3826088, 
+FadePalette: 19, 0.35, 0.35
+RoomSpecificScriptActive: ON

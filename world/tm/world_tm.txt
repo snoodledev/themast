@@ -341,10 +341,10 @@ CREATURES
 (Artificer,Spear)TM_C29 : 5-RedCentipede-0.5, 4-Centipede
 (Artificer)TM_B14 : 3-PoleMimic-{12}, 5-CyanLizard
 (Gourmand)TM_A06 : 3-Cicada
-(Artificer,Spear)TM_E03 : 6-JungleLeech-5
+(Artificer,Spear)TM_E03 : 6-Centiwing
 (Red,Gourmand)TM_E03 : 6-Leech-4
 (Red,Gourmand,Artificer,Spear)TM_E01 : 6-Salamander
-(Gourmand,Artificer,Spear)TM_E03 : 5-JungleLeech-3
+(Gourmand,Artificer,Spear)TM_E03 : 5-Centiwing
 (Gourmand)TM_D13 : 2-EggBug
 (Artificer,Spear)TM_B09 : 3-BigNeedleWorm, 3-SmallNeedleWorm-2
 (Artificer,Spear)TM_A06 : 5-WhiteLizard, 3-BigNeedleWorm
@@ -363,10 +363,10 @@ CREATURES
 (Spear)TM_B08 : 4-Centiwing
 (Spear)LINEAGE : TM_D09 : 3 : Centipede-{1}-0.7, RedCentipede-0
 (Artificer)TM_F07 : 7-SpitLizard
-(Artificer,Spear)TM_E17 : 3-JungleLeech-3
-(Artificer,Spear)TM_F03 : 8-JungleLeech-2
-(Artificer,Spear)TM_F04 : 3-JungleLeech
-(Gourmand,Artificer,Spear)TM_E05 : 3-JungleLeech-2
+(Artificer,Spear)TM_E17 : 3-CyanLizard
+(Artificer,Spear)TM_F03 : 8-BlueLizard
+(Artificer,Spear)TM_F04 : 3-Centipede-{0.6}
+(Gourmand,Artificer,Spear)TM_E05 : 3-Centipede-{0.4}
 (Red)TM_E03 : 5-Leech-2
 (Rivulet)TM_C18 : 5-TentaclePlant, 6-WhiteLizard, 7-Salamander-{PreCycle}
 (Artificer,Spear,Rivulet)OFFSCREEN : 0-Vulture-6

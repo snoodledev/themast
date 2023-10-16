@@ -16,5 +16,5 @@ EffectColorB: 13
 Effects: ReplaceEffectColorB-0.1630435-341-174-Color-0.9130435-0.9673913-0.8586956, Fog-0.1521739-327-15, Flies-0.04347826-19-78, RockFlea-0.1086956-306-84, 
 PlacedObjects: LightSource><457.6461><1278.137><0.0326087~Environment~208~13~44~-141.3975~1~1~None~0~0, 
 AmbientSounds: OMNI><so_wat-lildrips.ogg><713.1283><475.5966><0.25><1, SPOT><tm_metalgroans.ogg><712.3471><563.3252><0.3478261><0.8434783><524.3471><1498.325><39.64465><7.644653><0><0.8065219, 
-FadePalette: 10, 0.7152174, 0.8673913
+FadePalette: 10, 0.7152174, 0.7745925
 WetTerrain: OFF

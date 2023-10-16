@@ -36,8 +36,8 @@ XM_D08 : XM_D07
 XM_D14 : XM_D07
 XM_D18 : XM_D07
 XM_D15 : XM_D07, XM_D13, DISCONNECTED, XM_D16, XM_E14
-XM_D16 : XM_D15, DISCONNECTED
-XM_E01 : XM_D19, XM_Y03, XM_Y02, XM_E06
+XM_D16 : XM_D15, XM_E01
+XM_E01 : XM_D19, XM_Y03, XM_D16, XM_Y02, XM_E06
 XM_D19 : XM_D03, XM_E01
 XM_E05 : XM_Y10, XM_E08
 XM_E08 : XM_E05, GATE_SB_TM
@@ -105,6 +105,7 @@ XM_Y03 : 4-YellowLizard-2, 5-YellowLizard-2, 3-ZoopLizard
 XM_Y04 : 3-ZoopLizard, 2-YellowLizard-2
 XM_Y09 : 3-Centipede-{0.25}, 2-BlueLizard
 XM_Y07 : 3-WhiteLizard
+XM_Y08 : 2-Centipede-{0.4}
 XM_Y12 : 3-WhiteLizard, 4-BlueLizard
 XM_Y10 : 5-Centipede-{0.7}, 4-Centipede-{0.25}
 XM_E17 : 3-Salamander

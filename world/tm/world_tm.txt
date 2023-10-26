@@ -205,6 +205,10 @@ CREATURES
 (White,Yellow,Red,Gourmand,Spear)TM_C08 : 5-Dropbug
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)LINEAGE : TM_B08 : 3 : Blue-0.5, White-0.4, Cyan-0
 (White,Yellow,Red,Gourmand,Rivulet)TM_D12 : 4-Centiwing
+(Spear)TM_D12 : 4-White
+(Artificer)TM_D12 : 4-Cyan
+(Spear,Artificer)TM_C13 : 4-Cyan
+(Spear)TM_C24 : 4-Cyan
 (White,Yellow,Red,Gourmand,Artificer,Spear)TM_C21 : 3-Dropbug
 (White,Yellow,Red,Gourmand,Rivulet)TM_A06 : 5-Blue
 (White,Red,Rivulet)TM_C16 : 4-Cyan

@@ -1,7 +1,7 @@
 DangerType: None
 Clouds: 0
 Palette: 28
-EffectColorA: 14
+EffectColorA: 5
 EffectColorB: 13
 Effects: SkyAndLightBloom-0-30-30, DayNight-0.9768-314-34, LightBurn-0.5103939-325.2156-175.8094, 
 PlacedObjects: InsectGroup><632.55><303.3063><0~100~0~0~RockFlea~0.1195652, InsectGroup><665.9153><1161.888><-127~174~0~0~Moth~0.1521739, InsectGroup><706.7393><1762.2><-12~134~0~0~Moth~0.2282609, LightSource><627.8587><1872.358><0.2173913~Environment~-160~260~50~86.60254~1~1~None~0~0, LightSource><622.5601><1142.063><0.1413043~Environment~-191~195~115~-295.3975~1~1~None~0~0, LightSource><614.6819><668.6669><0.09782609~Environment~-69~334~84~-76.39746~1~1~None~0~0, DayNightSettings><0.06799322><1953.562><150~74.66025~3~46, 

@@ -341,10 +341,10 @@ CREATURES
 (Artificer,Spear)TM_C29 : 5-RedCentipede-0.5, 4-Centipede
 (Artificer)TM_B14 : 3-PoleMimic-{12}, 5-CyanLizard
 (Gourmand)TM_A06 : 3-Cicada
-(Artificer,Spear)TM_E03 : 6-Centiwing
+(Artificer,Spear)TM_E03 : 6-Cyan, 5-Caramel
 (Red,Gourmand)TM_E03 : 6-Leech-4
 (Red,Gourmand,Artificer,Spear)TM_E01 : 6-Salamander
-(Gourmand,Artificer,Spear)TM_E03 : 5-Centiwing
+(Gourmand)TM_E03 : 5-Centiwing
 (Gourmand)TM_D13 : 2-EggBug
 (Artificer,Spear)TM_B09 : 3-BigNeedleWorm, 3-SmallNeedleWorm-2
 (Artificer,Spear)TM_A06 : 5-WhiteLizard, 3-BigNeedleWorm

@@ -7,6 +7,7 @@
 	"description": "Beta testing version of The Mast region mod........... wow",
 	"requirements": ["crs", "regionkit", "fisobs"],
 	"requirement_names": ["Custom Regions Support", "RegionKit", "Fisobs"],
+	"priorities": ["moreslugcats", "badlands"],
 	"tags": ["Regions"],
 	"checksum_override_version": false
 }

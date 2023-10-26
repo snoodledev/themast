@@ -10,7 +10,7 @@ SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.3804348
 Grime: 0.1086956
-BkgDroneVolume: 0.1586957
+BkgDroneVolume: 0
 Palette: 12
 EffectColorA: 6
 EffectColorB: 6

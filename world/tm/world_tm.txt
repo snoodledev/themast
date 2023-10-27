@@ -313,6 +313,7 @@ CREATURES
 (Red,Rivulet)TM_C24 : 4-White-{Mean:0.7}
 (Red)TM_C13 : 4-Cyan
 (Red,Artificer,Spear,Rivulet)TM_C16 : 3-Dropbug
+(Artificer,Spear)TM_C16 : 3-Dropbug
 (Red,Gourmand,Artificer,Spear)TM_C10 : 3-White
 (Red,Artificer)TM_C10 : 3-White
 (Red,Gourmand)TM_C06 : 3-BigNeedleWorm, 3-SmallNeedleWorm

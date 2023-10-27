@@ -1,0 +1,19 @@
+Template: NONE
+CeilingDrips: 0
+WaveSpeed: 0.4029303
+WaveLength: 0.9514652
+WaveAmplitude: 8.999999E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0.3043478
+Palette: 68
+EffectColorA: 6
+EffectColorB: 6
+Effects: LightBurn-0.1413043-20-20, SkyBloom-0-33-54, Bloom-0-37-114, Coldness-0.4456518-293-27, Desaturation-0.5217391-255-105, 
+PlacedObjects: DeadSeedCob><297.8014><205.4768><, DeadSeedCob><246.9937><190.3001><, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><32.55243><428.557><0.5><1, SPOT><AM_ENV-LightWind.ogg><745.1138><517.8965><0.1847826><1><811.1138><564.8965><123.6447><-106.3553><0><0.2086958, SPOT><AM_IND-Utility02.ogg><298.1259><478.3445><0.2717391><1><14.12585><335.3445><93.64465><-11.35535><0><0.1, 
+FadePalette: 18, 0.326087
+WetTerrain: OFF
+MorePalette0: 198, 0.6847826
+MorePalette1: 10, 0.3586957

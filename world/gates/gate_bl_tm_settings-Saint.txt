@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.4816173
+WaveLength: 0.9908087
+WaveAmplitude: 1.073515E-06
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.01086957
+Grime: 0.06521739
+WaterReflectionAlpha: 0.5434783
+Palette: 198
+EffectColorA: 15
+EffectColorB: 6
+Effects: LightBurn-0.1630435-15-87, None-0-24-7, Coldness-0.4565217-325-33, 
+AmbientSounds: OMNI><AM_IND-Utility01.ogg><775.9474><133.057><0.3586957><0.8630434, SPOT><SO_IND-Fridge.ogg><728.5966><237.1217><0.2065217><1><494.5966><265.1217><-147.3553><-34.35535><0><0.2956523, 
+FadePalette: 18, 0.2282609
+WetTerrain: OFF
+MorePalette0: 10, 0.5869565

@@ -1,0 +1,20 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.3371531
+WaveLength: 0.9185765
+WaveAmplitude: 0.000324348
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0.3043478
+Palette: 68
+EffectColorA: 14
+EffectColorB: 6
+Effects: LightBurn-0.1086956-20-20, SkyBloom-0-30-30, Bloom-0-40-40, Coldness-0.7173913-50-50, Desaturation-0.3478262-60-60, 
+PlacedObjects: DeadSeedCob><297.8014><205.4768><, DeadSeedCob><246.9937><190.3001><, 
+AmbientSounds: OMNI><AM_SUB-CaveTone.ogg><32.55243><428.557><0.5><1, SPOT><AM_ENV-LightWind.ogg><745.1138><517.8965><0.1847826><1><796.1138><711.8965><123.6447><-106.3553><0><0.2086958, 
+FadePalette: 18, 0.423913
+WetTerrain: OFF
+MorePalette0: 198, 0.6956522
+MorePalette1: 10, 0.1521739

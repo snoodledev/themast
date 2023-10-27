@@ -1,0 +1,19 @@
+Template: NONE
+DangerType: Blizzard
+CeilingDrips: 0
+WaveSpeed: 0.6320425
+WaveLength: 0.9339788
+WaveAmplitude: 6.026881E-05
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0
+Grime: 0.3043478
+Palette: 68
+EffectColorA: 18
+EffectColorB: 6
+Effects: Coldness-1-20-20, Desaturation-0.4239132-30-30, 
+PlacedObjects: SnowSource><872.155><405.926><Radial~739~442~50~86.60254~0.5869552~0.5652167, SnowSource><1863.625><416.844><Radial~559~356~50~86.60254~0.4782609~0.5434783, SnowSource><2550.912><502.119><Radial~359.9999~473~50~86.60254~0.3913043~0.423913, SnowSource><2982.097><610.6746><Radial~1377~178~-64.00006~-148.3975~0.2500013~0.423913, SnowSource><3508.312><480.5599><Radial~-276~119~-481~-53.39746~0.3152174~0.4021733, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><40.19983><520.2425><0.5><1, OMNI><AM_ENV-WindGrass.ogg><36.05103><441.0566><0.5><1, OMNI><AM_ENV-LightWind.ogg><29.21796><366.8026><0.2608696><1, SPOT><AM_ENV-NatWind.ogg><718.0822><492.3588><0.1956522><1><2347.082><639.3588><-143.3553><-115.3553><0><0.2304349, SPOT><AM_ENV-NatWind.ogg><538.7998><489.4437><0.2282609><1><843.8><684.4437><495.6447><-125.3553><0><0.2086958, 
+FadePalette: 18, 0.1413043, 0.1847824, 0.2391304
+WetTerrain: OFF
+MorePalette0: 198, 0.2282609, 0.173913, 0.1413043

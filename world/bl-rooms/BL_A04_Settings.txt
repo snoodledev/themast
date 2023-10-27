@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0
+Grime: 0.3043478
+Palette: 98
+EffectColorA: 18
+EffectColorB: 6
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><40.19983><520.2425><0.5><1, OMNI><AM_ENV-WindGrass.ogg><36.05103><441.0566><0.5><1, OMNI><AM_ENV-LightWind.ogg><29.21796><366.8026><0.2608696><1, SPOT><AM_ENV-NatWind.ogg><718.0822><492.3588><0.1847826><1><2347.082><639.3588><-143.3553><-115.3553><0><0.2304349, SPOT><AM_ENV-NatWind.ogg><538.7998><489.4437><0.1847826><1><1062.8><693.4437><133.6447><-72.35535><0><0.1652175, 
+FadePalette: 101, 0, 0

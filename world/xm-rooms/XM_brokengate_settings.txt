@@ -2,9 +2,9 @@ Template: NONE
 DangerType: Blizzard
 CeilingDrips: 0
 RainIntensity: 0.7370698
-WaveSpeed: 0.5260307
-WaveLength: 0.9869846
-WaveAmplitude: 4.446492E-05
+WaveSpeed: 0.4803898
+WaveLength: 0.9901949
+WaveAmplitude: 4.321581E-08
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Clouds: 0.01086957
@@ -14,7 +14,7 @@ Palette: 198
 EffectColorA: 15
 EffectColorB: 15
 Effects: ReplaceEffectColorB-0.1630435-308-180-Color-0.9130435-0.75-0.6195652,  LightBurn-0.1630435-15-87, None-0-24-7, WaterDepth-0.1082654-323.0813-24.26875, Darkness-0.5206181-345.848-117.4698, 
-PlacedObjects: SnowSource><431.4854><670.4495><Radial~15~-305~-289~-332.3975~0.6086956~0.3043478, LightSource><480.8994><704.617><0.5~Environment~-141~-242~-480~-257.3975~1~0~None~0~0, LightSource><503.4866><676.3004><0.1086956~Environment~-453~-575~-662~-359.3975~1~1~None~0~0, 
+PlacedObjects: SnowSource><443.4854><629.4495><Radial~15~-305~-289~-332.3975~0.4891304~0.4021739, LightSource><480.8994><704.617><0.5~Environment~-141~-242~-480~-257.3975~1~0~None~0~0, LightSource><503.4866><676.3004><0.1086956~Environment~-453~-575~-662~-359.3975~1~1~None~0~0, 
 AmbientSounds: OMNI><AM_ENV-Outside.ogg><28.44885><466.2286><0.4347826><1, 
 FadePalette: 98, 0.04656933
 WetTerrain: OFF

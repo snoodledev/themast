@@ -1,3 +1,2 @@
-Saint: Story
-X-Saint : Optional
+Saint : Story
 Safari

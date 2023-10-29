@@ -5,7 +5,7 @@ GATE_SB_TM : XM_E08, DISCONNECTED : GATE
 {!BL}XM_BROKENGATE : XM_F09
 {BL}XM_F09 : XM_F11, XM_S07, XM_F07, GATE_BL_TM
 {!BL}XM_F09 : XM_F11, XM_S07, XM_F07, XM_BROKENGATE
-XM_C20 : XM_C19, XM_C18, GATE_SI_XM
+XM_C20 : XM_C19, XM_C18, GATE_SI_TM
 XM_C19 : XM_S01, XM_C20
 XM_C18 : XM_C17, XM_C27, XM_C20, XM_C21
 XM_C27 : XM_C18, XM_C26
@@ -80,37 +80,37 @@ XM_Y08 : XM_Y13, XM_Y10
 END ROOMS
 
 CREATURES
-//OFFSCREEN : 0-Miros Bird-16-{Ignorecycle}, 0-Vulture-4, 0-Scavenger-12
-//XM_X02 : 2-Hoverfly-2
-//XM_D07 : 6-YellowLizard-2, 5-YellowLizard-3, 6-SpitLizard
-//XM_D08 : 1-WhiteLizard, 2-ZoopLizard
-//XM_D12 : 4-Centiwing, 5-DropBug
-//LINEAGE : XM_D19 : 2 : BlueLizard-0.5, ZoopLizard-0.3, CyanLizard-0
-//XM_D18 : 1-ZoopLizard
-//XM_D10 : 2-DropBug
-//XM_C29 : 5-SpitterSpider, 4-BigSpider
-//XM_C04 : 4-BigSpider, 4-Spider-7
-//XM_B16 : 3-Spider-4
-//XM_C17 : 3-ZoopLizard, 2-CicadaA, 2-CicadaB, 2-Hoverfly
-//XM_C14 : 3-WhiteLizard-{Mean:0.5}
-//XM_C02 : 4-ZoopLizard
-//XM_C13 : 4-CyanLizard
-//XM_C18 : 4-BigNeedleWorm, 4-SmallNeedleWorm
-//XM_D13 : 2-ZoopLizard
-//XM_E14 : 4-Leech-6
-//XM_Y05 : 4-SmallCentipede-2, 6-Centipede-{0.4}, 5-SmallCentipede
-//XM_D03 : 4-Centiwing
-//XM_C03 : 3-Centiwing
-//XM_C21 : 3-Centiwing
-//LINEAGE : XM_D10 : 3 : WhiteLizard-0.5, CyanLizard-0
-//XM_Y03 : 4-YellowLizard-2, 5-YellowLizard-2, 3-ZoopLizard
-//XM_Y04 : 3-ZoopLizard, 2-YellowLizard-2
-//XM_Y09 : 3-Centipede-{0.25}, 2-BlueLizard
-//XM_Y07 : 3-WhiteLizard
-//XM_Y08 : 2-Centipede-{0.4}
-//XM_Y12 : 3-WhiteLizard, 4-BlueLizard
-//XM_Y10 : 5-Centipede-{0.7}, 4-Centipede-{0.25}
-//XM_E17 : 3-Salamander
-//LINEAGE : XM_F07 : 4 : NONE-0.6, Centiwing-0
-//XM_D11 : 5-Spider-18, 6-BigSpider, 4-Centipede-{0.5}
+OFFSCREEN : 0-Miros Bird-16-{Ignorecycle}, 0-Vulture-4, 0-Scavenger-12
+XM_X02 : 2-Hoverfly-2
+XM_D07 : 6-YellowLizard-2, 5-YellowLizard-3, 6-SpitLizard
+XM_D08 : 1-WhiteLizard, 2-ZoopLizard
+XM_D12 : 4-Centiwing, 5-DropBug
+LINEAGE : XM_D19 : 2 : BlueLizard-0.5, ZoopLizard-0.3, CyanLizard-0
+XM_D18 : 1-ZoopLizard
+XM_D10 : 2-DropBug
+XM_C29 : 5-SpitterSpider, 4-BigSpider
+XM_C04 : 4-BigSpider, 4-Spider-7
+XM_B16 : 3-Spider-4
+XM_C17 : 3-ZoopLizard, 2-CicadaA, 2-CicadaB, 2-Hoverfly
+XM_C14 : 3-WhiteLizard-{Mean:0.5}
+XM_C02 : 4-ZoopLizard
+XM_C13 : 4-CyanLizard
+XM_C18 : 4-BigNeedleWorm, 4-SmallNeedleWorm
+XM_D13 : 2-ZoopLizard
+XM_E14 : 4-Leech-6
+XM_Y05 : 4-SmallCentipede-2, 6-Centipede-{0.4}, 5-SmallCentipede
+XM_D03 : 4-Centiwing
+XM_C03 : 3-Centiwing
+XM_C21 : 3-Centiwing
+LINEAGE : XM_D10 : 3 : WhiteLizard-0.5, CyanLizard-0
+XM_Y03 : 4-YellowLizard-2, 5-YellowLizard-2, 3-ZoopLizard
+XM_Y04 : 3-ZoopLizard, 2-YellowLizard-2
+XM_Y09 : 3-Centipede-{0.25}, 2-BlueLizard
+XM_Y07 : 3-WhiteLizard
+XM_Y08 : 2-Centipede-{0.4}
+XM_Y12 : 3-WhiteLizard, 4-BlueLizard
+XM_Y10 : 5-Centipede-{0.7}, 4-Centipede-{0.25}
+XM_E17 : 3-Salamander
+LINEAGE : XM_F07 : 4 : NONE-0.6, Centiwing-0
+XM_D11 : 5-Spider-18, 6-BigSpider, 4-Centipede-{0.5}
 END CREATURES

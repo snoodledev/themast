@@ -2,7 +2,7 @@
   "Title": "The Mast (PRIVATE BETA)",
   "Description": "Beta testing version of The Mast region mod\r\n\r\nNot to be shared with anyone outside modhole (you will explode)",
   "ID": "themastbeta",
-  "Version": "2.0.3",
+  "Version": "2.0.4",
   "TargetGameVersion": "v1.9.06",
   "Requirements": "crs,regionkit,fisobs",
   "RequirementNames": "Custom Region Support, RegionKit, Fisobs",

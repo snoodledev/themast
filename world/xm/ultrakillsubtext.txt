@@ -1,0 +1,2 @@
+base : ashen monolith
+ashen monolith : 1 : fallen from the heavens

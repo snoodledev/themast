@@ -80,7 +80,7 @@ XM_Y08 : XM_Y13, XM_Y10
 END ROOMS
 
 CREATURES
-OFFSCREEN : 0-Miros Bird-16-{Ignorecycle}, 0-Vulture-4, 0-Scavenger-12
+OFFSCREEN : 0-Miros Bird-22-{Ignorecycle}, 0-Vulture-4, 0-Scavenger-12
 XM_X02 : 2-Hoverfly-2
 XM_D07 : 6-YellowLizard-2, 5-YellowLizard-3, 6-SpitLizard
 XM_D08 : 1-WhiteLizard, 2-ZoopLizard

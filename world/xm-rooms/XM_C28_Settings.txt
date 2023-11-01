@@ -2,9 +2,9 @@ DangerType: None
 CeilingDrips: 0
 RainIntensity: 0.9130435
 RumbleIntensity: 0.3913043
-WaveSpeed: 0.51
-WaveLength: 1
-WaveAmplitude: 0.0001
+WaveSpeed: 0.5123158
+WaveLength: 0.9938421
+WaveAmplitude: 8.683804E-05
 SecondWaveLength: 1
 SecondWaveAmplitude: 0.0001
 Palette: 198

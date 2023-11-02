@@ -1,9 +1,10 @@
 # The Mast
 
-### [Click here to download the mod!](www.releases.com)
+### [Click here to download the mod!](https://github.com/snoodledev/themast/releases/download/2.0.0/TheMast_v2.0.0.zip)
 ### [Or click here to go to the Steam Workshop page!](www.workshop.com)
 
-**The Mast** is a new Rain World region, in the form of a large transmission spire in the western area of the world. Now returning with a coat of new paint and a bunch of new content for Downpour!
+The Mast is a new Rain World region, in the form of a large transmission spire in the western area of the world. Now returning with a coat of new paint and a bunch of new content for Downpour!
+
 
 
 

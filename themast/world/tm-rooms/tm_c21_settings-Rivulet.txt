@@ -1,0 +1,11 @@
+Template: TM_SettingsTemplate_Outside
+RainIntensity: 0.4456522
+RumbleIntensity: 0.5326087
+Clouds: 0.4782609
+Grime: 0.07608695
+RandomItemDensity: 0.4891304
+Palette: 19
+EffectColorB: 13
+Effects: Fog-0.6847826-23-21, SkyDandelions-0.06521739-21-75, DayNight-0.326087-369-26, LightRain-0.07608695-30-30, 
+PlacedObjects: DangleFruit><838.6599><994.2649><0~0~2~3, DangleFruit><880.8345><963.6123><15~-45~2~3, CustomDecal><153.1906><465.5608><-26~183~867~225~893~11~12.00002~-413~0.6521739~1~0~AwfulLongB&W~0.2065217~0.8804348~0.1630435~0.4347826~0~0.4347826~0.5434783~0.4347826, LightSource><1195.339><2229.631><0.3478261~Environment~-1230~-660~-467~-132.3975~1~1~None~0~0, DandelionPatch><426.2411><1322.695><24~115, DandelionPatch><343.1026><931.1151><2~45, DandelionPatch><405.5856><484.1808><0~93, DayNightSettings><357.8673><1853.912><5~8.660254~3~46, Filter><836.6996><428.7617><-72~194~16~-257~Rivulet|Saint, Filter><666.4229><824.5655><-10~138~0~0~Rivulet|Saint, Filter><891.3076><1161.695><0~100~0~0~Rivulet|Saint, WallSteamer><923.5812><400.5673><53~77, WallSteamer><755.3237><803.6556><83~71, WallSteamer><655.3572><792.61><-40~88, WallSteamer><536.3973><819.5784><41~51, WallSteamer><958.5289><1108.948><-22~43, WallSteamer><813.3999><1114.923><33~99, WallSteamer><936.2666><541.5507><52~35, WallSteamer><880.3981><549.6156><36~59, WallSteamer><851.3965><364.8861><-50~85, WallSteamer><886.2665><440.9493><-32~49, WallSteamer><735.95><587.5035><41~32, WallSteamer><850.7283><522.6989><-27~50, 
+FadePalette: 105, 0.3913043, 0.4565217, 0.5543478

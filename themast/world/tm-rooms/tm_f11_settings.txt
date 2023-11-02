@@ -14,7 +14,7 @@ WaterReflectionAlpha: 0.4021739
 Palette: 105
 EffectColorA: 6
 EffectColorB: 6
-Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.1195652-300-146, 
-PlacedObjects: LightSource><-128.1807><602.6642><0.2826087~Environment~1274~-583~187~-145.3975~1~1, LightSource><-99.05676><255.0515><0.4130435~Environment~559~-71~50~86.60254~1~1, DataPearl><554.3915><529.1414><8~-274~0~0~0~0, DataPearl><405.001><667.7><153~-283~0~0~0~0, 
+Effects: Fog-0.4021739-327-15, Flies-0.07608695-19-78, RedSwarmer-0.02173913-20-20, TinyDragonFly-0.09782609-314-75, RockFlea-0.1195652-300-146, LightRain-0.1413043-30-30, 
+PlacedObjects: LightSource><-128.1807><602.6642><0.2826087~Environment~1274~-583~187~-145.3975~1~1~None~0~0, LightSource><-99.05676><255.0515><0.4130435~Environment~559~-71~50~86.60254~1~1~None~0~0, DataPearl><554.3915><529.1414><8~-274~0~0~Misc~0, DataPearl><405.001><667.7><153~-283~0~0~Misc~0, 
 AmbientSounds: OMNI><AM_ENV-Pasture.ogg><59.38617><526.9144><0.5434783><1, OMNI><AM_ENV-Outside.ogg><61.4491><448.9812><0.4130435><1, OMNI><AM_ENV-NatWind.ogg><57.13031><361.6602><0.07608695><1, OMNI><AM_ENV-LightWind.ogg><74.49536><256.05><0.3043478><1, 
 FadePalette: 98, 0.1

@@ -1,0 +1,10 @@
+Template: TM_SettingsTemplate_Outside
+RainIntensity: 0.7282609
+RumbleIntensity: 0.6521739
+Clouds: 0.2065217
+Palette: 19
+EffectColorB: 6
+Effects: Fog-0.5217391-327-15, SkyDandelions-0-20-20, LightRain-0.1304348-30-30, 
+PlacedObjects: LightSource><138.3211><542.3394><0.2173913~Environment~959~-507~137~-7.397461~1~1~None~0~0, LightSource><861.8091><590.6904><0.1630435~Environment~-462~-416~-589~21.60254~1~1~None~0~0, NoSpearStickZone><256.0627><643.0702><0~100, DeadTokenStalk><223.606><493.0803><27~-42, BlueToken><252.4432><543.5518><20~-66~-322~-56~1~CyanLizard~Yellow|Rivulet|Artificer|Saint|Spear|Gourmand~0~0~0~0, LightSource><-119.8246><146.6539><0.326087~Environment~268~294~50~86.60254~1~1~None~0~0, DandelionPatch><468.45><455.2522><-125~62, DandelionPatch><472.3091><385.9404><-25~77, DandelionPatch><213.5991><418.1737><-97~129, 
+AmbientSounds: SPOT><AM_WIN-HowlingWnd.ogg><71.4563><497.5548><0.25><1><15.4563><261.5548><151.6447><-100.3553><0><0.4913045, 
+FadePalette: 105, 0.8369565

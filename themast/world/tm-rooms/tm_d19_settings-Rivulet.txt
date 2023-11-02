@@ -1,0 +1,9 @@
+Template: TM_SettingsTemplate_Outside
+WaveSpeed: 0.4919568
+WaveLength: 0.9959784
+WaveAmplitude: 3.347269E-22
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Effects: LightRain-0.1956522-20-20, 
+PlacedObjects: CustomDecal><391.6473><1850.865><7~242~180~236~204~17~-280~-110~0~1~0.2934783~rust2~0.4130435~0.6413044~0.2391304~0.6413044~0.2934783~0.6413044~0.5978261~0.6413044, LightSource><32.05673><2232.301><0.1521739~Environment~1409~-636~175~-270.3975~1~1~None~0~0, 
+FadePalette: 105, 0.8043478, 0.8478261, 0.9347826

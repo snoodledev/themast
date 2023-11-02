@@ -1,0 +1,41 @@
+name: Bug Report
+description: Report a bug/issue/crash
+title: "[BUG] <title>"
+labels: ["bug"]
+body:
+- type: textarea
+  attributes:
+    label: Describe the bug
+    description: Describe the issue, including what specifically happens, as well as what particular situation it happened in, and any additional context that might help. Where relevant, also include what slugcat you're playing as, what room/area of the region the issue occurs in, and whether it happens repeatedly or just once. 
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Also include the following:
+    options:
+    - label: Do you have the Downpour DLC enabled?
+      required: false
+
+- type: textarea
+  attributes:
+    label: Attach logs
+    description: |
+      Attach the following files - these can be found in your Rain World installation folder (found by right-clicking the game on Steam and going to `Manage -> Browse Local Files`). You can attach them by dragging them from your file explorer into the text box.
+      - `exceptionLog.txt`
+      - `BepInEx\logOutput.log`
+      - `RainWorld_Data\StreamingAssets\crsLog.txt`
+      - `RainWorld_Data\StreamingAssets\enabledMods.txt`
+      *Note that restarting the game clears these logs, so if you experience the bug, copy the contents before you reopen the game after closing it!*
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Attach Screenshots
+    description: If applicable, add screenshots to help explain the issue. You can drag them into the text box the same way as the log files.
+    placeholder: |
+      1. In this environment...
+      1. With this config...
+      1. Run '...'
+      1. See error...
+  validations:
+    required: false

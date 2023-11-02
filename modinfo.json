@@ -4,7 +4,7 @@
 	"version": "2.0.0",
 	"hide_version": false,
 	"authors": "snoodle",
-	"description": "Beta testing version of The Mast region mod........... wow",
+	"description": "A new region in the form of a large transmission spire in the western area of the world.",
 	"requirements": ["crs", "regionkit", "fisobs"],
 	"requirement_names": ["Custom Regions Support", "RegionKit", "Fisobs"],
 	"priorities": ["moreslugcats", "badlands"],

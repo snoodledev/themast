@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report a bug/issue/crash
-title: "[BUG] <title>"
+title: ""
 labels: ["bug"]
 body:
 - type: textarea
@@ -19,22 +19,21 @@ body:
   attributes:
     label: Attach logs
     description: |
-      Attach the following files - these can be found in your Rain World installation folder (found by right-clicking the game on Steam and going to `Manage -> Browse Local Files`). You can attach them by dragging them from your file explorer into the text box.
+      Attach the following files.
+      These can be found in your Rain World installation folder (found by right-clicking the game on Steam and going to `Manage -> Browse Local Files`).
       - `exceptionLog.txt`
       - `BepInEx\logOutput.log`
       - `RainWorld_Data\StreamingAssets\crsLog.txt`
       - `RainWorld_Data\StreamingAssets\enabledMods.txt`
+
       *Note that restarting the game clears these logs, so if you experience the bug, copy the contents before you reopen the game after closing it!*
+    placeholder: Attach log files by dragging them from your file explorer into this text box
   validations:
     required: true
 - type: textarea
   attributes:
     label: Attach Screenshots
     description: If applicable, add screenshots to help explain the issue. You can drag them into the text box the same way as the log files.
-    placeholder: |
-      1. In this environment...
-      1. With this config...
-      1. Run '...'
-      1. See error...
+    placeholder: Attach screenshots by dragging them from your file explorer into this text box
   validations:
     required: false

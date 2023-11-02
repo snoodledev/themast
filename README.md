@@ -1,9 +1,7 @@
 # The Mast
 
-[### Click here to download the mod!](google.com)
-[### Or click here to go to the Steam Workshop page!](google.com)
-
-![Title](https://imgur.com/iydTAxp.png)
+### [Click here to download the mod!](www.releases.com)
+### [Or click here to go to the Steam Workshop page!]((www.workshop.com)
 
 **The Mast** is a new Rain World region, in the form of a large transmission spire in the western area of the world. Now returning with a coat of new paint and a bunch of new content for Downpour!
 
@@ -23,6 +21,7 @@
 - For those familiar with the mod, or returning players for Downpour, I recommend exploring the region as late-game Spearmaster, and/or early-game Saint.
 
 ![Credits](https://imgur.com/nOb5UkQ.png)
+
 Many thanks to these wonderful people!
 - Slime_Cubed and M4rbleL1ne - custom code features
 - Fishnoid - promotional/thumbnail artwork

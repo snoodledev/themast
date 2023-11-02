@@ -1,9 +1,11 @@
 # The Mast
 
 ### [Click here to download the mod!](www.releases.com)
-### [Or click here to go to the Steam Workshop page!]((www.workshop.com)
+### [Or click here to go to the Steam Workshop page!](www.workshop.com)
 
 **The Mast** is a new Rain World region, in the form of a large transmission spire in the western area of the world. Now returning with a coat of new paint and a bunch of new content for Downpour!
+
+
 
 ![Features](https://imgur.com/gnr41IC.png)
 ## This mod includes...
@@ -19,6 +21,8 @@
 ## Recommended playthroughs
 - For a first playthrough, I recommend one of the three vanilla slugcats, but all slugcats have had their world state tuned to be unique and balanced.
 - For those familiar with the mod, or returning players for Downpour, I recommend exploring the region as late-game Spearmaster, and/or early-game Saint.
+
+
 
 ![Credits](https://imgur.com/nOb5UkQ.png)
 

@@ -22,6 +22,7 @@ Attach the following files - these can be found in your Rain World installation 
 - `BepInEx\logOutput.log`
 - `RainWorld_Data\StreamingAssets\crsLog.txt`
 - `RainWorld_Data\StreamingAssets\enabledMods.txt`
+*Note that restarting the game clears these logs, so if you experience the bug, copy the contents before you reopen the game after closing it!*
 
 ### **Screenshots**
 If applicable, add screenshots to help explain your problem.

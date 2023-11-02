@@ -11,11 +11,10 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: Also include the following:
+    label: Do you have the Downpour DLC enabled?
     options:
-    - label: Do you have the Downpour DLC enabled?
+    - label: DLC enabled
       required: false
-
 - type: textarea
   attributes:
     label: Attach logs

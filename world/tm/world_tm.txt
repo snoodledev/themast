@@ -496,9 +496,9 @@ CREATURES
 (White,Red,Gourmand,Artificer,Spear)TM_F03 : 7-Scavenger
 (Spear)TM_F07 : 6-SpitLizard
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B03 : 2-Hoverfly-2
-(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_A05 : 5-Hoverfly, 4-Hoverfly
-(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_A04 : 3-Hoverfly-2
-(Red,Artificer,Spear)TM_A04 : 3-Hoverfly
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_A05 : 5-Hoverfly
+(Artificer,Spear)TM_A05 : 4-Hoverfly
+(White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_A04 : 3-Hoverfly
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_A06 : 4-Hoverfly
 (White,Yellow,Red,Gourmand,Artificer,Spear,Rivulet)TM_B02 : 3-Hoverfly
 (Spear)TM_A06 : 4-Hoverfly

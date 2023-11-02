@@ -1,0 +1,13 @@
+Template: TM_SettingsTemplate_Outside
+DangerType: Rain
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0.01086957
+Clouds: 0
+Palette: 28
+Effects: SkyBloom-0.3152174-20-20, AboveCloudsView-1-1072-506, DayNight-0.9891304-1074-453, SkyDandelions-0.2173913-261-17, 
+PlacedObjects: PlacedWind><-23.0578><24.5554><0~1539~1367~1543~1367~-1~0.2391304~Visuals~Horizontal, DandelionPatch><422.4214><440.3969><-9~103, DandelionPatch><963.9437><504.5497><-16~70, DayNightSettings><380.8><1115.498><5~8.660254~3~46, 
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><736.8013><504.2732><0.5978261><1><1321.801><751.2732><-495.3553><-70.35535><0><0.3717393, SPOT><AM_WIN-HowlingWnd.ogg><56.59851><469.6194><0.5><1><1319.599><327.6194><-327.3553><24.64465><0><0.3608697, SPOT><SO_IND-Humm.ogg><729.5843><179.888><0.5869565><1><351.5843><1153.888><-31.35529><-13.35535><0><0.1326088, SPOT><AM_IND-Utility02.ogg><367.6436><271.1694><0.7934783><0.5304348><529.6436><64.16938><-191.3553><1.644661><0><0.4478262, SPOT><SO_IND-HeatDuct.ogg><572.5958><63.3727><0.5><1><217.5958><1262.373><-35.35534><-35.35534><0><0.1, SPOT><AM_IND-ElectricHum01.ogg><718.0548><294.2936><0.3695652><0.9021739><38.05481><1414.294><-35.35534><-35.35534><0><0.1760871, 
+FadePalette: 19, 0.2934783, 0.326087
+WetTerrain: OFF
+BackgroundType: atc_tm_inv

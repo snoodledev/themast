@@ -1,0 +1,13 @@
+Template: TM_SettingsTemplate_Outside
+DangerType: None
+CeilingDrips: 0
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0
+Palette: 28
+Effects: SkyBloom-1-20-20, AboveCloudsView-1-1072-506, SkyDandelions-0.08695652-291-20, FairyParticles-0.1086956-24-91, DayNight-0.9565217-1070-450, 
+PlacedObjects: PlacedWind><694.4275><-11.34213><37~767~625~774~629~0~0.06521738~Creatures~Horizontal, DandelionPatch><764.6479><424.1719><-21~45, PlacedWind><-42.92511><-10.84668><1~769~1371~767~1363~-3~0.1956521~Visuals~Horizontal, DayNightSettings><375.948><306.0282><5~8.660254~3~46, FairyParticleSettings><619.0538><355.5389><5~8.660254~0~2.173913~1~0~3.774776~1.448696~60~131.0869~663.0438~1000~3.913043~10.4348~93.91304~86.08696~0.02173913~0.07608695~0.2173913~0.1847826~0.5869565~0.3804348~0.5~0.4782609~4.423913~Leaf~LINEAR~LINEAR~0~0~0.6521739, 
+AmbientSounds: OMNI><AM_WIN-StrongWnd2.ogg><731.5817><506.392><0.5><1, SPOT><AM_WIN-StrongWnd2.ogg><712.3901><142.9171><0.5><1><1318.39><264.9171><-182.3553><-2.355347><0><0.752174, SPOT><AM_WIN-HowlingWnd.ogg><743.339><302.1187><0.5108696><1><1217.339><342.1187><-263.3553><16.64465><0><0.3065219, SPOT><Basic Mech.ogg><699.6998><442.0083><0.5><1><270.6998><263.0083><-112.3553><-85.35529><0><0.1978262, SPOT><SO_IND-HeatDuct.ogg><412.7955><139.0553><0.5><1><503.7955><295.0552><-35.35534><-35.35534><0><0.1, 
+FadePalette: 19, 0.2282609
+WetTerrain: OFF
+BackgroundType: atc_tm_inv

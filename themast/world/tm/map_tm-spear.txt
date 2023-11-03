@@ -114,6 +114,7 @@ OffScreenDen_TM: 266.8917><599.6863><6.361315><-34.78561><1><><0><0
 Connection: GATE_SI_TM,TM_C20,11,19,48,15,1,0
 Connection: GATE_SB_TM,TM_E08,2,9,37,17,2,0
 Connection: GATE_BL_TM,TM_F09,2,11,86,18,2,0
+Connection: TM_BROKENGATE,TM_F09,2,11,86,18,2,0
 Connection: TM_C20,TM_C19,18,36,33,4,1,3
 Connection: TM_C20,TM_C18,44,30,4,18,0,2
 Connection: TM_C19,TM_S01,27,31,31,13,1,3

@@ -1,0 +1,11 @@
+0-0
+This pearl is weathered, and the data it contains appears to be somewhat corrupted. I will try as best I can to decipher it.
+...
+This message was intended for me. Much of the text is corrupted beyond retrieval, but it seems<LINE>to be a formal authorization or declaration document of some description. I'll read what I can.
+"1692.112 - HIGH PRIORITY - Looks to the Moon                                  <LINE>...twenty-sixth assemblage of the utmost Superior Operatives of the Ordinance Collective, of those who seek the uncovering and resolution<LINE>to the matter ... a conflicting development, which we as the Collective deem to be substantially ... groundwater intake poses a high risk<LINE>of structural and/or equipment malfunction, degradation, or otherwise critical failure ... grant priority of action, overriding the ...<LINE>of temporal extraction stasis. The following ..." 
+The rest is just meaningless strings of glyphs and repeating errors.
+It's a full access authorization for Five Pebbles' aquifer extraction pumps. 
+This kind of order usually needs an immense amount of oversight approvals, which is effectively impossible in recent times. If I were to guess,<LINE>the approvals and formalities here are probably forged - which is highly illegal, but that clearly didn't stop the sender. 
+The message appears to have been sent via the primary transmission network. Usually, that network is only used for longer-range broadcasts<LINE>or other exceptions, but this message's trace logs indicate it originated from within the local group.<LINE>Why it was sent in this way rather than through the standard sub-stratospheric comms array, I couldn't say.
+The faults in this pearl's data seem to suggest that the message was forcefully rerouted into this pearl, sending it through various parallel channels<LINE>in the process. This may have been the result of the node suffering from some critical processing error, or it may have been intentional.
+Regardless, the message never reached its destination. Until now, I suppose, though it's not like I can use it.

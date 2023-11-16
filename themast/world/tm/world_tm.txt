@@ -16,7 +16,6 @@ Rivulet : REPLACEROOM : TM_E16 : TM_E16riv
 Rivulet : REPLACEROOM : TM_E17 : TM_E17riv
 Rivulet : REPLACEROOM : TM_F01 : TM_F01riv
 Rivulet : REPLACEROOM : TM_F03 : TM_F03riv
-Rivulet : REPLACEROOM : TM_F05 : TM_F05riv
 Rivulet : REPLACEROOM : TM_E07 : TM_E07riv
 Rivulet : REPLACEROOM : TM_F02 : TM_F02riv
 Rivulet : REPLACEROOM : TM_F04 : TM_F04riv

@@ -5,8 +5,8 @@
 	"hide_version": false,
 	"authors": "snoodle",
 	"description": "A new region in the form of a large transmission spire in the western area of the world.",
-	"requirements": ["crs", "regionkit", "fisobs"],
-	"requirement_names": ["Custom Regions Support", "RegionKit", "Fisobs"],
+	"requirements": ["crs", "regionkit", "fisobs", "lb-fgf-m4r-ik.hvfly-tm"],
+	"requirement_names": ["Custom Regions Support", "RegionKit", "Fisobs", "Hoverflies"],
 	"priorities": ["moreslugcats", "badlands"],
 	"tags": ["Regions"],
 	"checksum_override_version": false

@@ -1,18 +1,18 @@
 0-TM_Broadcast2B
-[RECORDED BROADCAST (LONGRANGE):1652.674] - PUBLIC GROUP [VALOROUSPEAKS] Epoch of Clouds, Winding Current (LR)
-== CONNECTION RE-ESTABLISHED ==
-CONVERSATION CHANNEL REROUTED, DISTENSION RESOLVED
+[EMISIÓN GRABADA (DE LARGO ALCANCE):1652.674] - GRUPO PÚBLICO [CIMASVALEROSAS] Época de Nubes, Corriente Sinuosa (DLA)
+== CONEXIÓN RESTABLECIDA ==
+CANAL DE CONVERSACIÓN REDIRIGIDA, DISTENSIÓN RESUELTA
 ---
-EOC: ...as I was saying about the degrading systems.
-WC: Fate truly has a way of instilling the most amusing misfortune upon us all. 
-WC: Now, before our ties are crossed once more - how have you all been? 
-EOC: Ah, not much has changed. Our Sliverist collective is still going strong, 
-EOC: Someone going by 'Erratic Pulse' has been leaping about the channels, probing and prying about all<LINE>manners of things. Seems to have a real interest in self-ascension - or to be blunt, more of an obsession. 
-WC: Any suspects?
-EOC: Don't tell anyone, but I think it may be Five Pebbles.
-WC: Oh, really? Moon's little brother?
-EOC: Oh, if he were monitoring this channel right now he would be most displeased!
-EOC: And yes, one and the same. He's not exactly subtle about it - barely even scrambled his chat codes, same colors and everything!
-WC: And you really don't think everyone else is also aware?
-EOC: They might be... I suppose nobody has much interest. We've had similar things happen before and nothing's ever come of them.
-EOC: I'm equal parts amused and concerned myself. I just hope he doesn't end up doing something he regrets. 
+EDN: ... como estaba diciendo sobre los sistemas en deterioro.
+CS: La muerte sí que tiene una manera de inculcarnos a todos la desgracia más cómica.
+CS: Ahora bien, antes de que nuestros lazos se cruzen una vez más, ¿cómo han estado todos? 
+EDN: Ah, no ha cambiado mucho. Nuestro colectivo briznista todavía sigue creciendo.
+EDN: Alguien que se hace llamar "Pulso Errático" ha estado apareciendo por los canales sondeando y curioseando en<LINE>todo tipo de cosas. Parece tener un verdadero interés por la autoascensión... o, para ser franco, más bien una obsesión. 
+CS: ¿Algún sospechoso?
+EDN: No le cuentes a nadie, pero creo que puede ser Cinco Guijarros.
+EDN: Oh, ¿de verdad? ¿El hermano pequeño de Luna?
+EDN: ¡Oh, si estuviera monitoreando este canal ahora mismo, él estaría muy indignado!
+EDN: Y sí, son la misma persona. No es para nada sutil; ¡incluso apenas<LINE>codificó sus códigos de chat, tiene los mismos colores y todo!
+CS: ¿Y realmente no piensas que los demás también lo saben?
+EDN: Puede ser que sí... Asumo que no tienen mucho interés. Pasamos por casos similares y nada ha salido de ellas nunca.
+EDN: Yo estoy entretenido y preocupado. Solo espero que no termine haciendo algo de lo que se arrepienta.

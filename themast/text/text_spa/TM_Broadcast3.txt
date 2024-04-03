@@ -1,13 +1,13 @@
 0-TM_Broadcast3
-[RECORDED BROADCAST (LONGRANGE):1298.67] - PUBLIC GROUP [WANDERINGQUADRANTS] all participants anonymous
-AA: Have you seen any movements in the expanse lately?
-QR: Movements in what sense?
-AA: I've seen some kind of large structure piercing the cloud layer here and there, far from any cans.
-AA: It appears to be moving at quite a pace! It managed to encircle half of the western plateau in just a few cycles.
-QR: How curious! Is it releasing any transmissions?
-AA: I've not detected any signals from it, and it's too distant for my overseers to make out much visual detail...
-AA: But unless I'm misaken, this image I captured seems to be none other than a Yellow monasterial cupola!
-QR: Indeed it is! I'd recognise that design anywhere. What an odd place to see one!
-QR: My guess would be a semi-functional translation column, or perhaps a construction drone, but most were decommissioned long ago.
-QR: And that certainly doesn't explain the monasterial architecture...
-QR: Unless... are you at all familiar with the Abacus?
+[EMISIÓN GRABADA (DE LARGO ALCANCE):1298.67] - GRUPO PÚBLICO [CUADRANTESERRANTES] todos los participantes son anónimos
+AA: ¿Has visto algún movimiento en la extensión últimamente?
+QR: ¿A qué te refieres?
+AA: He visto una especie de estructura gigante perforando la capa de nubes de vez en cuando, lejos de cualquier lata.
+AA: ¡Parece moverse a un gran ritmo! Logró rodear la mitad de la meseta occidental en tan solo unos pocos ciclos.
+QR: ¡Qué curioso! ¿No envía alguna transmisión?
+AA: No he detectado ninguna señal de ella y está demasiado lejos de mis<LINE>supervisores como para que puedan distinguir muchos detalles visuales...
+AA: Pero, a menos que me equivoque, ¡en esta imagen que capturé parece ser nada más y nada menos que la cúpula monasterial Amarilla!
+QR: ¡Efectivamente lo es! Reconocería ese diseño en cualquier parte. ¡Qué lugar peculiar para ver una!
+QR: Mi suposición sería una columna de traducción semifuncional, o quizás<LINE>un dron de construcción, pero la mayoría fueron desmantelados hace mucho tiempo.
+QR: Y eso definitivamente no explica la arquitectura monasterial...
+QR: A menos que... ¿Por casualidad no estás familiarizado con el Ábaco?

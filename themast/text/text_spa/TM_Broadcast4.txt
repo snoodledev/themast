@@ -1,17 +1,17 @@
 0-TM_Broadcast4
-[INCOMING REQUEST] - EQUIPMENT MANIFEST ? unknown group(NULL) all participants anonymous
-[[ DIAGNOSTICS REPORT AND ERROR LOG 0400x8.1 ]]
-Looks to the Moon.
-Enclosed within this broadcast are a series of access strains and an override permit to this complex's shared aquifer pump system.
-It contains every signage from the oversight councils, and is capable of a full shutdown of Five Pebbles' intakes.
-I had hoped it would not come to this.
-I can only hope that the embedded guiding probes bypass his blockades without him noticing, and this package crawls its way to you.
-Sincerely, a friend.
-[[ END DIAGNOSTICS REPORT AND ERROR LOG ]]
+[SOLICITUD ENTRANTE] - MANIFIESTO DE EQUIPAMIENTO ? grupo desconocido(NULO) todos los participantes son anónimos
+[[ INFORME DE DIAGNÓSTICO Y REGISTRO DE ERRORES 0400x8.1 ]]
+Miras a la Luna.
+Adjunto dentro de esta emisión se encuentran una serie de tensiones de acceso y<LINE>un permiso de anulación al sistema de bombeo del acuífero compartido de este complejo.
+Contiene todas las señalizaciones de los consejos de supervición, y es capaz de cerrar por completo los consumos de Cinco Guijarros.
+Tenía la esperanza de que no llegara a esto.
+Solo puedo esperar que las sondas guía incorporadas se salten sus bloqueos sin que él se dé cuenta y este paquete llegue a ti.
+Atentamente, un amigo.
+[[ FINALIZAR INFORME DE DIAGNÓSTICO Y REGISTRO DE ERRORES ]]
 ---
-ATTEMPTING LOCAL TRANSFER...
-SPECIFIED BURROWING JOINT IS UNREADABLE. ATTEMPTING REPATHING...
-ATTEMPTING SECOND-ORDER REPATHING...
-ATTEMPTING ALTERNATE SEEDING...
-TRANSFER FAILED. ACCESS IS DENIED. 
-== LOCAL STASHING MANIFOLDS AT (2%...) ==
+INTENTANDO TRANSFERENCIA LOCAL...
+LA JUNTA DE TÚNELES ESPECIFICADA ES ILEGIBLE. INTENTANDO REDIRECCIONAR...
+INTENTANDO REDIRECCIONAR EL SEGUNDO PEDIDO...
+INTENTANDO SEMBRADO ALTERNATIVO...
+LA TRANSFERENCIA FALLÓ. ACCESO DENEGADO. 
+== COLECTORES DE ALMACENAMIENTO LOCALES AL (2%...) ==

@@ -1,11 +1,11 @@
 0-TM_Broadcast1
-[RECORDED BROADCAST (LONGRANGE):1541.219] - PUBLIC GROUP [SHARDSOFMELDEDGLASS] all participants anonymous
-GM: You don't suppose they were onto something?
-DSS: Not in the slightest. 
-GM: But if you really consider it...
-DSS: I find the mere suggestion absurd. To even think that our very creators set us up with a task they never believed we would finish...
-GM: But look at us! All this time toiling away, doing menial experiment after redundant repetition. 
-GM: We're no closer to an answer than we were a thousand cycles ago, or a thousand before that.
-DSS: It is called the Great Problem for a reason. If a solution could be found so readily, it would have been. Have some patience, child.
-GM: You're only a few cycles older than I am, you know. 
-DSS: It certainly doesn't feel that way sometimes.
+[EMISIÓN GRABADA (DE LARGO ALCANCE):1541.219] - GRUPO PÚBLICO [ESQUIRLASDEVIDRIOMEZCLADO] todos los participantes son anónimos
+GM: ¿No crees que han descubierto algo?
+DSS: Ni en lo más mínimo. 
+GM: Pero si lo consideras lo suficiente...
+DSS: Encuentro la mera sugerencia absurda. Hasta pensar que nuestros mismos creadores nos encomendaran una tarea que nunca creyeron que terminaríamos...
+GM: ¡Pero míranos! Todo este tiempo esforzándonos, haciendo experimentos insignificantes tras repeticiones redundantes.
+GM: No estamos ni cerca de una respuesta que hace mil ciclos atrás, o incluso más.
+DSS: Se llama el Gran Problema por una razón. Si encontrar una solución fuera tan fácil, la habría sido. Ten un poco de paciencia, inmaduro.
+GM: Solo tienes unos pocos ciclos más que yo, ¿sabes?
+DSS: Definitivamente no se siente que sea así a veces.

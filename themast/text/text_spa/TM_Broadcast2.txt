@@ -1,13 +1,13 @@
 0-TM_Broadcast2
-[RECORDED BROADCAST (LONGRANGE):1652.672] - PUBLIC GROUP [VALOROUSPEAKS] Epoch of Clouds, Winding Current (LR)
-EOC: Greetings from afar!
-WC: Ah, Epoch! A pleasure to hear from your side of the valleys once again.
-EOC: Likewise! 
-EOC: It has been some time, hasn't it... this network certainly isn't what it used to be.
-WC: Used to be? I seem to recall the primary node network coming into this world with all the grace of a wounded beast!
-EOC: You certainly aren't wrong. I do feel that degradation is slowly worsening the problems, though. It can barely hold a connection! 
-EOC: The amount of times I had to flush the... hold on. I'm seeeing sommeee'
+[EMISIÓN GRABADA (DE LARGO ALCANCE):1652.672] - GRUPO PÚBLICO [CIMASVALEROSAS] Época de Nubes, Corriente Sinuosa (DLA)
+EDN: ¡Saludos desde lejos!
+CS: ¡Ah, Época! Un placer volver a escucharte de tu lado de los valles.
+EDN: ¡Igualmente! 
+EDN: Ha pasado algo de tiempo, ¿no crees?... La verdad es que esta red ya no es lo que solía ser.
+CS: ¿Solía? ¡Yo creo recordar la red de nodos primarios llegando a este mundo con toda la gracia de una bestia herida!
+EDN: Es cierto. Aunque siento que el deterioro está empeorando lentamente los problemas. ¡Apenas puedo mantener una conexión! 
+EDN: La cantidad de veces que tuve que tirar la... un momento. Estoy vieeendo aaal...
 ---
-FATAL EXCEPTION: DISTENDED CLOSING BRACE ELEMENT
-FATAL EXCEPTION: INVALID SYMBOL IN METADATA, ENTRY 578.48>>>>
-== CONNECTION TERMINATED ==
+ERROR GRAVE: ELEMENTO LLAVE DE CIERRE DISTENDIDO
+ERROR GRAVE: SÍMBOLO INVÁLIDO EN LOS METADATOS, ENTRADA 578.48>>>>
+== FIN DE LA CONEXIÓN ==

@@ -1,13 +1,13 @@
 0-TM_Broadcast2C
-[RECORDED BROADCAST (LONGRANGE):1684.457] - PUBLIC GROUP [WINDINGEXPANSE] Epoch of Clouds, Winding Current (LR)
-== BROADCAST PARTIALLY DAMAGED, TAIL RECONSTRUCTED ==
-WC: ...and what of Looks to the Moon?
-EOC: She has been completely unavailable for quite some time. Some of us are getting quite concerned.
-WC: And you've tried other ways of establishing contact?
-EOC: Countless times, every functional array in the facility grounds. It's either in total lockdown, or intentionally being blocked. 
-EOC: We've tried the substrats, the lower bands, even this node, but all incoming requests are instantly denied. 
-EOC: There's nothing we can do. 
-WC: You've tried. You've all tried very hard, and that's all you can do.
-EOC: It's strange, to feel so helpless.
-EOC: We were built for the sole purpose of assisting other lifeforms... yet we cannot even help our own kind.
-WC: I hope for their safety...
+[EMISIÓN GRABADA (DE LARGO ALCANCE):1684.457] - GRUPO PÚBLICO [EXTENSIÓNSINUOSA] Época de Nubes, Corriente Sinuosa (DLA)
+== EMISIÓN PARCIALMENTE DAÑADA, COLA RECONSTRUIDA ==
+CS: ... ¿y qué hay de Miras a la Luna?
+EDN: Ella ha estado absolutamente no disponible durante bastante tiempo. Algunos estamos muy preocupados.
+CS: ¿Y has intentado otras formas de establecer contacto?
+EDN: Incontables veces con cada antena funcional en los terrenos de la instalación.<LINE>O están en completo aislamiento o están siendo bloqueadas intencionalmente. 
+EDN: Hemos probado con los sustratos, con las bandas inferiores, incluso con este nodo,<LINE>pero todas las solicitudes entrantes son rechazadas instantáneamente. 
+EDN: No hay nada que podamos hacer. 
+CS: Lo intentaste. Todos hicieron un esfuerzo muy grande y eso es todo lo que importa.
+EDN: Es extraño... sentirse tan incompetente.
+EDN: Fuimos contruidos con el único propósito de ayudar a otras formas de vida...<LINE>pero ni siquiera podemos ayudar a los de nuestra propia especie.
+CS: No hay que perder la esperanza...

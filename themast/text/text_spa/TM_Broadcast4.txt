@@ -2,16 +2,16 @@
 [SOLICITUD ENTRANTE] - MANIFIESTO DE EQUIPAMIENTO ? grupo desconocido(NULO) todos los participantes son anónimos
 [[ INFORME DE DIAGNÓSTICO Y REGISTRO DE ERRORES 0400x8.1 ]]
 Miras a la Luna.
-Adjunto dentro de esta emisión se encuentran una serie de tensiones de acceso y<LINE>un permiso de anulación al sistema de bombeo del acuífero compartido de este complejo.
-Contiene todas las señalizaciones de los consejos de supervición, y es capaz de cerrar por completo los consumos de Cinco Guijarros.
+Adjuntos dentro de esta emisión se encuentran una serie de elementos de acceso y un<LINE>permiso de modo manual para el sistema de bombeo del acuífero compartido de este complejo.
+Contiene todas las indicaciones de los consejos de supervisión,<LINE>y es capaz de cerrar por completo los consumos de Cinco Guijarros.
 Tenía la esperanza de que no llegara a esto.
-Solo puedo esperar que las sondas guía incorporadas se salten sus bloqueos sin que él se dé cuenta y este paquete llegue a ti.
+Solo puedo esperar que las sondas guía incrustadas se salten sus bloqueos sin que él se dé cuenta y este paquete llegue a ti.
 Atentamente, un amigo.
 [[ FINALIZAR INFORME DE DIAGNÓSTICO Y REGISTRO DE ERRORES ]]
 ---
 INTENTANDO TRANSFERENCIA LOCAL...
-LA JUNTA DE TÚNELES ESPECIFICADA ES ILEGIBLE. INTENTANDO REDIRECCIONAR...
+LA JUNTA DE EXCAVACIÓN ESPECIFICADA ES ILEGIBLE. INTENTANDO REDIRECCIONAR...
 INTENTANDO REDIRECCIONAR EL SEGUNDO PEDIDO...
-INTENTANDO SEMBRADO ALTERNATIVO...
-LA TRANSFERENCIA FALLÓ. ACCESO DENEGADO. 
+INTENTANDO SIEMBRA ALTERNATIVA...
+LA TRANSFERENCIA FALLÓ. ACCESO DENEGADO.
 == COLECTORES DE ALMACENAMIENTO LOCALES AL (2%...) ==

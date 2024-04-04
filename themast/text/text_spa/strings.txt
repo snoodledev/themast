@@ -1,6 +1,6 @@
 The Mast|El Mástil
 Ashen Monolith|Monolito Ceniciento
-Primary Transmission Node|Nodo Primario de Transmisión
+Primary Transmission Node|Nodo Principal de Transmisión
 Marsh Flats|Pantanos
 Scavenger Den|Guarida de Carroñeros
 Eight Shells, Swaying Fronds|Ocho Valvas, Frondas Bamboleantes

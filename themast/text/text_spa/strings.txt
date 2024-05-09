@@ -1,12 +1,12 @@
 The Mast|El Mástil
 Ashen Monolith|Monolito Ceniciento
 Primary Transmission Node|Nodo Principal de Transmisión
-Marsh Flats|Pantanos
+Marsh Flats|Planicies del Cenagal
 Scavenger Den|Guarida de Carroñeros
 Eight Shells, Swaying Fronds|Ocho Valvas, Frondas Bamboleantes
 dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|no subas a la cima de la región no lo hagas por tu propio bien lo juro si subes allí te arrepentirás inmensamente por el resto de tu vida
 uh oh|¡ay no!
-Yeek Flats|Pantanos de Yeeks
+Yeek Flats|Planicies de Yeeks
 Yeek Den|Guarida de Yeeks
 themast-name|El Mástil
 themast-description|Una nueva región en forma de una gran aguja de transmisión en el área occidental del mundo.

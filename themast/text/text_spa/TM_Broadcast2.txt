@@ -3,7 +3,7 @@
 EDN: ¡Saludos desde lejos!
 CS: ¡Ah, Época! Un placer volver a escucharte de tu lado de los valles.
 EDN: ¡Igualmente!
-EDN: Ha pasado algo de tiempo, ¿no crees?... La verdad es que esta red ya no es lo que solía ser.
+EDN: Ha pasado tiempo, ¿no crees?... La verdad es que esta red ya no es lo que solía ser.
 CS: ¿Solía? ¡Yo creo recordar la red principal de nodos llegando a este mundo con toda la gracia de una bestia herida!
 EDN: Es cierto. Aunque siento que el deterioro está empeorando lentamente los problemas. ¡Apenas puedo mantener una conexión! 
 EDN: La cantidad de veces que tuve que tirar la... un momento. Estoy vieeendo aaal...

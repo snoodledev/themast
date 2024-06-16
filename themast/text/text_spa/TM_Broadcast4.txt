@@ -5,7 +5,7 @@ Miras a la Luna.
 Adjuntos dentro de esta emisión se encuentran una serie de elementos de acceso y un<LINE>permiso de modo manual para el sistema de bombeo del acuífero compartido de este complejo.
 Contiene todas las indicaciones de los consejos de supervisión,<LINE>y es capaz de cerrar por completo los consumos de Cinco Guijarros.
 Tenía la esperanza de que no llegara a esto.
-Solo puedo esperar que las sondas guía incrustadas se salten sus bloqueos sin que él se dé cuenta y este paquete llegue a ti.
+Solo puedo esperar que las sondas guía incrustadas se salten sus<LINE>bloqueos sin que él se dé cuenta y este paquete llegue hacia ti.
 Atentamente, un amigo.
 [[ FINALIZAR INFORME DE DIAGNÓSTICO Y REGISTRO DE ERRORES ]]
 ---

@@ -1,13 +1,13 @@
 0-TM_Broadcast3
-[RECORDED BROADCAST (LONGRANGE):1298.67] - PUBLIC GROUP [WANDERINGQUADRANTS] all participants anonymous
-AA: Have you seen any movements in the expanse lately?
-QR: Movements in what sense?
-AA: I've seen some kind of large structure piercing the cloud layer here and there, far from any cans.
-AA: It appears to be moving at quite a pace! It managed to encircle half of the western plateau in just a few cycles.
-QR: How curious! Is it releasing any transmissions?
-AA: I've not detected any signals from it, and it's too distant for my overseers to make out much visual detail...
-AA: But unless I'm misaken, this image I captured seems to be none other than a Yellow monasterial cupola!
-QR: Indeed it is! I'd recognise that design anywhere. What an odd place to see one!
-QR: My guess would be a semi-functional translation column, or perhaps a construction drone, but most were decommissioned long ago.
-QR: And that certainly doesn't explain the monasterial architecture...
-QR: Unless... are you at all familiar with the Abacus?
+【录制的广播（远程）：1298.67】- 公开群组【漫游象限】所有参与者皆为匿名
+AA：你最近有在这广阔区域里看见什么动静吗？
+QR：什么样的动静？
+AA：我看到某种大型结构穿透云层，出现在这儿那儿，离每个罐头都很远。
+AA：它似乎在以相当快的速度移动！只用几个雨循环就环绕了半个西部高原。
+QR：真让人好奇！它有没有发送什么信号？
+AA：我没有探测到来自它的任何信号，而且距离太远，我的监视者无法看到太多细节......
+AA：但除非我错了，我捕捉到的图像只会是一座黄色修道院的圆顶！
+QR：的确如此！在任何地方我都能认出这种设计。看到它出现在这个位置真奇怪！
+QR：我猜是一个半功能翻译柱，或者是一架建筑无人机，但它们中的大部分早就停止使用了。
+QR：而且这也无法解释修道院建筑......
+QR：除非......你了解过顶板吗？ 

@@ -1,17 +1,17 @@
 0-TM_Broadcast4
-[INCOMING REQUEST] - EQUIPMENT MANIFEST ? unknown group(NULL) all participants anonymous
-[[ DIAGNOSTICS REPORT AND ERROR LOG 0400x8.1 ]]
-Looks to the Moon.
-Enclosed within this broadcast are a series of access strains and an override permit to this complex's shared aquifer pump system.
-It contains every signage from the oversight councils, and is capable of a full shutdown of Five Pebbles' intakes.
-I had hoped it would not come to this.
-I can only hope that the embedded guiding probes bypass his blockades without him noticing, and this package crawls its way to you.
-Sincerely, a friend.
-[[ END DIAGNOSTICS REPORT AND ERROR LOG ]]
+【输入请求】- 设备清单？未知群组（空）所有参与者皆为匿名
+【诊断报告和错误日志0400x8.1】
+仰望皓月。
+这份广播附带了对建筑共用含水层泵系统的一系列接入方式和一个超控许可。
+它包含监督委员会的所有标识，能够完全关闭五块卵石的进水口。
+我曾希望事情不会发展到这一步。
+我只能寄希望于内嵌的导引探针能够在他毫无察觉的情况下绕过他的封锁。然后这个包裹最终会发给你。
+一位真诚的朋友。
+【诊断报告和错误日志结束】
 ---
-ATTEMPTING LOCAL TRANSFER...
-SPECIFIED BURROWING JOINT IS UNREADABLE. ATTEMPTING REPATHING...
-ATTEMPTING SECOND-ORDER REPATHING...
-ATTEMPTING ALTERNATE SEEDING...
-TRANSFER FAILED. ACCESS IS DENIED. 
-== LOCAL STASHING MANIFOLDS AT (2%...) ==
+尝试本地传输……
+指定节点无法读取。尝试重定向……
+尝试二阶重定向……
+尝试替代种子……
+传输失败。拒绝访问。
+== 本地副本保存（2%.……）==

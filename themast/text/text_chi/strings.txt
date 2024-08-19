@@ -1,0 +1,12 @@
+themast-name|通讯塔
+themast-description|位于世界西部的一个大型通讯塔。
+Eight Shells, Swaying Fronds|八分躯壳，霜凛觳觫
+Ashen Monolith|苍岩
+The Mast|通讯塔
+Primary Transmission Node|主传输节点
+Marsh Flats|沼地平野
+Scavenger Den|拾荒者巢穴
+dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|为了您和他人的安全请勿攀爬至顶端否则后果自负
+uh oh|啊，哦
+Yeek Flats|跃客平原
+Yeek Den|跃客巢穴

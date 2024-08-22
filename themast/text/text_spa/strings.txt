@@ -1,12 +1,25 @@
 0themast-name|El Mástil
 themast-description|Una nueva región en forma de una gran aguja de transmisión en el área occidental del mundo.
 The Mast|El Mástil
-Ashen Monolith|Monolito Ceniciento
-Primary Transmission Node|Nodo Principal de Transmisión
+Primary Transmission Node|Nodo de Transmisión Primario
 Marsh Flats|Planicies del Cenagal
 Scavenger Den|Guarida de Carroñeros
-Eight Shells, Swaying Fronds|Ocho Valvas, Frondas Bamboleantes
-dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|no subas a la cima de la región no lo hagas por tu propio bien lo juro si subes allí te arrepentirás inmensamente por el resto de tu vida
+Ashen Monolith|Monolito Cenizo
+dont climb to the top of the region please dont do it for your own good i swear if you go up there you will regret it immensely for the rest of your life|no subas hasta la cima de la región no lo hagas por tu propio bien lo juro si subes allí te arrepentirás inmensamente por el resto de tu vida
 uh oh|¡ay no!
 Yeek Flats|Planicies de los Yeeks
 Yeek Den|Guarida de Yeeks
+Eight Shells, Swaying Fronds|Ocho Armazones, Frondas Bamboleantes
+I sense a presence before me.|Siento una presencia delante de mí.
+A small creature, one of countless. An insignificant speck against the infinite.|Una criaturita, de innumerables. Un puntito insignificante contra el infinito.
+What does it seek, atop this ruined monolith? This grand feat of mechanical<LINE>ingenuity, this monument to the virtuosity of our kind..!|¿Qué busca en lo alto de este monolito en ruinas?, de esta gran hazaña de inventiva<LINE>mecánica, ¡de este monumento al virtuosismo de nuestra especie!...
+...now nothing more than a shard of rubble upon this decaying memory of a landscape...|... que ahora no es más que una esquirla de escombros sobre este recuerdo decadente de un paisaje...
+Does it feel the same carnal urge that I once possessed? The desire to be<LINE>free of the shackles that bind us to this plane, to travel beyond?|¿Siente la misma necesidad carnal que yo alguna vez tuve? ¿El deseo de ser<LINE>libre de las cadenas que nos atan a este plano y de viajar más allá?
+Indeed, there is a way, little one. But here...|Hay ciertamente una manera, pequeño. Pero aquí...
+I'm afraid you are searching in entirely the wrong place.|Me temo que estás buscando en el lugar absolutamente equivocado.
+This world is fracturing, little one.|Este mundo se está fracturando, pequeño.
+A slow, agonizing exhale, as long as time itself...<LINE>until there is nothing but remnants, nothing but dust.|Una exhalación lenta y angustiosa, tan larga como el tiempo mismo...<LINE>hasta que no haya nada más que restos y polvo.
+The end does not approach, you see. For it is already here.<LINE>We have departed, and nothing remains.|El fin no se acerca, ¿entiendes? Porque ya está aquí.<LINE>Hemos partido y no queda nada.
+As all fades into ashes and obscurities, I recall what once was... the eras of<LINE>enlightenment, the accomplishments, the glory, the power that was grasped...|Mientras todo se desvanece en cenizas y en el olvido, evoco lo que antes fue...<LINE>las eras de la iluminación, los logros, la gloria, el poder que fue alcanzado...
+It is all so distant now. Echoes of whispers of echoes, dying in<LINE>the winds that weather and decay and forget.|Ahora todo está tan distante. Ecos de susurros de ecos, muriendo en<LINE>los vientos que erosionan, deterioran y olvidan.
+Yet here I remain...|Y, sin embargo, yo continúo estando aquí...

@@ -8,4 +8,4 @@ GM: ¡Pero míranos! Esforzándonos todo este tiempo haciendo experimentos sumis
 GM: No estamos ni cerca de una respuesta que hace mil ciclos atrás, o incluso más.
 DSS: Se llama el Gran Problema por una razón. Si encontrar una solución<LINE>fuera tan fácil, la habría sido. No seas un inmaduro, ten algo de paciencia.
 GM: Solo tienes unos pocos ciclos más que yo, ¿sabes?
-DSS: Definitivamente no se siente que sea así a veces.
+DSS: A veces definitivamente no lo parece.

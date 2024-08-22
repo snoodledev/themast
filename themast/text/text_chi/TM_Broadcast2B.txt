@@ -1,18 +1,17 @@
 0-TM_Broadcast2B
-[RECORDED BROADCAST (LONGRANGE):1652.674] - PUBLIC GROUP [VALOROUSPEAKS] Epoch of Clouds, Winding Current (LR)
-== CONNECTION RE-ESTABLISHED ==
-CONVERSATION CHANNEL REROUTED, DISTENSION RESOLVED
----
-EOC: ...as I was saying about the degrading systems.
-WC: Fate truly has a way of instilling the most amusing misfortune upon us all. 
-WC: Now, before our ties are crossed once more - how have you all been? 
-EOC: Ah, not much has changed. Our Sliverist collective is still going strong, 
-EOC: Someone going by 'Erratic Pulse' has been leaping about the channels, probing and prying about all<LINE>manners of things. Seems to have a real interest in self-ascension - or to be blunt, more of an obsession. 
-WC: Any suspects?
-EOC: Don't tell anyone, but I think it may be Five Pebbles.
-WC: Oh, really? Moon's little brother?
-EOC: Oh, if he were monitoring this channel right now he would be most displeased!
-EOC: And yes, one and the same. He's not exactly subtle about it - barely even scrambled his chat codes, same colors and everything!
-WC: And you really don't think everyone else is also aware?
-EOC: They might be... I suppose nobody has much interest. We've had similar things happen before and nothing's ever come of them.
-EOC: I'm equal parts amused and concerned myself. I just hope he doesn't end up doing something he regrets. 
+【录制的广播（远程）：1652.674】- 公开群组【无畏之峰】云雾纪元、绕组电流（远程）
+== 重新建立连接 ==
+对话频道重定向，膨胀问题已解决
+云雾纪元：……我正说着逐渐退化的系统。
+绕组电流：命运确实有办法给予我们最有趣的不幸。
+绕组电流：说回来，在我们的纽带再次交叉之前——你们过得怎么样？
+云雾纪元：啊，没什么变化。我们分离派仍然在壮大。
+云雾纪元：有个叫“不稳脉冲”的一直在各个频道里窜来窜去，打听和刺探各种事情。他似乎对自我飞升非常感兴趣——或者直白点说，更像是一种痴迷。
+绕组电流：你觉得是谁？
+云雾纪元：别告诉别人，不过我认为可能是五块卵石。
+绕组电流：哦，真的？皓月的弟弟？
+云雾纪元：哦，如果他现在正监听这个频道，他会很不愉快的！
+云雾纪元：没错，就是他。他做得不怎么聪明——几乎没打乱他的聊天代码，颜色什么的都一样！
+绕组电流：你真的认为其他人都没有察觉吗？
+云雾纪元：他们或许知道……我想大家都没什么兴趣。以前也发生过类似的事，最后都不了了之。
+云雾纪元：我对此既感到好笑，又感到担忧。我只希望他最后不要做出让自己后悔的事情。 

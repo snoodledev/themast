@@ -1,13 +1,13 @@
 0-TM_Broadcast2C
-[RECORDED BROADCAST (LONGRANGE):1684.457] - PUBLIC GROUP [WINDINGEXPANSE] Epoch of Clouds, Winding Current (LR)
-== BROADCAST PARTIALLY DAMAGED, TAIL RECONSTRUCTED ==
-WC: ...and what of Looks to the Moon?
-EOC: She has been completely unavailable for quite some time. Some of us are getting quite concerned.
-WC: And you've tried other ways of establishing contact?
-EOC: Countless times, every functional array in the facility grounds. It's either in total lockdown, or intentionally being blocked. 
-EOC: We've tried the substrats, the lower bands, even this node, but all incoming requests are instantly denied. 
-EOC: There's nothing we can do. 
-WC: You've tried. You've all tried very hard, and that's all you can do.
-EOC: It's strange, to feel so helpless.
-EOC: We were built for the sole purpose of assisting other lifeforms... yet we cannot even help our own kind.
-WC: I hope for their safety...
+【录制的广播（远程）：1684.457】- 公开群组【广域绕组】云雾纪元，绕组电流（远程）
+== 广播部分损坏，尾端已重构 ==
+绕组电流：……仰望皓月怎么样？
+云雾纪元：已经有段时间完全联系不上她了。我们中的一些人开始感到非常担忧。
+绕组电流：你们尝试过其它方式来建立连接吗？
+云雾纪元：试了无数次，辖区内每个还在运行的阵列都试过了。它们不是处在完全封闭状态，就是被故意屏蔽了。
+云雾纪元：我们尝试过子平台、低频段，甚至这个节点。但是所有传入请求都会被立刻拒绝。
+云雾纪元：我们什么都做不了。
+绕组电流：你们尝试过了。你们都非常努力，这已经是能做的一切了。
+云雾纪元：很奇怪，感觉如此无助。
+云雾纪元：我们被建造的唯一目的是帮助其它生命形式……然而我们甚至无法帮助自己的同类。
+绕组电流：我希望他们平安无事……

@@ -1,11 +1,11 @@
 0-TM_Broadcast1
-[RECORDED BROADCAST (LONGRANGE):1541.219] - PUBLIC GROUP [SHARDSOFMELDEDGLASS] all participants anonymous
-GM: You don't suppose they were onto something?
-DSS: Not in the slightest. 
-GM: But if you really consider it...
-DSS: I find the mere suggestion absurd. To even think that our very creators set us up with a task they never believed we would finish...
-GM: But look at us! All this time toiling away, doing menial experiment after redundant repetition. 
-GM: We're no closer to an answer than we were a thousand cycles ago, or a thousand before that.
-DSS: It is called the Great Problem for a reason. If a solution could be found so readily, it would have been. Have some patience, child.
-GM: You're only a few cycles older than I am, you know. 
-DSS: It certainly doesn't feel that way sometimes.
+【录制的广播（远程）：1541.219】- 公开群组【熔融碎璃】所有参与者皆为匿名
+GM：你不觉得他们有什么发现吗？
+DSS：一点也不。
+GM：但是如果你仔细想想……
+DSS：我只觉得荒谬。竟然认为创造者给我们安排了一项他们也不相信我们能完成的任务……
+GM：但是看看我们！所有辛勤工作的时间，所有这些无用的重复实验。
+GM：我们并不比一千个或再一千个雨循环之前更接近答案。
+DSS：它被称为伟大问题是有原因的。如果那么容易，答案早就找到了。耐心点，孩子。
+GM：你只比我大几个雨循环而已，你知道的。
+DSS：有时候我确实不这么觉得。 

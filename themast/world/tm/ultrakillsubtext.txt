@@ -1,5 +1,5 @@
 base : the mast
-the mast : 1 : heaven-piercing stick
-primary transmission node : 0
-marsh flats : 2
-scavenger den : -1
+The Mast : 1 : heaven-piercing stick
+Primary Transmission Node : 0
+Marsh Flats : 2
+Scavenger Den : -1

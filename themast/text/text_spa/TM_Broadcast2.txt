@@ -1,12 +1,12 @@
 0-TM_Broadcast2
-[EMISIÓN GRABADA (DE LARGO ALCANCE):1652.672] - GRUPO PÚBLICO [CIMASVALEROSAS] Época de Nubes, Corriente Sinuosa (DLA)
+[EMISIÓN GRABADA (DELARGOALCANCE):1652.672] - GRUPO PÚBLICO [CIMASVALEROSAS] Época de Nubes, Corriente Sinuosa (DLA)
 EDN: ¡Saludos desde lejos!
-CS: ¡Ah, Época! Un placer volver a escucharte de tu lado de los valles.
+CS: ¡Ah, Época! Un placer volver a escuchar de tu lado de los valles.
 EDN: ¡Igualmente!
-EDN: Ha pasado algo de tiempo, ¿no crees?... La verdad es que esta red ya no es lo que solía ser.
-CS: ¿Solía? ¡Yo creo recordar la red principal de nodos llegando a este mundo con toda la gracia de una bestia herida!
+EDN: Ha pasado tiempo, ¿no crees?... La verdad es que esta red ya no es lo que solía ser.
+CS: ¿«Lo que solía ser»? ¡Creo recordar la red de nodos primarios llegando a este mundo con toda la gracia de una bestia herida!
 EDN: Es cierto. Aunque siento que el deterioro está empeorando lentamente los problemas. ¡Apenas puedo mantener una conexión! 
-EDN: La cantidad de veces que tuve que tirar la... un momento. Estoy vieeendo aaal...
+EDN: La cantidad de veces que tuve que drenar la... un momento. Estoy vieeendo aaal...
 ---
 ERROR GRAVE: ELEMENTO LLAVE DE CIERRE DISTENDIDO
 ERROR GRAVE: SÍMBOLO INVÁLIDO EN LOS METADATOS, ENTRADA 578.48>>>>
